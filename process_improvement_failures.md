@@ -44,7 +44,7 @@ These reasons are very interesting and every individual will rate these differen
 
 To be honest, project failures never come as a surprise. In many cases, project managers are busy fighting dragons and building team morale throughout the entirety of a project. So the possibility for failure will very often be identified early on. However, I believe that having an effective change management strategy in place, as well as managerial involvement and commitment (in all aspects of the project), can decrease the likelihood of an improvement project failing. 
 
-In my upcoming blog, I'll look at the major themes underlying process improvement failures and the opportunities this represents for a potential continuous improvement framework.
+In my upcoming blog, I'll look at the major themes underlying process improvement failures and the opportunities this presents for a potential continuous improvement framework.
 
 [1] [The ‘how’ of transformation. (2016, May 9). McKinsey & Company.](https://www.mckinsey.com/industries/retail/our-insights/the-how-of-transformation)
 
