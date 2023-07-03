@@ -1,5 +1,8 @@
 # Learning from mistakes: Reasons behind improvement project failures.
 
+>Charleen Newland<br/>
+>*July 3, 2023*<br/>
+
 >*Reading Time: 3 mins*
 
 ![pro_impro](https://github.com/charleennewland/blog/assets/138404574/40746539-68b5-4d05-9335-95e94ec31a8d)
