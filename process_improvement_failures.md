@@ -8,7 +8,7 @@
 ![pro_impro](https://github.com/charleennewland/blog/assets/138404574/40746539-68b5-4d05-9335-95e94ec31a8d)
 
 
-I think we've all experienced instances where projects we've managed either fell short of the desired goal or did so ineffectively.<br/> 
+I think we've all experienced instances where projects we've managed either fell short of the desired goal or did so inefficiently.<br/> 
 One constructive way to assess if and why a project has (not) been successful is by doing a good ol’ fashioned evaluation round at the end of the project. 
 
 If we regularly evaluate projects, we will probably come up with enough material to write books on the reasons for improvement project failures. Evaluation rounds can also point out the weaknesses of team members and stakeholders, which gives us all (myself included) opportunities to improve. No one is perfect, y'all 🙂. In reality, there isn't always time for a proper evaluation. Lucky for us, there is some research out there that can give us an idea of the reasons for these types of failures. In this post, I will highlight one study that I find particularly interesting. 
