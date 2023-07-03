@@ -43,6 +43,6 @@ Lack of top management commitment to project implementation, monitoring and cont
 	
 To be honest, project failures are seldom unexpected. In many cases, Project Managers fight dragons and try to build morale throughout the entirety of a project. And let’s not get started on sustaining continuous improvement efforts. However, I believe that having an effective change management strategy and managerial involvement and commitment in each part of the project can reduce the chances of an improvement project failing. 
 
-[1] The ‘how’ of transformation. (2016, May 9). McKinsey & Company. https://www.mckinsey.com/industries/retail/our-insights/the-how-of-transformation
+[1] [The ‘how’ of transformation. (2016, May 9). McKinsey & Company.](https://www.mckinsey.com/industries/retail/our-insights/the-how-of-transformation)
 
-[2] Antony, J., Lizarelli, F. L., Fernandes, M. M., Dempsey, M., Brennan, A., & McFarlane, J. (2019). A study into the reasons for process improvement project failures: results from a pilot survey. International Journal of Quality & Reliability Management.
+[2] [Antony, J., Lizarelli, F. L., Fernandes, M. M., Dempsey, M., Brennan, A., & McFarlane, J. (2019). A study into the reasons for process improvement project failures: results from a pilot survey. International Journal of Quality & Reliability Management.](https://pureportal.strath.ac.uk/en/publications/a-study-into-the-reasons-for-process-improvement-project-failures)
