@@ -12,7 +12,7 @@ If we regularly evaluate projects, we will probably come up with enough material
 
 While doing some research for a survey paper that I am writing on continuous improvement, I realised that there is a great deal of interest in the reasons behind improvement project failures, which makes a lot of sense given that McKinsey & Company [1] found that 70% of complicated, large-scale change programs fail. These failures cost the company time and manpower, which in most cases amount to a considerable financial loss. To avoid financial loss, it would be sensible for companies to identify the root causes of project failures and design a strategy that will enable them to get the full benefits out of improvement projects.
 	 	 		
-### *The top ten causes of improvement project failures, as outlined by the empirical study in [2], are as follows:*
+### *The ten causes of improvement project failures, as outlined by the empirical study in [2], are as follows:*
 
 - Lack of commitment and support from top management 
 - Poor communication practices 
