@@ -5,13 +5,14 @@
 ![pro_impro](https://github.com/charleennewland/blog/assets/138404574/c15dc762-879c-4a18-abc1-538ed43afe84)
 
 
-I think we've all experienced instances where the projects we've managed either fell short of the desired goal or did so ineffectively. One constructive way to assess if and why a project has (not) been successful is by doing a good ol’ fashioned evaluation round at the end of the project. 
+I think we've all experienced instances where projects we've managed either fell short of the desired goal or did so ineffectively.<br/> 
+One constructive way to assess if and why a project has (not) been successful is by doing a good ol’ fashioned evaluation round at the end of the project. 
 
-If we regularly evaluate projects, we will probably come up with enough material to write books on the reasons for improvement failures. Evaluation rounds can also point out the weaknesses of team members and stakeholders, which gives us all (myself included) opportunities to improve. No one is perfect, y'all 🙂. In reality, there isn't always time for a proper evaluation. Lucky for us, there is some research out there that can give us an idea of the reasons for improvement failures. In this post, I will highlight one that I find particularly interesting. 
+If we regularly evaluate projects, we will probably come up with enough material to write books on the reasons for improvement project failures. Evaluation rounds can also point out the weaknesses of team members and stakeholders, which gives us all (myself included) opportunities to improve. No one is perfect, y'all 🙂. In reality, there isn't always time for a proper evaluation. Lucky for us, there is some research out there that can give us an idea of the reasons for improvement failures. In this post, I will highlight one study that I find particularly interesting. 
 
-While doing some research for a survey paper that I am writing on continuous improvement, I realised that there is a great deal of interest in the reasons behind improvement project failures, which makes a lot of sense given that McKinsey & Company [1] found that 70% of complicated, large-scale change programs fail. These failures cost the company time and manpower, which in most cases amount to a considerable financial loss. To avoid financial loss, companies should identify the root causes of project failures and design a strategy that will enable them to get the full benefits out of improvement projects.
+While doing some research for a survey paper that I am writing on continuous improvement, I realised that there is a great deal of interest in the reasons behind improvement project failures, which makes a lot of sense given that McKinsey & Company [1] found that 70% of complicated, large-scale change programs fail. These failures cost the company time and manpower, which in most cases amount to a considerable financial loss. To avoid financial loss, it would be sensible for companies to identify the root causes of project failures and design a strategy that will enable them to get the full benefits out of improvement projects.
 	 	 		
->*The top ten causes of improvement project failures, as outlined by the empirical study in [2], are as follows:*
+### *The top ten causes of improvement project failures, as outlined by the empirical study in [2], are as follows:*
 
 - Lack of commitment and support from top management 
 - Poor communication practices 
@@ -26,7 +27,7 @@ While doing some research for a survey paper that I am writing on continuous imp
 
 These reasons are very interesting and every individual will rate these differently based on their situation. We could go into each of these reasons as separate topics, but to keep this post short, let's have a look at the two most common reasons of improvement project failures (as chosen by respondents in the study).
 					
-*I. Resistance to change (partial cooperation by employees)*
+### *I. Resistance to change (partial cooperation by employees)*
 
 >The major contributors in this area are:
 - Employee resistance to change
@@ -34,7 +35,7 @@ These reasons are very interesting and every individual will rate these differen
 - A lack of strategies‌ to convince resistant employees to maintain a positive mindset regarding process improvement projects. 
 
 			
-*II. Lack of commitment and support from top management* 
+### *II. Lack of commitment and support from top management* 
 >The key drivers in this area are:
 		 	 	 		
 - Top management not being involved in goal setting or project selection.
@@ -43,8 +44,8 @@ These reasons are very interesting and every individual will rate these differen
 
 To be honest, project failures never come as a surprise. In many cases, project leaders are busy fighting dragons and building team morale throughout the entirety of a project. So the possibility for failure will very often be identified early on. However, I believe that having an effective change management strategy in place, as well as managerial involvement and commitment (in all aspects of the project), can decrease the likelihood of an improvement project failing. 
 
-In my upcoming blog, I'll look at the major themes underlying process improvement failures and the opportunities this gives for developing a continuous improvement framework.
+In my upcoming blog, I'll look at the major themes underlying process improvement failures and the opportunities this represents for a potential continuous improvement framework.
 
-[1] The ‘how’ of transformation. (2016, May 9). McKinsey & Company.
+[1] [The ‘how’ of transformation. (2016, May 9). McKinsey & Company.](https://www.mckinsey.com/industries/retail/our-insights/the-how-of-transformation)
 
-[2] Antony, J., Lizarelli, F. L., Fernandes, M. M., Dempsey, M., Brennan, A., & McFarlane, J. (2019). A study into the reasons for process improvement project failures: results from a pilot survey. International Journal of Quality & Reliability Management.
+[2] [Antony, J., Lizarelli, F. L., Fernandes, M. M., Dempsey, M., Brennan, A., & McFarlane, J. (2019). A study into the reasons for process improvement project failures: results from a pilot survey. International Journal of Quality & Reliability Management.](https://pureportal.strath.ac.uk/en/publications/a-study-into-the-reasons-for-process-improvement-project-failures)
