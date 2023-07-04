@@ -41,7 +41,7 @@ These reasons are very interesting and every individual will rate these differen
 ### *II. Lack of commitment and support from top management* 
 >The key drivers in this area are:
 		 	 	 		
-- Top management not being involved in goal setting or project selection.
+- Top management not being involved in goal setting or project selection
 - Lack of top management commitment in project planning and resource allocation
 - Lack of top management commitment to project implementation, monitoring and controlling.	
 
