@@ -73,7 +73,7 @@ As I previously stated, these are only a few examples. We could go wild if we wa
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f2858360-4591-405a-b9f1-5d0e3d8fe226/400/300">
 </p>
 
-In order to develop an operational excellence maturity model, we must first understand the purpose of the model's key concepts. In this blog post, we focused on the definition of continuous improvement, and in the one after this, we'll concentrate on the definition of operational excellence.
+To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In part 1 we concentrated on the definition of continuous improvement, and part 2 will focus on the definition of operational excellence. Part 3 will go through the process of developing an operational excellence maturity model.
 
 #### The primary takeaways here are:
 
