@@ -67,7 +67,7 @@ In order to develop an operational excellence maturity model, we must first unde
 
 [1] [Deming, W. E. (2018). Out of the Crisis, reissue. MIT press.](https://books.google.nl/books?hl=en&lr=&id=RTNwDwAAQBAJ&oi=fnd&pg=PR7&dq=Deming,+W.+E.+(2018).+Out+of+the+Crisis,+reissue.+MIT+press.&ots=V1uph2HaNX&sig=2zBcVkpTm1Mc-sLQEqdW3M3u464&redir_esc=y#v=onepage&q=Deming%2C%20W.%20E.%20(2018).%20Out%20of%20the%20Crisis%2C%20reissue.%20MIT%20press.&f=false)
  <br>
-[2] Bessant, J., Caffyn, S., & Gallagher, M. (2001). An evolutionary model of continuous improvement behaviour. Technovation, 21(2), 67-77.<br>
+[2] [Bessant, J., Caffyn, S., & Gallagher, M. (2001). An evolutionary model of continuous improvement behaviour. Technovation, 21(2), 67-77](https://www.sciencedirect.com/science/article/abs/pii/S0166497200000237) <br>
 [3] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation: a (retro)(per)spective. International Journal of Technology Management, 26(8), 805-827.<br>
 [4] Singh, J., & Singh, H. (2015). Continuous improvement philosophy–literature review and directions. Benchmarking: An International Journal, 22(1), 75-119. <br>
 [5] Sanchez, L., & Blanco, B. (2014). Three decades of continuous improvement. Total Quality Management & Business Excellence, 25(9-10), 986-1001.<br>
