@@ -1,7 +1,10 @@
 # Unlocking the Potential of an Operational Excellence Maturity Model
 ## Part I. Understanding the Basics: Continuous Improvement 
 
+>[Charleen Newland](http://newlandcharleen.com/)<br/>
+>*August 9th, 2023*<br/>
 
+>*Reading Time: 3 mins*
 
 In my last blog post, we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. 
 
