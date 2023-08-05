@@ -17,7 +17,6 @@ In my last [blog post](https://github.com/charleennewland/blog/blob/post02/proce
   <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f7fd2a30-dc56-479c-ac61-48b921956446/300/300">
 </p>
 
-
 Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog post will focus on operational excellence.
 
 #### What is Continuous Improvement?
@@ -42,12 +41,12 @@ Value-added activities are always viewed from the customer's perspective. Value-
 #### Types of waste
 The lean methodology knows eight types of waste: defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra-processing. <br>
 
+*Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
+
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2/460/300">
 </p>
 <br>
-
-*Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
 
 In the aircraft maintenance industry, there is an inspection called Required Inspection Item (RII). This is ‌a specific inspection of any maintenance task that, if done improperly, could result in immediate danger to an aircraft. For an RII, a certified RII inspector must examine (under FAA guidelines) whether the task was performed correctly. Although this inspection would be considered extra processing, it is necessary for both safety and airworthiness.
 
