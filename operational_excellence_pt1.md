@@ -51,7 +51,7 @@ The lean methodology knows eight types of waste: defects, overproduction, waitin
 In the aircraft maintenance industry, there is an inspection called Required Inspection Item (RII). This is ‌a specific inspection of any maintenance task that, if done improperly, could result in immediate danger to an aircraft. For an RII, a certified RII inspector must examine (under FAA guidelines) whether the task was performed correctly. Although this inspection would be considered extra processing, it is necessary for both safety and airworthiness.
 
 #### Tools and methods
-The field of continuous improvement knows a wide variety of tools and methods. These are the methods used to make improvements to business processes. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [5] into continuous improvement found 33 different continuous improvement tools, and another [6] lists 85 different improvement methods and tools. 
+The field of continuous improvement knows a wide variety of tools and methods. These are the methods used to improve business operations. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [5] into continuous improvement found 33 different continuous improvement tools, and another [6] lists 85 different improvement methods and tools. 
 
 Contrary to long-held beliefs, these tools and methods can be used in practically all processes and not just in manufacturing processes. Some of these tools and methods are:
 
