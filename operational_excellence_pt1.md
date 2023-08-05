@@ -45,7 +45,7 @@ The lean methodology knows eight types of waste:
 - waiting - wasting time awaiting a preceding process to finish before moving forward
 - non utilized talent - organisation loses time, ideas, skills, improvements when not involving employees
 - transportation - excessive movement of resources or information not essential to the the product/service
-- inventory - inventory or information that is sitting idle (not being processed)
+- inventory - quantities of products, materials, and information beyond what is immediately necessary
 - motion - unnecessary movement by people or movement that does not add value to the product or service
 - extra-processing - activity that is not required to produce a product or service.
    <br>
