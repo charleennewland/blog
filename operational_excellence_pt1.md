@@ -41,13 +41,13 @@ Value-added activities are always viewed from the customer's perspective. Value-
 #### Types of waste
 The lean methodology knows eight types of waste:
 - defects - products or services that do not meet customers specifications and require resources to rectify
-- overproduction - producing products in excess before it has been requested by the customer
+- overproduction - producing products in excess before they are truly needed
 - waiting - wasting time awaiting a preceding process to finish before proceeding
 - non-utilized talent -
-- transportation - excessive movement of resources or information not essential to the process
+- transportation - excessive movement of resources or information not essential to the the product/service
 - inventory - inventory or information that is sitting idle (not being processed)
-- motion - unnecessary motion due to workspace layout
-- extra-processing - activity that is not necessary to produce a functioning product or service
+- motion - unnecessary movement by people or movement that does not add value to the product or service
+- extra-processing - activity that is not required to produce a product or service
    <br>
 
 *Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
