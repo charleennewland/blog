@@ -36,7 +36,7 @@ The objective of the lean methodology is to eliminate waste from processes.
 
 Any activity that, in the eyes of the customer, does not add to the value of a product or service is considered non-value added. Non-value added activities consume resources and, in lean terms, are considered waste in a process. 
 
-Value-added activities are always viewed from the customer's perspective. Value-added activities are those that efficiently and inexpensively transform a product from raw material to finished product. The best way to distinguish value-added from non-value added activities is to ask the following: “Is the customer willing to pay for it?”. If the customer is not willing to pay for it, it is considered non-value added.
+Value-added activities are always viewed from the customer's perspective. Value-added activities are those that efficiently and inexpensively transform a product from raw material to finished product. The best way to distinguish value-added from non-value added activities is to ask the following: *“Is the customer willing to pay for it?”*. If the customer is not willing to pay for it, it is considered non-value added.
 
 #### Types of waste
 The lean methodology knows eight types of waste:
