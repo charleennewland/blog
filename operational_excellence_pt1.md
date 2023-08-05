@@ -14,7 +14,7 @@ In my last [blog post](https://github.com/charleennewland/blog/blob/post02/proce
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f7fd2a30-dc56-479c-ac61-48b921956446/460/300">
+  <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f7fd2a30-dc56-479c-ac61-48b921956446/300/300">
 </p>
 
 
