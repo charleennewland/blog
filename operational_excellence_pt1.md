@@ -10,6 +10,8 @@
 
 
 In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. 
+![focus](https://github.com/charleennewland/blog/assets/138404574/f7fd2a30-dc56-479c-ac61-48b921956446)
+
 
 Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog post will focus on operational excellence.
 
