@@ -1,18 +1,19 @@
 # Unlocking the Potential of an Operational Excellence Maturity Model
-## Part I. Understanding the Basics: Continuous Improvement 
+>## Part I. Understanding the Basics: Continuous Improvement
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*August 9th, 2023*<br/>
-
 >*Reading Time: 3 mins*
 
-In my last blog post, we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. 
+![wepik-export-20230729004728u9hJ](https://github.com/charleennewland/blog/assets/138404574/5350b323-97c0-4baf-9934-cc8565262ac3)
+
+In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. 
 
 Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog} post will focus on operational excellence.
 
 #### What is Continuous Improvement?
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
-In the work of Deming [1] continuous improvement is defined as “Improve constantly and forever the system of production and service (Principle 5 of transformation).” While Bessant et al. [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to Boer et al., [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
+In the work of Deming [1] continuous improvement is defined as “Improve constantly and forever the system of production and service (Principle 5 of transformation).” While Bessant et al. [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to Boer et al. [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
 
 These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and strong emphasis on the practical aspect:
 
@@ -37,7 +38,7 @@ The lean methodology knows eight types of waste: defects, overproduction, waitin
 In the aircraft maintenance industry, there is an inspection called Required Inspection Item (RII). This is ‌a specific inspection of any maintenance task that, if done improperly, could result in immediate danger to an aircraft. For an RII, a certified RII inspector must examine (under FAA guidelines) whether the task was performed correctly. Although this inspection would be considered extra processing, it is necessary for both safety and airworthiness.
 
 #### Tools and methods
-The field of continuous improvement knows a wide variety of tools and methods. These are the methods used to make improvements to business processes. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [5] into continuous improvement found 33 different continuous improvement tools, and another [6] lists 85 different improvement methods. 
+The field of continuous improvement knows a wide variety of tools and methods. These are the methods used to make improvements to business processes. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [5] into continuous improvement found 33 different continuous improvement tools, and another [6] lists 85 different improvement methods and tools. 
 
 Contrary to long-held beliefs, these tools and methods can be used in practically all processes and not just in manufacturing processes. Some of these tools and methods are:
 
