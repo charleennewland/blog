@@ -37,6 +37,7 @@ Value-added activities are always viewed from the customer's perspective. Value-
 
 #### Types of waste
 The lean methodology knows eight types of waste: defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra-processing. <br>
+
 ![careful](https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2)
 <br>
 
@@ -60,6 +61,9 @@ Contrary to long-held beliefs, these tools and methods can be used in practicall
 - Value stream mapping
 - Failure mode and effect analysis
 - Single-minute exchange of die (SMED)
+
+As I previously stated, these are only a few examples.
+![kidincandystore](https://github.com/charleennewland/blog/assets/138404574/f2858360-4591-405a-b9f1-5d0e3d8fe226)
 
 In order to develop an operational excellence maturity model, we must first understand the purpose of the model's key concepts. In this blog post, we focused on the definition of continuous improvement, and in the one after this, we'll concentrate on the definition of operational excellence.
 
