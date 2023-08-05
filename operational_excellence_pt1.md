@@ -42,7 +42,6 @@ Value-added activities are always viewed from the customer's perspective. Value-
 #### Types of waste
 The lean methodology knows eight types of waste: defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra-processing. <br>
 
-![careful](https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2)
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2/460/300">
 </p>
