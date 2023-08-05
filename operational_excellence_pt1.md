@@ -25,7 +25,7 @@ In the work of **Deming** [1] continuous improvement is defined as “Improve co
 
 These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and strong emphasis on the practical aspect:
 
-*“continuous improvement or Kai-Zen (kai - change and zen - well) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants”[4].*
+**“continuous improvement or Kai-Zen (kai - change and zen - well) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants”[4].**
 
 This means that every employee actively and consistently looks for ways to reduce non-value added activity.
 
