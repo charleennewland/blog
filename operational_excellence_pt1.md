@@ -67,7 +67,7 @@ Contrary to long-held beliefs, these tools and methods can be used in practicall
 - Failure mode and effect analysis
 - Single-minute exchange of die (SMED)
 
-As I previously stated, these are only a few examples.<br>
+As I previously stated, these are only a few examples. We could go wild if we wanted to. <br>
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f2858360-4591-405a-b9f1-5d0e3d8fe226/460/300">
