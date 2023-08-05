@@ -1,5 +1,5 @@
 # Unlocking the Potential of an Operational Excellence Maturity Model
->## Part I. Understanding the Basics: Continuous Improvement
+## Part I. Understanding the Basics: Continuous Improvement
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*August 9th, 2023*<br/>
