@@ -42,7 +42,7 @@ Value-added activities are always viewed from the customer's perspective. Value-
 The lean methodology knows eight types of waste:
 - defects - products or services that do not meet customers specifications and require resources to rectify
 - overproduction - producing products in excess before they are truly needed
-- waiting - wasting time awaiting a preceding process to finish before proceeding
+- waiting - wasting time awaiting a preceding process to finish before moving forward
 - non utilized talent - organisation loses time, ideas, skills, improvements when not involving employees
 - transportation - excessive movement of resources or information not essential to the the product/service
 - inventory - inventory or information that is sitting idle (not being processed)
