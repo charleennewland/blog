@@ -3,13 +3,14 @@
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*August 9th, 2023*<br/>
+
 >*Reading Time: 3 mins*
 
 ![wepik-export-20230729004728u9hJ](https://github.com/charleennewland/blog/assets/138404574/5350b323-97c0-4baf-9934-cc8565262ac3)
 
 In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. 
 
-Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog} post will focus on operational excellence.
+Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog post will focus on operational excellence.
 
 #### What is Continuous Improvement?
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
@@ -17,9 +18,9 @@ In the work of Deming [1] continuous improvement is defined as “Improve consta
 
 These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and strong emphasis on the practical aspect:
 
-*“continuous improvement or Kai-Zen (Kai meaning change and zen meaning improve) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants”[4].*
+*“continuous improvement or Kai-Zen (kai - change and zen - well) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants”[4].*
 
-This means that every employee actively and consistently looks for methods to reduce non-value added activity.
+This means that every employee actively and consistently looks for ways to reduce non-value added activity.
 
 #### Value-added and non-value added activities
 
@@ -63,9 +64,9 @@ In order to develop an operational excellence maturity model, we must first unde
 - The entire organization should be involved in the continuous improvement efforts
 - There are numerous tools and techniques available to manage improvement initiatives. The appropriate tool should be chosen based on the situation.
 
-[1] Deming, W. E. (2018). Out of the Crisis, reissue. MIT press
-[2] Bessant, J., Caffyn, S., & Gallagher, M. (2001). An evolutionary model of continuous improvement behaviour. Technovation, 21(2), 67-77.
-[3] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation: a (retro)(per)spective. International Journal of Technology Management, 26(8), 805-827.
-[4] Singh, J., & Singh, H. (2015). Continuous improvement philosophy–literature review and directions. Benchmarking: An International Journal, 22(1), 75-119.
-[5] Sanchez, L., & Blanco, B. (2014). Three decades of continuous improvement. Total Quality Management & Business Excellence, 25(9-10), 986-1001.
-[6] Harrington, H. J., & Lomax, K. C. (2000). Performance improvement methods: Fighting the war on waste. (No Title).
+[1] Deming, W. E. (2018). Out of the Crisis, reissue. MIT press. <br>
+[2] Bessant, J., Caffyn, S., & Gallagher, M. (2001). An evolutionary model of continuous improvement behaviour. Technovation, 21(2), 67-77.<br>
+[3] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation: a (retro)(per)spective. International Journal of Technology Management, 26(8), 805-827.<br>
+[4] Singh, J., & Singh, H. (2015). Continuous improvement philosophy–literature review and directions. Benchmarking: An International Journal, 22(1), 75-119. <br>
+[5] Sanchez, L., & Blanco, B. (2014). Three decades of continuous improvement. Total Quality Management & Business Excellence, 25(9-10), 986-1001.<br>
+[6] Harrington, H. J., & Lomax, K. C. (2000). Performance improvement methods: Fighting the war on waste. (No Title).<br>
