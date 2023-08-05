@@ -43,7 +43,7 @@ The lean methodology knows eight types of waste:
 - defects - products or services that do not meet customers specifications and require resources to rectify
 - overproduction - producing products in excess before they are truly needed
 - waiting - wasting time awaiting a preceding process to finish before moving forward
-- non utilized talent - organisation loses time, ideas, skills, improvements when not involving employees
+- non utilized talent - losing time, ideas, skills, improvements when not involving employees
 - transportation - excessive movement of resources or information not essential to the the product/service
 - inventory - quantities of products, materials, and information beyond what is immediately necessary
 - motion - unnecessary movement by people or movement that does not add value to the product or service
