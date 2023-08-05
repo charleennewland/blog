@@ -39,7 +39,16 @@ Any activity that, in the eyes of the customer, does not add to the value of a p
 Value-added activities are always viewed from the customer's perspective. Value-added activities are those that efficiently and inexpensively transform a product from raw material to finished product. The best way to distinguish value-added from non-value added activities is to ask the following: “Is the customer willing to pay for it?”. If the customer is not willing to pay for it, it is considered non-value added.
 
 #### Types of waste
-The lean methodology knows eight types of waste: defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra-processing. <br>
+The lean methodology knows eight types of waste:
+- defects - products or services that do not meet customers specifications and require resources to rectify
+- overproduction - producing products in excess before it is ready for sale
+- waiting - unplanned downtime or Idle equipment
+- non-utilized talent
+- transportation - excessive movement of resources does not add value
+- inventory - excessive inventories don’t add value
+- motion - unnecessary motion results in non-value-added time and unnecessary cost
+- extra-processing.
+   <br>
 
 *Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
 
