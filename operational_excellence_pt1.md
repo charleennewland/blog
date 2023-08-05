@@ -7,7 +7,7 @@
 >*Reading Time: 3 mins*
 
 ![pt1](https://github.com/charleennewland/blog/assets/138404574/27abaae5-1041-4ce0-b04b-d2aebf650760)
-:----------------------------------------------------------------------------------------------------:
+
 
 In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. <br>
 
