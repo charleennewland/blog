@@ -10,6 +10,7 @@
 
 
 In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. <br>
+
 ![focus](https://github.com/charleennewland/blog/assets/138404574/f7fd2a30-dc56-479c-ac61-48b921956446) <br>
 
 
@@ -35,7 +36,9 @@ Any activity that, in the eyes of the customer, does not add to the value of a p
 Value-added activities are always viewed from the customer's perspective. Value-added activities are those that efficiently and inexpensively transform a product from raw material to finished product. The best way to distinguish value-added from non-value added activities is to ask the following: “Is the customer willing to pay for it?”. If the customer is not willing to pay for it, it is considered non-value added.
 
 #### Types of waste
-The lean methodology knows eight types of waste: defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra-processing.
+The lean methodology knows eight types of waste: defects, overproduction, waiting, non-utilized talent, transportation, inventory, motion, and extra-processing. <br>
+![careful](https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2)
+<br>
 
 *Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
 
