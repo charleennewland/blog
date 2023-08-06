@@ -20,19 +20,14 @@ In my last [blog post](https://github.com/charleennewland/blog/blob/post02/proce
 Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog post will focus on operational excellence.
 
 #### What is Continuous Improvement?
-After successful CI strategic
-implementation, some cases show that companies achieved 15-30 per cent reduction in
-maintenance cost, while others revealed a 90 per cent reduction in process defects and 40-50 per
-cent increase in labour productivity [1a]
-
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
 In the work of **Deming** [1] continuous improvement is defined as “Improve constantly and forever the system of production and service (Principle 5 of transformation).” While **Bessant et al**., [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to **Boer & Gertsen**. [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
 
-These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and strong emphasis on the practical aspect:
+These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and a strong emphasis on the practical aspect:
 
 **“continuous improvement or Kai-Zen (kai - change and zen - well) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants”[4].**
 
-This means that every employee actively and consistently looks for ways to reduce non-value added activity.
+This means that every employee actively and consistently looks for ways to reduce non-value added activity which should result in an increase in productivity and profitability. Nakajami's work [1a] states that after successful continuous improvement implementation, some cases show that companies were able to reduce maintenance costs by 15% to 30%, while others revealed a 90% reduction in process defects and a 40%–50% gain in labour productivity.
 
 #### Value-added and non-value added activities
 
@@ -45,14 +40,14 @@ Value-added activities are always viewed from the customer's perspective. Value-
 
 #### Types of waste
 The lean methodology knows eight types of waste:
-- defects - products or services that do not meet customers specifications and require resources to rectify
+- defects - products or services that do not meet customers' specifications and require resources to rectify
 - overproduction - producing products in excess before they are truly needed
 - waiting - wasting time awaiting a preceding process to finish before moving forward
-- non utilized talent - losing time, ideas, skills, improvements when not involving employees
+- non-utilized talent - losing time, ideas, skills, and improvements when not involving employees
 - transportation - excessive movement of resources or information not essential to the product or service
 - inventory - quantities of products, materials, and information beyond what is immediately necessary
 - motion - unnecessary movement by people or movement that does not add value to the product or service
-- extra-processing - activity that is not required to produce a product or service.
+- extra-processing - an activity that is not required to produce a product or service.
    <br>
 
 *Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
