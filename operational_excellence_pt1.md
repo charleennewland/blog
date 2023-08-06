@@ -20,6 +20,11 @@ In my last [blog post](https://github.com/charleennewland/blog/blob/post02/proce
 Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and the next blog post will focus on operational excellence.
 
 #### What is Continuous Improvement?
+After successful CI strategic
+implementation, some cases show that companies achieved 15-30 per cent reduction in
+maintenance cost, while others revealed a 90 per cent reduction in process defects and 40-50 per
+cent increase in labour productivity [1a]
+
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
 In the work of **Deming** [1] continuous improvement is defined as “Improve constantly and forever the system of production and service (Principle 5 of transformation).” While **Bessant et al**., [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to **Boer & Gertsen**. [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
 
@@ -91,6 +96,7 @@ To create an operational excellence maturity model, we must first grasp the goal
 - The entire organization should be involved in the continuous improvement efforts
 - There are numerous tools and techniques available to manage improvement initiatives. The appropriate tool should be chosen based on the situation.
 
+[1a]  [Nakajima, S. (1988). Introduction to total productive maintenance (TPM)(productivity press)](https://books.google.nl/books/about/Introduction_to_TPM.html?id=XKc28H3JeUUC&redir_esc=y) <br>
 [1] [Deming, W. E. (2018). Out of the Crisis, reissue. MIT press.](https://books.google.nl/books?hl=en&lr=&id=RTNwDwAAQBAJ&oi=fnd&pg=PR7&dq=Deming,+W.+E.+(2018).+Out+of+the+Crisis,+reissue.+MIT+press.&ots=V1uph2HaNX&sig=2zBcVkpTm1Mc-sLQEqdW3M3u464&redir_esc=y#v=onepage&q=Deming%2C%20W.%20E.%20(2018).%20Out%20of%20the%20Crisis%2C%20reissue.%20MIT%20press.&f=false)<br>
 [2] [Bessant, J., Caffyn, S., & Gallagher, M. (2001). An evolutionary model of continuous improvement behaviour. Technovation, 21(2), 67-77](https://www.sciencedirect.com/science/article/abs/pii/S0166497200000237) <br>
 [3] [Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation: a (retro)(per)spective. International Journal of Technology Management, 26(8), 805-827.](https://www.inderscienceonline.com/doi/abs/10.1504/IJTM.2003.003391)<br>
