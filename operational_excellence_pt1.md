@@ -27,7 +27,7 @@ These definitions outline what an organisation should be doing in terms of conti
 
 **continuous improvement or Kai-Zen (kai - change and zen - well) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants [4].**
 
-This means that every employee actively and consistently looks for ways to reduce **non-value added** activities, which should result in an increase in productivity and profitability. Nakajami's work [5] states that after successful continuous improvement implementation, some cases show that companies were able to reduce maintenance costs by 15% to 30%, while others revealed a 90% reduction in process defects and a 40% to 50% gain in labour productivity.
+This implies that every employee should actively and continuously identify and decrease **non-value added** activities, resulting in increased productivity and profitability. Nakajami's work [5] states that after successful continuous improvement implementation, some cases show that companies were able to reduce maintenance costs by 15% to 30%, while others revealed a 90% reduction in process defects and a 40% to 50% gain in labour productivity.
 
 #### Value-added and non-value added activities
 
