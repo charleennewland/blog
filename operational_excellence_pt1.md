@@ -50,7 +50,7 @@ The lean methodology knows eight types of waste:
 - extra-processing - an activity that is not required to produce a product or service.
    <br>
 
-*Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer, but it is still a very important part of the process.*
+*Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer from a first time right perspective, but it is still a very important part of the process.*
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2/460/300">
