@@ -39,15 +39,15 @@ Any activity that, in the eyes of the customer, does not add to the value of a p
 Value-added activities are those that efficiently and inexpensively transform a product from raw material to finished product. The best way to distinguish value-added from non-value added activities is to ask the following: **“Is the customer willing to pay for it?”**. If the customer would not be willing to pay for it, it is considered non-value added.
 
 #### Types of waste
-The lean methodology knows eight types of waste:
-- defects - products or services that do not meet customers' specifications and require resources to rectify
-- overproduction - producing products in excess before they are truly needed
-- waiting - wasting time awaiting a preceding process to finish before moving forward
-- non-utilized talent - losing time, ideas, skills, and improvements when not involving employees
-- transportation - excessive movement of resources or information not essential to the product or service
-- inventory - quantities of products, materials, and information beyond what is immediately necessary
-- motion - unnecessary movement by people or movement that does not add value to the product or service
-- extra-processing - an activity that is not required to produce a product or service.
+The lean philosophy knows eight types of waste. The acronym DOWNTIME is an easy way to remember the eight wastes:
+- **D**efects - products or services that do not meet customers' specifications and require resources to rectify
+- **O**verproduction - producing products in excess before they are truly needed
+- **W**aiting - wasting time awaiting a preceding process to finish before moving forward
+- **N**on-utilized talent - losing time, ideas, skills, and improvements when not involving employees
+- **T**ransportation - excessive movement of resources or information not essential to the product or service
+- **I**nventory - quantities of products, materials, and information beyond what is immediately necessary
+- **M**otion - unnecessary movement by people or movement that does not add value to the product or service
+- **E**xtra-processing - an activity that is not required to produce a product or service.
    <br>
 
 *Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer from a first time right perspective, but it is still a very important part of the process.*
