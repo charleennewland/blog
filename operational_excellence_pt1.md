@@ -21,7 +21,7 @@ Before we get into methodologies, models and techniques, I have to clarify the d
 
 #### What is Continuous Improvement?
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
-In the work of **Deming** [1] continuous improvement is defined as “Improve constantly and forever the system of production and service (Principle 5 of transformation).” While **Bessant et al**., [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to **Boer & Gertsen**. [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
+In the work of **Deming** [1] continuous improvement is defined as “Improve constantly and forever the system of production and service (Principle 5 of transformation).” While **Bessant et al**., [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to **Boer & Gertsen** [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
 
 These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and a strong emphasis on the practical aspect:
 
