@@ -39,7 +39,7 @@ Any activity that, in the eyes of the customer, does not add to the value of a p
 Value-added activities are those that efficiently and inexpensively transform a product from raw material to finished product. The best way to distinguish value-added from non-value added activities is to ask the following: **“Is the customer willing to pay for it?”**. If the customer would not be willing to pay for it, it is considered non-value added.
 
 #### Types of waste
-The lean philosophy knows eight types of waste. <br> The acronym DOWNTIME is an easy way to remember the eight wastes:
+The lean philosophy knows eight types of waste. The acronym DOWNTIME is an easy way to remember the eight wastes:
 - **D**efects - products or services that do not meet customers' specifications and require resources to rectify
 - **O**verproduction - producing products in excess before they are truly needed
 - **W**aiting - wasting time awaiting a preceding process to finish before moving forward
