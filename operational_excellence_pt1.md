@@ -47,7 +47,7 @@ The lean philosophy knows eight types of waste. The acronym DOWNTIME is an easy 
 - **T**ransportation - excessive movement of resources or information not essential to the product or service
 - **I**nventory - quantities of products, materials, and information beyond what is immediately necessary
 - **M**otion - unnecessary movement by people or movement that does not add value to the product or service
-- **E**xtra-processing - an activity that is not required to produce a product or service.
+- **E**xtra-processing - an activity that is not required to produce the product or service.
    <br>
 
 *Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer from a first time right perspective, but it is still a very important part of the process.*
