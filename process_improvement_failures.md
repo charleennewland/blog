@@ -5,8 +5,9 @@
 
 >*Reading Time: 3 mins*
 
-![pro_impro](https://github.com/charleennewland/blog/assets/138404574/40746539-68b5-4d05-9335-95e94ec31a8d)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/40746539-68b5-4d05-9335-95e94ec31a8d/460/300">
+</p>
 
 I think we've all experienced instances where projects we've managed either fell short of the desired goal or did so inefficiently.<br/> 
 One constructive way to assess if and why a project has (not) been successful is by doing a good ol’ fashioned evaluation round at the end of the project. 
