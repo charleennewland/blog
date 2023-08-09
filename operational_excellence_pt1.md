@@ -31,7 +31,7 @@ This implies that every employee should actively and continuously identify and d
 
 #### Value-added and non-value added activities
 
-It is impossible to discuss value-added and non-value added activities without mentioning the lean methodology.
+It is impossible to discuss value-added and non-value added activities without mentioning the lean methodology [6].
 The objective of the lean methodology is to eliminate waste from processes. 
 
 Any activity that, in the eyes of the customer, does not add to the value of a product or service is considered non-value added. Non-value added activities consume resources and, in lean terms, are considered waste in a process. 
@@ -50,7 +50,7 @@ The lean philosophy knows eight types of waste. The acronym DOWNTIME is an easy 
 - **E**xtra-processing - an activity that is not required to produce the product or service.
    <br>
 
-*Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer from a first time right perspective, but it is still a very important part of the process.*
+*Not all non-value added activities are unnecessary. Quality control, for instance, does not directly benefit the customer from a first-time right perspective, but it is still a very important part of the process.*
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/346d53db-eeb7-4f88-8cb4-0defc3d0a2f2/460/300">
@@ -60,7 +60,7 @@ The lean philosophy knows eight types of waste. The acronym DOWNTIME is an easy 
 In the aircraft maintenance industry, there is an inspection called Required Inspection Item (RII). This is ‌a specific inspection of any maintenance task that, if done improperly, could result in immediate danger to an aircraft. For an RII, a certified RII inspector must examine (under FAA guidelines) whether the task was performed correctly. Although this inspection could be considered extra processing, it is necessary for both safety and airworthiness.
 
 #### Tools and techniques
-The field of continuous improvement knows a wide variety of tools and techniques. These are the techniques used to improve business operations. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [6] into continuous improvement found 33 different continuous improvement tools, and another [7] lists 85 different improvement techniques and tools. 
+The field of continuous improvement knows a wide variety of tools and techniques. These are the techniques used to improve business operations. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [7] into continuous improvement found 33 different continuous improvement tools, and another [8] lists 85 different improvement techniques and tools. 
 
 Contrary to long-held beliefs, these tools and methods can be used in practically all processes and not just in manufacturing processes. Some of these tools and methods are:
 
@@ -96,6 +96,7 @@ To create an operational excellence maturity model, we must first grasp the goal
 [2] [Bessant, J., Caffyn, S., & Gallagher, M. (2001). An evolutionary model of continuous improvement behaviour. Technovation, 21(2), 67-77](https://www.sciencedirect.com/science/article/abs/pii/S0166497200000237) <br>
 [3] [Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation: a (retro)(per)spective. International Journal of Technology Management, 26(8), 805-827.](https://www.inderscienceonline.com/doi/abs/10.1504/IJTM.2003.003391)<br>
 [4] [Singh, J., & Singh, H. (2015). Continuous improvement philosophy–literature review and directions. Benchmarking: An International Journal, 22(1), 75-119](https://www.emerald.com/insight/content/doi/10.1108/BIJ-06-2012-0038/full/html) <br>
-[5]  [Nakajima, S. (1988). Introduction to total productive maintenance (TPM)(productivity press)](https://books.google.nl/books/about/Introduction_to_TPM.html?id=XKc28H3JeUUC&redir_esc=y) <br>
-[6] [Sanchez, L., & Blanco, B. (2014). Three decades of continuous improvement. Total Quality Management & Business Excellence, 25(9-10), 986-1001](https://www.tandfonline.com/doi/abs/10.1080/14783363.2013.856547) <br>
-[7] [Harrington, H. J., & Lomax, K. C. (2000). Performance improvement methods: Fighting the war on waste. (No Title)](https://www.tandfonline.com/doi/abs/10.1080/14783363.2013.856547](https://books.google.nl/books/about/Performance_Improvement_Methods_Fighting.html?id=eAvjouhsHF8C&redir_esc=y)https://books.google.nl/books/about/Performance_Improvement_Methods_Fighting.html?id=eAvjouhsHF8C&redir_esc=y) <br>
+[5] [Nakajima, S. (1988). Introduction to total productive maintenance (TPM)(productivity press)](https://books.google.nl/books/about/Introduction_to_TPM.html?id=XKc28H3JeUUC&redir_esc=y) <br>
+[6] Sharma, S. S., & Khatri, R. (2021). Introduction to Lean Waste and Lean Tools. Lean Manufacturing, 29.
+[7] [Sanchez, L., & Blanco, B. (2014). Three decades of continuous improvement. Total Quality Management & Business Excellence, 25(9-10), 986-1001](https://www.tandfonline.com/doi/abs/10.1080/14783363.2013.856547) <br>
+[8] [Harrington, H. J., & Lomax, K. C. (2000). Performance improvement methods: Fighting the war on waste. (No Title)](https://www.tandfonline.com/doi/abs/10.1080/14783363.2013.856547](https://books.google.nl/books/about/Performance_Improvement_Methods_Fighting.html?id=eAvjouhsHF8C&redir_esc=y)https://books.google.nl/books/about/Performance_Improvement_Methods_Fighting.html?id=eAvjouhsHF8C&redir_esc=y) <br>
