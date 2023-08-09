@@ -23,7 +23,7 @@ Before we get into methodologies, models and techniques, I have to clarify the d
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
 In the work of **Deming** [1], continuous improvement is defined as “Improve constantly and forever the system of production and service.” While **Bessant et al**., [2] describes continuous improvement as “A particular bundle of routines which can help an organisation improve what it currently does”. According to **Boer & Gertsen** [3] continuous improvement is described as “the planned, organised and systematic process of ongoing, incremental and company-wide change of existing practices aimed at improving company performance”.
 
-These definitions outline what an organisation should be doing in terms of continuous improvement, but in this article, I will use the following definition due to its specificity and a strong emphasis on the practical aspect:
+These definitions outline what an organisation should be doing in terms of continuous improvement. However, in this article, I will use the following definition due to its specificity and the strong emphasis on the practical aspect:
 
 **continuous improvement or Kai-Zen (kai - change and zen - well) is defined as a culture of sustained improvement aimed at eliminating waste in all organizational systems and processes and involving all organizational participants [4].**
 
@@ -60,7 +60,7 @@ The lean philosophy knows eight types of waste. The acronym DOWNTIME is an easy 
 In the aircraft maintenance industry, there is an inspection called Required Inspection Item (RII). This is ‌a specific inspection of any maintenance task that, if done improperly, could result in immediate danger to an aircraft. For an RII, a certified RII inspector must examine (under FAA guidelines) whether the task was performed correctly. Although this inspection could be considered extra processing, it is necessary for both safety and airworthiness.
 
 #### Tools and techniques
-The field of continuous improvement knows a wide variety of tools and techniques. These are the techniques used to improve business operations. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. One literature review [7] into continuous improvement found 33 different continuous improvement tools, and another [8] lists 85 different improvement techniques and tools. 
+The field of continuous improvement knows a wide variety of tools and techniques. These are the techniques used to improve business operations. Each of these techniques has a particular purpose. Some are used for decision-making purposes and others to implement or execute initiatives. The literature review [7] into continuous improvement found 33 different continuous improvement tools, and another [8] lists 85 different improvement techniques and tools. 
 
 Contrary to long-held beliefs, these tools and methods can be used in practically all processes and not just in manufacturing processes. Some of these tools and methods are:
 
@@ -82,7 +82,7 @@ As I previously stated, these are only a few examples. We could go wild if we wa
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f2858360-4591-405a-b9f1-5d0e3d8fe226/400/300">
 </p>
 
-To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In this post, part 1, we concentrated on the definition of continuous improvement, and in part 2 we will focus on the definition of operational excellence. In part 3 we will finally cover the process of creating an operational excellence maturity model.
+To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In this post, part 1, we concentrated on the definition of continuous improvement, and in part 2 we will focus on the definition of operational excellence. In part 3, we will finally cover the process of creating an operational excellence maturity model.
 
 #### The primary takeaways here are:
 
