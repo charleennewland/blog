@@ -2,7 +2,7 @@
 ## Part I. Understanding the Basics: Continuous Improvement
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
->*August 9th, 2023*<br/>
+>*August 10th, 2023*<br/>
 
 >*Reading Time: 3 mins*
 
