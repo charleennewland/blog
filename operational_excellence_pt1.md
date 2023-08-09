@@ -31,8 +31,8 @@ This implies that every employee should actively and continuously identify and d
 
 #### Value-added and non-value added activities
 
-It is impossible to discuss value-added and non-value added activities without mentioning the lean methodology [6].
-The objective of the lean methodology is to eliminate waste from processes. 
+It is impossible to discuss value-added and non-value added activities without mentioning the lean methodology.
+The objective of the lean methodology [6] is to eliminate waste from processes. 
 
 Any activity that, in the eyes of the customer, does not add to the value of a product or service is considered non-value added. Non-value added activities consume resources and, in lean terms, are considered waste in a process. 
 
