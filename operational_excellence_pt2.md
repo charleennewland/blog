@@ -19,7 +19,7 @@ There are various definitions for operational excellence in academic writing, ju
 </p>
 <br>
 
-Operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them satisfaction analytically”, according to **Aguilera and Ruiz** [2]. In the work of **Sutton** [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to **Russel and Koch** [4] operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While **Wiersema and Treacy** [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
+Operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them analytically”, according to **Aguilera and Ruiz** [2]. In the work of **Sutton** [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to **Russel and Koch** [4] operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While **Wiersema and Treacy** [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
 
 Some of these definitions suggest that operational excellence is a strategy, while others refer to operational excellence as a status that a business should aim to achieve. 
 
@@ -31,9 +31,9 @@ Duggan’s work suggests that once operational excellence is achieved, there is 
 
 **2.** In [7] the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles.
 
-The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. It includes more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into organisational culture.
+The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. Operational excellence is more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into organisational culture.
 
-Both definitions underline the significance of correct behaviour by the company's employees in order to achieve operational excellence. This means that the organisation ensures that individuals not only have the knowledge and tools to help the organisation achieve operational excellence but the organization also incorporates the adoption of this behaviour into the organization's culture.
+Both definitions underline the significance of correct behaviour by individuals within the organisation in order to achieve operational excellence. This means that the organisation ensures that individuals not only have the knowledge and tools to help the organisation achieve operational excellence but the organization also incorporates the adoption of this behaviour into the organization's culture.
 
 #### Key guidelines for establishing operational excellence.
 
