@@ -8,6 +8,5 @@
 >*Reading Time: 3 mins*
 >
 ><p align="center">
-  <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/c5582913-b8e5-4965-892e-0c7b85dae5a0
-/460/300">
+  <img width="460" height="300" src="![OEpic](https://github.com/charleennewland/blog/assets/138404574/9f866310-c71d-4cdd-b115-067105a4eef0)/460/300">
 </p>
