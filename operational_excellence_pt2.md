@@ -29,7 +29,7 @@ In this post, I will zoom in on the following 2 definitions due to their clarity
 
 This definition is dissected in the following overview:
 <p align="center">
-  <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/9f65d471-2368-4344-aa9f-1d419516a5d6/460/300">
+  < img src="https://github.com/charleennewland/blog/assets/138404574/9f65d471-2368-4344-aa9f-1d419516a5d6">
 </p>
 <br>
 
