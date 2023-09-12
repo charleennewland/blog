@@ -48,9 +48,15 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
 - Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
+- Image
+
 These dimensions are the basis for the operational maturity model in my next blog post.
 
-We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into organisational culture. 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/6643b993-98dd-4e36-b27d-33280a6dee0c/300/300">
+</p>
+
+We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into company's culture. 
 
 [1] A Comprehensive Definition for ‘Operational Excellence
 [2] Aguilera, J. T., & Ruíz, N. L. T. (2019, March). Operational excellence: Concept review and meaning restructuration. In Proceedings of the International Conference on Industrial Engineering and Operations Management (pp. 678-688). IEOM Society.
