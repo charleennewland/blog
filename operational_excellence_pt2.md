@@ -14,6 +14,11 @@
 #### What is operational excellence?
 There are various definitions for operational excellence in academic writing, just as there are for continuous improvement. Each one emphasises a different aspect but most share similarities. According to one study [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business.
 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/b74bd0fe-8cfe-4035-850f-de400fb1234c)
+/300/300">
+</p>
+
 Operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them satisfaction analytically”, according to Aguilera and Ruiz [2]. In the work of Sutton [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to Russel and Koch [4] operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While Wiersema and Treacy [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
 
 Some of these definitions suggest that operational excellence is a strategy, while others refer to operational excellence as a status that a business should aim to achieve. 
