@@ -46,5 +46,14 @@ These dimensions are the basis for the operational maturity model in my next blo
 
 We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into organisational culture. 
 
+[1] A Comprehensive Definition for ‘Operational Excellence
+[2] Aguilera, J. T., & Ruíz, N. L. T. (2019, March). Operational excellence: Concept review and meaning restructuration. In Proceedings of the International Conference on Industrial Engineering and Operations Management (pp. 678-688). IEOM Society.
+[3] Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012.
+[4] Russell, R. H., & Koch, J. I. (2009). Operational excellence: The new lever for profitability and competitive advantage. Palladium Group, 1-24.
+[5] Wiersema, F., & Treacy, M. (1993). Customer intimacy and other value disciplines. Harvard Business Review, 71(1), 84–93. 
+[6] Duggan, K. J. (2012). Design for operational excellence: A breakthrough strategy for business growth.
+[7] Operational excellence assessment framework for manufacturing companies
+[8 ] Shingo Institute. Utah. Shingo Model Handbook.
+
 
 
