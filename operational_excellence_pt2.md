@@ -9,7 +9,6 @@
 >
 ><p align="center">
 <img width="460" height="300" src="<img width="783" alt="Screenshot 2023-09-12 at 22 46 19" src="https://github.com/charleennewland/blog/assets/138404574/3ae9962f-9f60-4e46-a063-74cc33b249ea">
-/460/300">
 </p>
 
 #### What is operational excellence?
