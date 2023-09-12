@@ -25,13 +25,9 @@ Some of these definitions suggest that operational excellence is a strategy, whi
 
 In this post, I will zoom in on the following 2 definitions due to their clarity and simplicity:
 
-**1.** Operational excellence is an organizational status “where each and every employee can see the flow of value to the customer and fix that flow before it breaks down.”[6]
+**1.** Operational excellence according to Duggan [6] is an organizational status “where each and every employee can see the flow of value to the customer and fix that flow before it breaks down.”
 
-This definition is dissected in the following overview:
-<p align="center">
-  < img src="https://github.com/charleennewland/blog/assets/138404574/9f65d471-2368-4344-aa9f-1d419516a5d6">
-</p>
-<br>
+Duggan’s work suggests that once operational excellence is achieved, there is no need for management involvement in day-to-day operations. This means that employees on every level of the organization know how to fix problems when they arise.
 
 **2.** In [7] the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles.
 The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. It includes more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into organisational culture.
