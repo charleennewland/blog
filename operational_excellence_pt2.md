@@ -8,7 +8,7 @@
 >*Reading Time: 3 mins*
 >
 ><p align="center">
-  <img width="460" height="300" src="https://github.com/charleennewland/blog/issues/3/460/300">
+  <img width="460" height="300" src="https://github.com/charleennewland/blog/issues/3#issue-1893237222/460/300">
 </p>
 
 #### What is operational excellence?
