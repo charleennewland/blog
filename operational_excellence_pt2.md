@@ -49,7 +49,7 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
+  <img width="500" height="500" src="https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
 </p>
 
 
