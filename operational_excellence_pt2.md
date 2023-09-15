@@ -37,7 +37,8 @@ Both definitions underline the significance of specific behaviour by individuals
 
 This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you need both the knowledge and a culture that promotes operational excellence.
 
-An business will gain the long-term advantages of a motivated, engaged workforce when it invests in its employees and values their skills, knowledge, opinions, and objectives. This staff will work really hard to pursue excellence and promote expansion.
+An organisation will get the benefits of engaged personnel when it invests in its employees and sees the value in their skills, knowledge and opinions. This will promote promote growth.
+
 
 
 <p align="center">
