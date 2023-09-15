@@ -31,6 +31,7 @@ Duggan’s work suggests that once operational excellence is achieved, there is 
 
 **2.** In [7] the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles. The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. Operational excellence is more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into the company's culture.
 
+Both of these definitions underline the significance of specific behaviour by individuals within the organisation in order to achieve operational excellence.
 
 This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you need both the knowledge and a culture that promotes operational excellence.
 
