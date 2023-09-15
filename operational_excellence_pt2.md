@@ -33,7 +33,7 @@ Duggan’s work suggests that once operational excellence is achieved, there is 
 
 Both definitions underline the significance of specific behaviour by individuals within the organisation in order to achieve operational excellence.
 
-This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you you need both the knowledge and a culture that promotes operational excellence.
+This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you need both the knowledge and a culture that promotes operational excellence.
 
 <p align="center">
   <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/aaa46a3c-78e4-4195-90a4-0ef6d08965be/300/300">
