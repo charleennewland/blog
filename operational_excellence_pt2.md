@@ -55,7 +55,7 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
 
 
 
-These dimensions are the basis for the operational maturity model in my next blog post.
+These dimensions are the basis for the operational maturity model in my next blog post. Change management plays a big role here, but that is a topic for another day.
 
 We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into the company's culture. 
 
