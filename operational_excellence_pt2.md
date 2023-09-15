@@ -33,7 +33,7 @@ Duggan’s work suggests that once operational excellence is achieved, there is 
 
 Both definitions underline the significance of correct behaviour by individuals within the organisation in order to achieve operational excellence.
 
-This means that the company not only guarantees that staff at all levels have the information and tools necessary to assist the organisation achieve operational excellence, but it also instills behaviour in-line with operational excellence into the culture.
+This means that the company not only guarantees that staff at all levels have the information and tools necessary to assist the organisation achieve operational excellence, but it also instills behaviour in-line with operational excellence into the culture. You need both the knowledge to use the correct tools and a culture to use the tools.
 
 <p align="center">
   <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/aaa46a3c-78e4-4195-90a4-0ef6d08965be/300/300">
@@ -49,7 +49,7 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
 <p align="center">
-  <img width="300" height="300" src="![shingo institute](https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
+  <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
 </p>
 
 
