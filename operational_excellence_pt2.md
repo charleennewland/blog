@@ -58,7 +58,7 @@ These dimensions are the basis for the operational maturity model in my next blo
 
 #### What advantages does operational excellence offer, then?
 
-1. More time for management to concentrate on larger projects
+1. More time for managers to focus on larger projects rather than firefighting
 2. Process streamlining benefits both employees and customers
 3. Employees who practise operational excellence are more productive
 4. Operational excellence results in reduced waste 
