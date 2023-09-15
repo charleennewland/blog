@@ -48,7 +48,12 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
 - Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
-- Image
+<p align="center">
+  <img width="300" height="300" src="![shingo institute](https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
+</p>
+
+
+
 
 These dimensions are the basis for the operational maturity model in my next blog post.
 
