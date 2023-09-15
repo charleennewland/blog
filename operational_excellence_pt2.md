@@ -65,7 +65,7 @@ These dimensions are the basis for the operational maturity model in my next blo
 1. More time for management to concentrate on larger projects
 2. Process streamlining benefits both employees and customers
 3. Employees who practise operational excellence are more productive
-4. Reduced Waste is the result of operational excellence
+4. Operational excellence results in reduced waste 
 5. Increase ROI & Profit Margins
 
 We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into the company's culture. 
