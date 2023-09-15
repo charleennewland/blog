@@ -33,7 +33,7 @@ Duggan’s work suggests that once operational excellence is achieved, there is 
 
 Both definitions underline the significance of correct behaviour by individuals within the organisation in order to achieve operational excellence.
 
-This means that the company not only guarantees that staff at all levels have the information and tools necessary to assist the organisation achieve operational excellence, but it also instills behaviour in-line with operational excellence into the culture. You need both the knowledge to use the correct tools and a culture to use the tools.
+This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you you need both the knowledge and a culture that promotes operational excellence.
 
 <p align="center">
   <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/aaa46a3c-78e4-4195-90a4-0ef6d08965be/300/300">
@@ -62,6 +62,8 @@ These dimensions are the basis for the operational maturity model in my next blo
 </p>
 
 We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into company's culture. 
+
+In my next blog post we will get into operational excellence the maturity model that I created.
 
 [1] A Comprehensive Definition for ‘Operational Excellence
 [2] Aguilera, J. T., & Ruíz, N. L. T. (2019, March). Operational excellence: Concept review and meaning restructuration. In Proceedings of the International Conference on Industrial Engineering and Operations Management (pp. 678-688). IEOM Society.
