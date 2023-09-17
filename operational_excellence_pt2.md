@@ -77,7 +77,7 @@ We'll discuss the operational excellence maturity model in my upcoming blog arti
 
 [1] [A Comprehensive Definition for ‘Operational Excellence.](https://journals.sjp.ac.lk/index.php/vjm/article/view/6089)<br>
 [2] [Aguilera, J. T., & Ruíz, N. L. T. (2019, March). Operational excellence: Concept review and meaning restructuration. In Proceedings of the International Conference on Industrial Engineering and Operations Management (pp. 678-688). IEOM Society.](https://ieomsociety.org/ieom2019/papers/202.pdf)<br>
-[3] [Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012.](https://books.google.nl/books/about/Back_to_Basics.html?id=BpPruAAACAAJ&redir_esc=y)C
+[3] [Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012.](https://books.google.nl/books/about/Back_to_Basics.html?id=BpPruAAACAAJ&redir_esc=y)<br>
 [4] [Russell, R. H., & Koch, J. I. (2009). Operational excellence: The new lever for profitability and competitive advantage. Palladium Group, 1-24.](https://www.semanticscholar.org/paper/Operational-Excellence-The-New-Lever-for-and-Russell-Kaplan/75305373f1bda6b1befab2804a7bf0fc8222674c)<br>
 [5] [Wiersema, F., & Treacy, M. (1993). Customer intimacy and other value disciplines. Harvard Business Review, 71(1), 84–93.](https://edisciplinas.usp.br/pluginfile.php/4623221/mod_resource/content/1/Customer%20Intimacy%20and%20Other%20Value%20Discuplines%20%28Michael%20Treacy%20and%20Fred%20Wiersema%29.PDF)<br>
 [6] [Duggan, K. J. (2012). Design for operational excellence: A breakthrough strategy for business growth.](https://books.google.nl/books/about/Design_for_Operational_Excellence_A_Brea.html?id=Fm8aU6x-YUYC&redir_esc=y)<br>
