@@ -53,10 +53,10 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
   The graphic below displays these dimensions.
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300"> ![alt text]
+  <img width="500" height="500" src="https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
 </p>
 
->*September 13th, 2023*<br/>
+                                        #####Shingo Model - Guiding principles [8]
 
 These dimensions are the basis for the operational maturity model in my next blog post. Change management plays a big role here, but that is a topic for another day.
 
