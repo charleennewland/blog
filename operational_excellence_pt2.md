@@ -11,10 +11,7 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/c642c090-704c-49fc-8bc2-954d0f1a8380/460/300">
 </p>
 
-To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In my previous [blog post](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt1.md), we concentrated on the definition of continuous improvement, and in this blog post we will focus on the definition of operational excellence. In the third part, we will finally cover the process of creating an operational excellence maturity model.
-
-#### What is operational excellence?
-There are various definitions for operational excellence in literature, just as there are for continuous improvement. Each definition focuses on a different angle, and the majority of them are similar. According to [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business. 
+To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In my previous [blog post](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt1.md), we concentrated on the definition of continuous improvement, and in this blog post we will focus on the definition of operational excellence. In the third part, we will finally create an operational excellence maturity model.
 
 Now let's get started.
 
@@ -22,6 +19,9 @@ Now let's get started.
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/cb6412c6-3883-44ac-99ee-000db41e4b1c/460/300">
 </p>
 <br>
+
+#### What is operational excellence?
+There are various definitions for operational excellence in literature, just as there are for continuous improvement. Each definition focuses on a different angle, and the majority of them are similar. According to [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business. 
 
 In [2] operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them analytically”. In the work of **Sutton** [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to **Russel and Koch** [4], operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While **Wiersema and Treacy** [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
 
