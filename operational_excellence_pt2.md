@@ -87,5 +87,5 @@ We'll discuss the operational excellence maturity model in my upcoming blog arti
 
 Blog posts:
 1. [Process Improvement Failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
-2. [blog](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt1.md)
+2. [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt1.md)
    
