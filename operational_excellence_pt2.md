@@ -63,7 +63,7 @@ These dimensions are the basis for the operational maturity model in my next blo
 #### What advantages does operational excellence offer, then?
 
 - In the work of Duggan [8], managers will have more time to focus on larger initiatives rather than firefighting; if employees can correct the flow of value to the customer and fix that flow before it breaks down with little or no management, managers will have more time to focus on growing the firm. 
-- Customers and staff both gain from process streamlining; employees that practise operational excellence are more productive as a result of reduced process waste. This improves the overall client experience.
+- Customers and staff both gain from process streamlining; employees who practise operational excellence are more productive as a result of reduced process waste. This improves the overall client experience.
 
 #### Key takeaways:
 We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence integrates improvement concepts into the company's culture. 
