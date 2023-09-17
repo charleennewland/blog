@@ -12,7 +12,9 @@
 </p>
 
 #### What is operational excellence?
-There are various definitions for operational excellence in literature, just as there are for continuous improvement. Each definition focuses on a different angle, and the majority of them are similar. According to [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business. Now let's get into it.
+There are various definitions for operational excellence in literature, just as there are for continuous improvement. Each definition focuses on a different angle, and the majority of them are similar. According to [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business. 
+
+Now let's get started.
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/cb6412c6-3883-44ac-99ee-000db41e4b1c/460/300">
