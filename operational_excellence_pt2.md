@@ -77,12 +77,12 @@ We'll discuss the operational excellence maturity model in my upcoming blog arti
 
 [1] [A Comprehensive Definition for ‘Operational Excellence’](https://journals.sjp.ac.lk/index.php/vjm/article/view/6089)<br>
 [2] [Operational Excellence: Concept Review and Meaning Restructuration.](https://ieomsociety.org/ieom2019/papers/202.pdf)<br>
-[3] [Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012.](https://books.google.nl/books/about/Back_to_Basics.html?id=BpPruAAACAAJ&redir_esc=y)<br>
+[3] [Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012](https://books.google.nl/books/about/Back_to_Basics.html?id=BpPruAAACAAJ&redir_esc=y)<br>
 [4] [A Practitioner's Guide to Operations Excellence](https://www.semanticscholar.org/paper/Operational-Excellence-The-New-Lever-for-and-Russell-Kaplan/75305373f1bda6b1befab2804a7bf0fc8222674c)<br>
 [5] [Customer Intimacy and Other Value Disciplines](https://edisciplinas.usp.br/pluginfile.php/4623221/mod_resource/content/1/Customer%20Intimacy%20and%20Other%20Value%20Discuplines%20%28Michael%20Treacy%20and%20Fred%20Wiersema%29.PDF)<br>
-[6] [Duggan, K. J. (2012). Design for operational excellence: A breakthrough strategy for business growth.](https://books.google.nl/books/about/Design_for_Operational_Excellence_A_Brea.html?id=Fm8aU6x-YUYC&redir_esc=y)<br>
-[7] [Operational excellence assessment framework for manufacturing companies.](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
-[8 ] [Shingo Institute. Utah. Shingo Model Handbook.](https://shingo.org/shingo-model/)<br>
+[6] [Design for Operational Excellence: A Breakthrough Strategy for Business Growth](https://books.google.nl/books/about/Design_for_Operational_Excellence_A_Brea.html?id=Fm8aU6x-YUYC&redir_esc=y)<br>
+[7] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
+[8 ] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 
 
 
