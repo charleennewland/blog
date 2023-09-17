@@ -5,7 +5,7 @@
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*September 13th, 2023*<br/>
 
->*Reading Time: 3 mins*
+>*Reading Time: 4 min*
 >
 <p align="center">
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/c642c090-704c-49fc-8bc2-954d0f1a8380/460/300">
@@ -35,15 +35,13 @@ Duggan’s work suggests that once operational excellence is achieved, there is 
 
   >**2.** In [7], the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles. The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. Operational excellence is more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into the company's culture.
 
-Both of these definitions underline the significance of specific behaviour by individuals within the organisation in order to achieve operational excellence.
-
-This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you need both the knowledge and a culture that promotes operational excellence.
+Both of these definitions underline the significance of specific behaviour by individuals within the organisation in order to achieve operational excellence. This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesfull you need both the knowledge and a culture that promotes operational excellence.
 
 <p align="center">
 <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/aaa46a3c-78e4-4195-90a4-0ef6d08965be/300/300">
 </p>
 
-An organisation will get the benefits of engaged personnel when it invests in its employees and sees the value in their skills, knowledge and opinions. This will promote promote growth.
+An organisation will get the benefits of engaged personnel when it invests in its employees and sees the value in their skills, knowledge and opinions. This will promote growth.
 
 #### Key guidelines for establishing operational excellence.
 
@@ -72,6 +70,7 @@ These dimensions are the basis for the operational maturity model in my next blo
 4. Operational excellence results in reduced waste 
 5. Increase ROI & Profit Margins
 
+#### Key takeaways:
 We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence, in contrast to continuous improvement, integrates improvement concepts into the company's culture. 
 
 We'll discuss the operational excellence maturity model in my upcoming blog article.
