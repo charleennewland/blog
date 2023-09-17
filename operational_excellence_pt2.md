@@ -75,7 +75,7 @@ We have now examined both continuous improvement and operational excellence. Con
 
 We'll discuss the operational excellence maturity model in my upcoming blog article.
 
-[1] [A Comprehensive Definition for ‘Operational Excellence.](https://journals.sjp.ac.lk/index.php/vjm/article/view/6089)<br>
+[1] [A Comprehensive Definition for ‘Operational Excellence’](https://journals.sjp.ac.lk/index.php/vjm/article/view/6089)<br>
 [2] [Aguilera, J. T., & Ruíz, N. L. T. (2019, March). Operational excellence: Concept review and meaning restructuration. In Proceedings of the International Conference on Industrial Engineering and Operations Management (pp. 678-688). IEOM Society.](https://ieomsociety.org/ieom2019/papers/202.pdf)<br>
 [3] [Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012.](https://books.google.nl/books/about/Back_to_Basics.html?id=BpPruAAACAAJ&redir_esc=y)<br>
 [4] [Russell, R. H., & Koch, J. I. (2009). Operational excellence: The new lever for profitability and competitive advantage. Palladium Group, 1-24.](https://www.semanticscholar.org/paper/Operational-Excellence-The-New-Lever-for-and-Russell-Kaplan/75305373f1bda6b1befab2804a7bf0fc8222674c)<br>
