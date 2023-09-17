@@ -11,7 +11,7 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/c642c090-704c-49fc-8bc2-954d0f1a8380/460/300">
 </p>
 
-To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In my previous post, we concentrated on the definition of continuous improvement, and in this blog post we will focus on the definition of operational excellence. In the third part, we will finally cover the process of creating an operational excellence maturity model.
+To create an operational excellence maturity model, we must first grasp the goal of the model's fundamental ideas, which are continuous improvement and operational excellence. In my previous post [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we concentrated on the definition of continuous improvement, and in this blog post we will focus on the definition of operational excellence. In the third part, we will finally cover the process of creating an operational excellence maturity model.
 
 #### What is operational excellence?
 There are various definitions for operational excellence in literature, just as there are for continuous improvement. Each definition focuses on a different angle, and the majority of them are similar. According to [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business. 
@@ -85,4 +85,7 @@ We'll discuss the operational excellence maturity model in my upcoming blog arti
 [8] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 
 
-
+Blog posts:
+1. [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
+2. [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
+   
