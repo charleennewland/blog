@@ -23,17 +23,17 @@ Now let's get started.
 </p>
 <br>
 
-Operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them analytically”, according to **Aguilera and Ruiz** [2]. In the work of **Sutton** [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to **Russel and Koch** [4], operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While **Wiersema and Treacy** [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
+In [2] operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them analytically”. In the work of **Sutton** [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to **Russel and Koch** [4], operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While **Wiersema and Treacy** [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
 
 Some of these definitions suggest that operational excellence is a strategy, while others refer to operational excellence as a status that a business should aim to achieve. 
 
-In this post, I will zoom in on the following 2 definitions due to their clarity and simplicity:
+However, we won't use these definitions and instead focus on the two following definitions due to their clarity and simplicity:
 
-**1.** Operational excellence according to Duggan [6] is an organizational status “where each and every employee can see the flow of value to the customer and fix that flow before it breaks down.”
+-**1.** According to Duggan [6], operational excellence is defined as an organizational status “where each and every employee can see the flow of value to the customer and fix that flow before it breaks down.”
 
 Duggan’s work suggests that once operational excellence is achieved, there is no need for management involvement in day-to-day operations. This means that employees on every level of the organization know how to fix problems when they arise.
 
-**2.** In [7] the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles. The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. Operational excellence is more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into the company's culture.
+-**2.** In [7], the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles. The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. Operational excellence is more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into the company's culture.
 
 Both of these definitions underline the significance of specific behaviour by individuals within the organisation in order to achieve operational excellence.
 
