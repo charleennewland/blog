@@ -82,7 +82,7 @@ We'll discuss the operational excellence maturity model in my upcoming blog arti
 [5] [Customer Intimacy and Other Value Disciplines](https://edisciplinas.usp.br/pluginfile.php/4623221/mod_resource/content/1/Customer%20Intimacy%20and%20Other%20Value%20Discuplines%20%28Michael%20Treacy%20and%20Fred%20Wiersema%29.PDF)<br>
 [6] [Design for Operational Excellence: A Breakthrough Strategy for Business Growth](https://books.google.nl/books/about/Design_for_Operational_Excellence_A_Brea.html?id=Fm8aU6x-YUYC&redir_esc=y)<br>
 [7] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
-[8 ] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
+[8] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 
 
 
