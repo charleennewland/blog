@@ -1,5 +1,5 @@
 # Unlocking the Potential of an Operational Excellence Maturity Model
-## Part II. Understanding the basics: Driving Operational Excellence
+## Part II. Understanding the Basics: Driving Operational Excellence
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
