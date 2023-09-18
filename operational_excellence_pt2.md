@@ -80,7 +80,7 @@ We'll discuss the operational excellence maturity model in my next blog post.
 [8] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 
 
->Blog posts:
+>Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
 >- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt1.md)
    
