@@ -4,7 +4,7 @@
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*August 10th, 2023*<br/>
 
->*Reading Time: 3 mins*
+>*Reading Time: 3 min*
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/27abaae5-1041-4ce0-b04b-d2aebf650760/460/300">
