@@ -55,7 +55,8 @@ The Shingo Institute [8] categorizes the fundamental principles for developing o
   The graphic below displays these dimensions.
 
 <p align="center">
-  <img width="500" height="500" src="https://github.com/charleennewland/blog/assets/138404574/fed16677-97da-459d-9500-edca72a6a621)/300/300">
+  <img width="500" height="500" src="![Screenshot 2023-11-07 at 23 53 54](https://github.com/charleennewland/blog/assets/138404574/06535384-f2d6-40bc-b3e5-a40e67a20d52)
+/300/300">
 </p>
 
 <h5 align="center">Shingo Model - Guiding principles [8]</h5>   
