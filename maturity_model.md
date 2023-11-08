@@ -18,7 +18,7 @@ To create an operational excellence maturity model, we must first grasp the goal
 Now let's get started.
 
 <p align="center">
-  <img width="1200" height="300" src="https://github.com/charleennewland/blog/assets/138404574/06535384-f2d6-40bc-b3e5-a40e67a20d52/460/300">
+  <img width="1200" height="300" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
 </p>
 <br>
 
