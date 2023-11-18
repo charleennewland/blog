@@ -24,7 +24,63 @@ Before we get into the nitty-gritty of what it takes to whip up a tailor-made op
 </p>
 
 
+#### What exactly do we mean when we say "Maturity Model"?
 
+A quick online search will produce numerous examples of maturity models applied across diverse industries. These models help organizations identify organizational gaps and strengths, which they can then use to develop a proper roadmap to improve crucial workflows or initiatives.
+
+Picture a maturity model like a ladder. At its core, it's made up of assessment criteria, forming the rungs of the ladder, and various maturity levels, all tied together with a handy scoring system. It's like a roadmap for leveling up in excellence!
+
+The study referenced in [1] defines a maturity model as a development of an entity over time. This entity or object can cover a wide range of subjects, from individuals to organizational functions.‌ A maturity model serves as a tool for assessing an organization's performance and continuous growth in a specific domain. Maturity models can be used in a wide range of domains, from project management and software development to information security and operational excellence.
+
+#### Perks of an Operational Excellence Maturity Model
+In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success. Now, let's look into the benefits of utilizing an operational excellence maturity model to reach this objective.
+
+**Benefits of an Operational Excellence Maturity Model according to [2] are:**
+
+- Continuous Improvement; promotes a culture of continuous improvement throughout the organization.
+- Strategic Harmony; aligns operational strategies with company objectives for a unified strategy.
+- Optimized Resource Utilization; assists in efficient resource utilization, leading to cost savings and increased production.
+- Effective Risk Management and Compliance; helps in identifying and managing risks, ensuring compliance, resilience, and adherence to standards.
+- Informed Decision-Making; promotes data-driven decisions essential for long-term success.
+
+#### What essentials are required for a top-notch Operational Excellence Maturity Model?
+Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier blog post on [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
+
+**As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:**
+
+- Cultural Enablers - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence
+- Continuous Process Improvement - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not
+- Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
+- Results - all leaders in the organization share one common responsibility: they are responsible for results
+
+Read here link about various Assessment Models that have been explored
+
+According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
+
+These five assessment models, according to [3] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. So many organisations will have to fend with creating their own operational excellence assessment models.
+
+#### A tailor-made Operational Excellence Maturity Model
+The operational excellence maturity model that I am putting together for this blog post can be used as an assessment tool to estimate where an organisation is in their operational excellence journey. 
+
+The model consists of the following 5 dimensions:
+
+- Cultural enablers
+- Continuous Process Improvement
+- Quality Management
+- Enterprise Alignment
+- Results
+
+
+The image below illustrates the breakdown of these dimensions into various focus areas.
+
+<p align="center">
+  <img width="1200" height="300" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
+</p>
+<br>
+
+Image x illustrates 4 lines of the tailor-made maturity model. For this maturity model, I used the dimensions as suggested in [3] with the addition of quality management as a separate dimension. The model consists of five different levels, and each level in the model specifies its prerequisites. In order to advance, the organization must fulfil the prerequisites for both the higher level and the ones before.
+
+Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to pinpoint and address areas with lower scores. An organization's overall operational excellence score increases as it performs well across the all areas, indicating progress in the right direction. It is crucial to regularly review and update the maturity model to align with the organization's evolving priorities
 
 
 <p align="center">
@@ -32,65 +88,15 @@ Before we get into the nitty-gritty of what it takes to whip up a tailor-made op
 </p>
 <br>
 
-#### What is operational excellence?
-There are various definitions for operational excellence in literature, just as there are for continuous improvement. Each definition focuses on a different angle, and the majority of them are similar. According to [1], there are 32 different definitions, with key focus areas spanning from employee and customer satisfaction to continuous development of operational performance. The common theme across these definitions is that operational excellence refers to the intended result or ideal state for a business. 
+Conclusions
+In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
 
-In [2], operational excellence is described as the “organisational culture of a company, where employees have the ability to identify problems and solve them analytically”. In the work of **Sutton** [3] operational excellence is defined as “a strategic focus on maximizing the value for customers through operations with the support of strong leadership, the power of people, the use of industry best practice and the application of value-added technologies.” According to **Russel and Koch** [4], operational excellence is “reaching the height of operational efficiency through doing things better, faster, and cheaper.” While **Wiersema and Treacy** [5] define operational excellence as “the strategy organizations use to deliver quality, price, ease of purchase and service in such a manner that no other organization in the industry or sector can match.”
+There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an in-house operational excellence maturity model for privacy, financial, or compatibility reasons. An in-house assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities. 
 
-Some of these definitions suggest that operational excellence is a strategy, while others refer to operational excellence as a status that a business should aim to achieve. 
 
-However, we won't use these definitions and instead focus on the two following definitions due to their clarity and simplicity:
-
-1) According to Duggan [6], operational excellence is defined as an organizational status “where each and every employee can see the flow of value to the customer and fix that flow before it breaks down.” Duggan’s work suggests that once operational excellence is achieved, there is no need for management involvement in day-to-day operations. This means that employees on every level of the organization know how to fix problems when they arise.
-
-2) In [7], the authors describe operational excellence as a concept that extends beyond individual tools and techniques. It integrates strategic management, organisational culture, and Lean principles. It is a consequence of an enterprise-wide practice of ideal behaviours based on the correct principles. The emphasis in this description is on organisational culture, behaviours, and enterprise-wide adoption. Operational excellence is more than just the utilisation of tools, methods, and procedures. It is about incorporating strategic management and lean principles into the company's culture.
-
-Both of these definitions underline the significance of specific behaviour by individuals within the organisation in order to achieve operational excellence. This means that the company not only ensures that employees at all levels have the information and tools they need to help the organisation achieve operational excellence, but it also instills operational excellence-related behaviour in the culture. To be succesful an organisation needs both the knowledge and a culture that promotes operational excellence.
-
-<p align="center">
-<img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/aaa46a3c-78e4-4195-90a4-0ef6d08965be/300/300">
-</p>
-
-An organisation will get the benefits of engaged personnel when it invests in its employees and sees the value in their skills, knowledge and opinions. This will promote growth.
-
-#### Key guidelines for establishing operational excellence.
-
-The Shingo Institute [8] categorizes the fundamental principles for developing operational excellence into the following dimensions:
-
-- Cultural Enablers - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and, build a culture of operational excellence 
-- Continuous Process Improvement - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not
-- Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
-- Results - all leaders in the organization share one common responsibility: they are responsible for results
-
-  The graphic below displays these dimensions.
-
-<p align="center">
-  <img width="500" height="500" src="https://github.com/charleennewland/blog/assets/138404574/06535384-f2d6-40bc-b3e5-a40e67a20d52
-/300/300">
-</p>
-
-<h5 align="center">Shingo Model - Guiding principles [8]</h5>   
-
-These dimensions are the basis for the operational maturity model in my next blog post. Change management plays a big role here, but that is a topic for another day.
-
-#### What advantages does operational excellence offer, then?
-
-- In the work of Duggan [8], managers will have more time to focus on larger initiatives rather than firefighting; if employees can correct the flow of value to the customer and fix that flow before it breaks down with little or no management intervention, managers will have more time to focus on growing the firm. 
-- Customers and staff both gain from process streamlining; employees who practise operational excellence are more productive as a result of reduced process waste. This improves the overall client experience.
-
-#### Key takeaways:
-We have now examined both continuous improvement and operational excellence. Continuous improvement focuses on the use of tools or a collection of tools and concepts (lean, total quality management, six sigma, and just in time) to eliminate waste and decrease non-value added activities on a continuous basis. Operational excellence integrates improvement concepts into the company's culture. 
-
-We'll discuss the operational excellence maturity model in my next blog post.
-
-[1] [A Comprehensive Definition for ‘Operational Excellence’](https://journals.sjp.ac.lk/index.php/vjm/article/view/6089)<br>
-[2] [Operational Excellence: Concept Review and Meaning Restructuration](https://ieomsociety.org/ieom2019/papers/202.pdf)<br>
-[3] [Sutton, Douglas. Back to basics: A practitioner's guide to operations excellence. Operations Excellence Services, 2012](https://books.google.nl/books/about/Back_to_Basics.html?id=BpPruAAACAAJ&redir_esc=y)<br>
-[4] [A Practitioner's Guide to Operations Excellence](https://www.semanticscholar.org/paper/Operational-Excellence-The-New-Lever-for-and-Russell-Kaplan/75305373f1bda6b1befab2804a7bf0fc8222674c)<br>
-[5] [Customer Intimacy and Other Value Disciplines](https://edisciplinas.usp.br/pluginfile.php/4623221/mod_resource/content/1/Customer%20Intimacy%20and%20Other%20Value%20Discuplines%20%28Michael%20Treacy%20and%20Fred%20Wiersema%29.PDF)<br>
-[6] [Design for Operational Excellence: A Breakthrough Strategy for Business Growth](https://books.google.nl/books/about/Design_for_Operational_Excellence_A_Brea.html?id=Fm8aU6x-YUYC&redir_esc=y)<br>
-[7] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
-[8] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
+[1] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation, a (retro) (per)spective. International Journal of Technology Management, 26(8), 805–827.
+[2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)
+[3] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
 
 
 >Related content:
