@@ -11,7 +11,7 @@
 #### Exploring Various Assessment Models
 Before selecting the Shingo model as the basis for my model, I examined various academic works on assessment models for operational excellence and continuous improvement.
 
-In [1], you'll find the CIRCA CI self-assessment tool—a research-based instrument designed for objective evaluation of continuous improvement within organizations. Moving on to the study referenced in [2], the aim is to create a comprehensive tool that includes operational metrics for lean practices, safety standards, and ergonomic considerations in a workplace or production line.
+In [1], you'll find the CIRCA CI self-assessment tool, a research-based instrument designed for objective evaluation of continuous improvement within organizations. Moving on to the study referenced in [2], the aim is to create a comprehensive tool that includes operational metrics for lean practices, safety standards, and ergonomic considerations in a workplace or production line.
 
 Then, in [3], the Lean Enterprise Self-Assessment (LESAT) is introduced, developed by the Lean Advancement Initiative (LAI) at the Massachusetts Institute of Technology (MIT). Initially designed in collaboration with the aerospace defense sector, LESAT serves as a tool to guide organizations on their Lean implementation journey. I had fun exploring this assessment model, and who knows, it might just inspire a whole new article from me down the road!
 
