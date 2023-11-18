@@ -65,7 +65,7 @@ These five assessment models, according to [3] fail to cover all aspects or guid
 
 #### A tailor-made Operational Excellence Maturity Model
 
-The operational excellence maturity model that I am putting together for this blog post can be used as an assessment tool to estimate where an organisation is in their operational excellence journey. 
+The operational excellence maturity model I've put together for this blog post serves as an assessment tool to gauge an organization's progress in its operational excellence journey.
 
 The model consists of the following 5 dimensions:
 
