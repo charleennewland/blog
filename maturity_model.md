@@ -57,7 +57,6 @@ Let’s have a quick look now at the essential ingredients for an operational ex
 - Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
-
 Here are [five other assessment models](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) that I have explored for this blog. 
 
 According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
@@ -76,13 +75,11 @@ The model consists of the following 5 dimensions:
 - Enterprise Alignment
 - Results
 
-
 The image below illustrates the breakdown of these dimensions into various focus areas.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/charleennewland/blog/assets/138404574/f4f8b30a-9fef-4781-92d1-57a38629bec1/460/300">
+  <img width="1200" height="900" src="https://github.com/charleennewland/blog/assets/138404574/f4f8b30a-9fef-4781-92d1-57a38629bec1/460/300">
 </p>
-<br>
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
 The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: "Emerging," "Learning," "Committing," "Accelerating," and "Excelling," with each level specifying its prerequisites. In order to advance, the organization must fulfil the prerequisites for both the higher level and the ones before.
