@@ -7,6 +7,7 @@
 
 >*Reading Time: 4 min*
 >
+>This blogpost is part of the [Charleen Newland](http://newlandcharleen.com/) <br/>
 
 #### Exploring Various Assessment Models
 Before selecting the Shingo model as the basis for my model, I examined various academic works on assessment models for operational excellence and continuous improvement.
@@ -63,5 +64,4 @@ Now back to the [customized maturity model](https://github.com/charleennewland/b
 >Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
 >- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
-   
-
+>- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)   
