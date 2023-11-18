@@ -19,7 +19,7 @@ Before we get into the nitty-gritty of what it takes to whip up a tailor-made op
 
 
 <p align="center">
-<img width="800" height="300" src="https://github.com/charleennewland/blog/assets/138404574/3c95ec84-208f-44c9-b2b4-7bbdaf063561/460/300">
+<img width="600" height="300" src="https://github.com/charleennewland/blog/assets/138404574/3c95ec84-208f-44c9-b2b4-7bbdaf063561/460/300">
 </p>
 
 
