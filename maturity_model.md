@@ -79,7 +79,7 @@ The model consists of the following 5 dimensions:
 The image below illustrates the breakdown of these dimensions into various focus areas.
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f4f8b30a-9fef-4781-92d1-57a38629bec1/460/300">
+  <img width="800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/f4f8b30a-9fef-4781-92d1-57a38629bec1/460/300">
 </p>
 <br>
 
