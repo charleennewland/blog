@@ -43,6 +43,8 @@ According to the insights shared in [4], the Shingo assessment distinguishes its
 These five assessment models, according to [4] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. So many organisations will have to fend with creating their own operational excellence assessment models.
 
 Now back to the customized maturity model.
+[Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/post03/maturity_model.md)
+
 
 [1] Caffyn, S. (1999). Development of a continuous improvement self‐assessment tool. International Journal of Operations & Production Management, 19(11), 1138-1153.<br>
 [2] Brito, M. F., Ramos, A. L., Carneiro, P., & Gonçalves, M. A. (2019). A continuous improvement assessment tool, considering lean, safety and ergonomics. International Journal of Lean Six Sigma, 11(5), 879-902.<br>
