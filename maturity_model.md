@@ -88,7 +88,7 @@ Once all focus areas have been assessed, the organization is assigned an total o
 
 
 <p align="center">
-  <img width="1000" height="500" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
+  <img width="1100" height="500" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
