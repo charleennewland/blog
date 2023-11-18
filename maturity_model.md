@@ -57,8 +57,8 @@ Let’s have a quick look now at the essential ingredients for an operational ex
 - Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
-Before selecting the Shingo model as the basis for the customized model, I examined various academic works on assessment models for operational excellence and continuous improvement. Here are [five assessment models](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) that I have explored for this blog that you can read about in detail. 
-
+Prior to choosing the Shingo model as the foundation for the customized model, I reviewed several academic sources on assessment models related to operational excellence and continuous improvement. Here is detailed information about the [five assessment models](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) models that I've researched for this blog.
+ 
 According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
 
 These five assessment models, according to [3] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. So many organisations will have to fend with creating their own operational excellence assessment models.
