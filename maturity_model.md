@@ -13,7 +13,7 @@
 
 Many organizations tend to prioritize short-term improvements, often leading to a fixation on quick fixes rather than the pursuit of enduring, sustainable changes. Ideally, an organization aims to strike a balance between short-term gains and long-term objectives and one effective way to achieve this is through the implementation of Operational Excellence. Not every organization chooses existing assessments, whether for financial or privacy reasons, as an approach to pursue operational excellence. 
 
-Existing tools might not fully suit each organization or work stream. Creating an in-house model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
+Existing tools might not fully suit each organization or work stream. Creating an customized model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
 
 To develop an operational excellence maturity model, it is essential to understand the fundamental ideas underpinning the model, specifically centered around the principles of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md) and [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md). In my two previous posts, I delved into these definitions, so with that foundational knowledge in place, let's now direct our attention to the operational excellence maturity model.
 
@@ -82,8 +82,9 @@ The image below illustrates the breakdown of these dimensions into various focus
   <img width="800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/f4f8b30a-9fef-4781-92d1-57a38629bec1/460/300">
 </p>
 <br>
+<h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
-Image x illustrates 4 lines of the tailor-made maturity model. For this maturity model, I used the dimensions as suggested in [3] with the addition of quality management as a separate dimension. The model consists of five different levels, and each level in the model specifies its prerequisites. In order to advance, the organization must fulfil the prerequisites for both the higher level and the ones before.
+The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: "Emerging," "Learning," "Committing," "Accelerating," and "Excelling," with each level specifying its prerequisites. order to advance, the organization must fulfil the prerequisites for both the higher level and the ones before.
 
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to pinpoint and address areas with lower scores. An organization's overall operational excellence score increases as it performs well across the all areas, indicating progress in the right direction. It is crucial to regularly review and update the maturity model to align with the organization's evolving priorities
 
@@ -92,15 +93,16 @@ Once all focus areas have been assessed, the organization is assigned an total o
   <img width="1200" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
 </p>
 <br>
+<h5 align="center">Tailor-made Operational Excellence Maturity Model</h5>  
 
-####Conclusions
+#### Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
 
-There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an in-house operational excellence maturity model for privacy, financial, or compatibility reasons. An in-house assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities. 
+There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an customized operational excellence maturity model for privacy, financial, or compatibility reasons. A customized assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities. 
 
 
-[1] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation, a (retro) (per)spective. International Journal of Technology Management, 26(8), 805–827.
-[2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)
+[1] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation, a (retro) (per)spective. International Journal of Technology Management, 26(8), 805–827.<br>
+[2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 [3] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
 
 
