@@ -101,7 +101,7 @@ In summary, an Operational Excellence Maturity Model serves as a valuable tool f
 There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an customized operational excellence maturity model for privacy, financial, or compatibility reasons. A customized assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities. 
 
 
-[1] Boer, H., & Gertsen, F. (2003). From continuous improvement to continuous innovation, a (retro) (per)spective. International Journal of Technology Management, 26(8), 805–827.<br>
+[1] [The maturity of maturity model research: A systematic mapping study](https://www.sciencedirect.com/science/article/abs/pii/S0950584912001334)<br>
 [2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 [3] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
 
