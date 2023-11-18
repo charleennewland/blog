@@ -35,7 +35,7 @@ The study referenced in [1] defines a maturity model as a development of an enti
 #### Perks of an Operational Excellence Maturity Model
 In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success. Now, let's look into the benefits of utilizing an operational excellence maturity model to reach this objective.
 
-**Benefits of an Operational Excellence Maturity Model according to [2] are:**
+>*Benefits of an Operational Excellence Maturity Model according to [2] are:*
 
 - Continuous Improvement; promotes a culture of continuous improvement throughout the organization.
 - Strategic Harmony; aligns operational strategies with company objectives for a unified strategy.
@@ -46,7 +46,7 @@ In the hustle and bustle of today's world, operational excellence isn't just a c
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
 Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier blog post on [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
-**As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:**
+>*As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:**
 
 - Cultural Enablers - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence
 - Continuous Process Improvement - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not
@@ -88,7 +88,7 @@ Once all focus areas have been assessed, the organization is assigned an total o
 </p>
 <br>
 
-Conclusions
+####Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
 
 There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an in-house operational excellence maturity model for privacy, financial, or compatibility reasons. An in-house assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities. 
