@@ -7,7 +7,7 @@
 
 >*Reading Time: 4 min*
 >
->This post is part of the [Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/maturity_model.md) article post<br/>
+>This post is part of the [Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/maturity_model.md) article <br/>
 
 #### Exploring Various Assessment Models
 Before selecting the Shingo model as the basis for my model, I examined various academic works on assessment models for operational excellence and continuous improvement.
