@@ -34,7 +34,7 @@ The image below presents a description of these models, potential drawbacks, and
 
 
 <p align="center">
-  <img width="1200" height="600" src="https://github.com/charleennewland/blog/assets/138404574/f0122af3-1d3f-4a65-88d5-c079f2cbf969)/300/300">
+  <img width="1100" height="600" src="https://github.com/charleennewland/blog/assets/138404574/f0122af3-1d3f-4a65-88d5-c079f2cbf969)/300/300">
 </p>
 
 <h5 align="center">Overview of Assessment Models [4]</h5>   
