@@ -50,14 +50,14 @@ In the hustle and bustle of today's world, operational excellence isn't just a c
 
 Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier blog post on [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
->*As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:**
+>*As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:*
 
 - Cultural Enablers - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence
 - Continuous Process Improvement - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not
 - Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
-Read here link about various Assessment Models that have been explored
+Here are five other assessment models that I have explored for this blog post.
 
 According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
 
