@@ -58,7 +58,7 @@ Let’s have a quick look now at the essential ingredients for an operational ex
 - Results - all leaders in the organization share one common responsibility: they are responsible for results
 
 
-[Here] are five other assessment models that I have explored for this blog (https://github.com/charleennewland/blog/blob/post03/Assessment_models.md).
+Here are [five other assessment models](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) that I have explored for this blog. 
 
 According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
 
