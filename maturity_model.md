@@ -11,7 +11,9 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7e8cd1e4-af70-4679-a557-9341d8a37dc4/460/300">
 </p>
 
-Many organizations tend to prioritize short-term improvements, often leading to a fixation on quick fixes rather than the pursuit of enduring, sustainable changes. Ideally, an organization aims to strike a balance between short-term gains and long-term objectives and one effective way to achieve this is through the implementation of Operational Excellence. Not every organization chooses existing assessments, whether for financial or privacy reasons, as an approach to pursue operational excellence. Existing tools might not fully suit each organization or work stream. Creating an in-house model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
+Many organizations tend to prioritize short-term improvements, often leading to a fixation on quick fixes rather than the pursuit of enduring, sustainable changes. Ideally, an organization aims to strike a balance between short-term gains and long-term objectives and one effective way to achieve this is through the implementation of Operational Excellence. Not every organization chooses existing assessments, whether for financial or privacy reasons, as an approach to pursue operational excellence. 
+
+Existing tools might not fully suit each organization or work stream. Creating an in-house model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
 
 To develop an operational excellence maturity model, it is essential to understand the fundamental ideas underpinning the model, specifically centered around the principles of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md) and [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md). In my two previous posts, I delved into these definitions, so with that foundational knowledge in place, let's now direct our attention to the operational excellence maturity model.
 
@@ -33,6 +35,7 @@ Picture a maturity model like a ladder. At its core, it's made up of assessment 
 The study referenced in [1] defines a maturity model as a development of an entity over time. This entity or object can cover a wide range of subjects, from individuals to organizational functions.‌ A maturity model serves as a tool for assessing an organization's performance and continuous growth in a specific domain. Maturity models can be used in a wide range of domains, from project management and software development to information security and operational excellence.
 
 #### Perks of an Operational Excellence Maturity Model
+
 In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success. Now, let's look into the benefits of utilizing an operational excellence maturity model to reach this objective.
 
 >*Benefits of an Operational Excellence Maturity Model according to [2] are:*
@@ -44,6 +47,7 @@ In the hustle and bustle of today's world, operational excellence isn't just a c
 - Informed Decision-Making; promotes data-driven decisions essential for long-term success.
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
+
 Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier blog post on [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
 >*As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:**
@@ -60,6 +64,7 @@ According to the insights shared in [3], the Shingo assessment distinguishes its
 These five assessment models, according to [3] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. So many organisations will have to fend with creating their own operational excellence assessment models.
 
 #### A tailor-made Operational Excellence Maturity Model
+
 The operational excellence maturity model that I am putting together for this blog post can be used as an assessment tool to estimate where an organisation is in their operational excellence journey. 
 
 The model consists of the following 5 dimensions:
