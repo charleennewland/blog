@@ -10,7 +10,7 @@
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/27abaae5-1041-4ce0-b04b-d2aebf650760/460/300">
 </p>
 
-In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, I want to zoom in on the opportunities process improvement failures present for a potential continuous improvement framework. <br>
+In my last [blog post](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md), we had a look at themes underlying process improvement failures. In this blog post, we will focus on the fundamental ideas around operational ecellence and continuous improvement. In this post, part 1, we concentrate on the definition of continuous improvement, and in part 2 we will focus on the definition of operational excellence. In part 3, we will finally cover the process of creating an operational excellence maturity model.
 
 
 <p align="center">
