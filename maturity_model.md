@@ -28,7 +28,7 @@ Before we get into the nitty-gritty of what it takes to whip up a tailor-made op
 
 #### What exactly do we mean when we say "Maturity Model"?
 
-A quick online search will produce numerous examples of maturity models applied across diverse industries. These models help organizations identify organizational gaps and strengths, which they can then use to develop a proper roadmap to improve crucial workflows or initiatives.
+A quick online search will produce numerous examples of maturity models applied across different industries. These models help organizations identify organizational gaps and strengths, which they can then use to develop a proper roadmap to improve crucial workflows or initiatives.
 
 Picture a maturity model like a ladder; at its core, it's made up of assessment criteria, forming the rungs of the ladder, and various maturity levels, all tied together with a handy scoring system. It's like a roadmap for leveling up in excellence!
 
