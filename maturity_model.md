@@ -15,7 +15,7 @@ In the hustle and bustle of today's world, operational excellence isn't just a c
 
 Creating a customized model enables an organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
 
-To develop an operational excellence maturity model, it is essential to understand the fundamental ideas underpinning the model, specifically centered around the principles of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md) and [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md). In my two previous posts, I delved into these definitions, so with that foundational knowledge in place, let's now direct our attention to the operational excellence maturity model.
+To develop an operational excellence maturity model, it is essential to understand the fundamental ideas underpinning the model. In my previous blogs, I delved into both of these—[continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)  and [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md). So, with that foundational knowledge in place, let's now direct our attention to the operational excellence maturity model. 
 
 Before we get into the nitty-gritty of what it takes to whip up a tailor-made operational excellence maturity model, let's kick things off with a lighthearted exploration of what in the world a maturity model is, shall we? 
 
