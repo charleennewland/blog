@@ -85,15 +85,24 @@ The image below illustrates the breakdown of these dimensions into various focus
 </p>
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
-The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: "Emerging," "Learning," "Committing," "Accelerating," and "Excelling," with each level specifying its prerequisites. In order to advance, the organization must fulfil the prerequisites for both the higher level and the ones before.
+The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: 
+1. "Emerging,"
+2. "Learning,"
+3. "Committing,"
+4. "Accelerating,"
+5. and "Excelling,"
+with each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
 
-Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to pinpoint and address areas with lower scores. An organization's overall operational excellence score increases as it performs well across the all areas, indicating progress in the right direction. It is crucial to regularly review and update the maturity model to align with the organization's evolving priorities
+Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores. An organization's overall operational excellence score increases as it performs well across all areas, indicating progress in the right direction. It is important to regularly review and update the maturity model to align with the organization's evolving priorities
 
 
 <p align="center">
   <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
+
+So let's dissect one of these lines.
+
 
 #### Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
