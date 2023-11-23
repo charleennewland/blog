@@ -17,7 +17,7 @@ In my last [blog post](https://github.com/charleennewland/blog/blob/post02/proce
   <img width="300" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f7fd2a30-dc56-479c-ac61-48b921956446/300/300">
 </p>
 
-Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. In this blog post, we will focus on the definition of continuous improvement, and in the next, the focus will be on operational excellence.
+Before we get into methodologies, models and techniques, I have to clarify the definitions of continuous improvement and operational excellence. These terms are sometimes used interchangeably in the business world; while there is a close association between the two, they are in fact two different things. Let's get to it.
 
 #### What is Continuous Improvement?
 There are several definitions for continuous improvement in academic writing. Although there are similarities between these definitions, they all emphasise a different point of view.
