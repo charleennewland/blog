@@ -11,9 +11,9 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7e8cd1e4-af70-4679-a557-9341d8a37dc4/460/300">
 </p>
 
-Many organizations tend to prioritize short-term improvements, often leading to a fixation on quick fixes rather than the pursuit of enduring, sustainable changes. Ideally, an organization aims to strike a balance between short-term gains and long-term objectives and one effective way to achieve this is through the implementation of Operational Excellence. Not every organization chooses existing assessments, whether for financial or privacy reasons, as an approach to pursue operational excellence. 
+In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success.  Implementing an operational excellence maturity model is a key approach to achieve this. Some organizations turn to existing operational excellence maturity models or engage with assessment companies for guidance. However, not every organisation can do so, whether for financial reasons or privacy concerns. Existing assessments models or tools may not always perfectly align with the needs and characteristics of every organization or work stream.
 
-Existing tools might not fully suit each organization or work stream. Creating a customized model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
+Creating a customized model enables an organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
 
 To develop an operational excellence maturity model, it is essential to understand the fundamental ideas underpinning the model, specifically centered around the principles of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md) and [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md). In my two previous posts, I delved into these definitions, so with that foundational knowledge in place, let's now direct our attention to the operational excellence maturity model.
 
@@ -30,27 +30,28 @@ Before we get into the nitty-gritty of what it takes to whip up a tailor-made op
 
 A quick online search will produce numerous examples of maturity models applied across diverse industries. These models help organizations identify organizational gaps and strengths, which they can then use to develop a proper roadmap to improve crucial workflows or initiatives.
 
-Picture a maturity model like a ladder. At its core, it's made up of assessment criteria, forming the rungs of the ladder, and various maturity levels, all tied together with a handy scoring system. It's like a roadmap for leveling up in excellence!
+Picture a maturity model like a ladder; at its core, it's made up of assessment criteria, forming the rungs of the ladder, and various maturity levels, all tied together with a handy scoring system. It's like a roadmap for leveling up in excellence!
 
 The study referenced in [1] defines a maturity model as a development of an entity over time. This entity or object can cover a wide range of subjects, from individuals to organizational functions.‌ A maturity model serves as a tool for assessing an organization's performance and continuous growth in a specific domain. Maturity models can be used in a wide range of domains, from project management and software development to information security and operational excellence.
 
 #### Perks of an Operational Excellence Maturity Model
 
-In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success. Now, let's look into the benefits of utilizing an operational excellence maturity model to reach this objective.
+Organisations usually focus on quick gains, but making lasting changes needs a mix of short-term wins and long-term goals.
+Operational Excellence helps strike this balance, vital for an organization's survival. Now, let's quickly explore some of the advantages of operational excellence.
 
->*Benefits of an Operational Excellence Maturity Model according to [2] are:*
+The benefits of an Operational Excellence Maturity Model according to [2] are:
 
-- Continuous Improvement; promotes a culture of continuous improvement throughout the organization.
-- Strategic Harmony; aligns operational strategies with company objectives for a unified strategy.
-- Optimized Resource Utilization; assists in efficient resource utilization, leading to cost savings and increased production.
-- Effective Risk Management and Compliance; helps in identifying and managing risks, ensuring compliance, resilience, and adherence to standards.
-- Informed Decision-Making; promotes data-driven decisions essential for long-term success.
+- Continuous Improvement - promotes a culture of continuous improvement throughout the organization.
+- Strategic Harmony - aligns operational strategies with company objectives for a unified strategy.
+- Optimized Resource Utilization - assists in efficient resource utilization, leading to cost savings and increased production.
+- Effective Risk Management and Compliance - helps in identifying and managing risks, ensuring compliance, resilience, and adherence to standards.
+- Informed Decision-Making - promotes data-driven decisions essential for long-term success.
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
 
 Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
->*As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:*
+As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:
 
 - Cultural Enablers - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence
 - Continuous Process Improvement - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not
