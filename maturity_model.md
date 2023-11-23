@@ -48,7 +48,7 @@ In the hustle and bustle of today's world, operational excellence isn't just a c
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
 
-Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier blog post on [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
+Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals.We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
 >*As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:*
 
