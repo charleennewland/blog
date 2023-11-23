@@ -10,7 +10,7 @@
 >This post is part of the [Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/maturity_model.md) article <br/>
 
 #### Exploring Various Assessment Models
-Before selecting the Shingo model as the basis for my model, I examined various academic works on assessment models for operational excellence and continuous improvement.
+Before selecting the Shingo model as the basis for my model, I examined various academic sources on assessment models for operational excellence and continuous improvement.
 
 In [1], you'll find the CIRCA CI self-assessment tool, a research-based instrument designed for objective evaluation of continuous improvement within organizations. Moving on to the study referenced in [2], the aim is to create a comprehensive tool that includes operational metrics for lean practices, safety standards, and ergonomic considerations in a workplace or production line.
 
