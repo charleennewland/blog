@@ -41,11 +41,11 @@ Operational Excellence helps strike this balance, vital for an organization's su
 
 The benefits of an Operational Excellence Maturity Model according to [2] are:
 
-- Continuous Improvement - promotes a culture of continuous improvement throughout the organization.
-- Strategic Harmony - aligns operational strategies with company objectives for a unified strategy.
-- Optimized Resource Utilization - assists in efficient resource utilization, leading to cost savings and increased production.
-- Effective Risk Management and Compliance - helps in identifying and managing risks, ensuring compliance, resilience, and adherence to standards.
-- Informed Decision-Making - promotes data-driven decisions essential for long-term success.
+- *Continuous Improvement* - promotes a culture of continuous improvement throughout the organization;
+- *Strategic Harmony* - aligns operational strategies with company objectives for a unified strategy;
+- *Optimized Resource Utilization* - assists in efficient resource utilization, leading to cost savings and increased production;
+- *Effective Risk Management and Compliance* - helps in identifying and managing risks, ensuring compliance, resilience, and adherence to standards;
+- *Informed Decision-Making* - promotes data-driven decisions essential for long-term success.
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
 
@@ -53,10 +53,10 @@ Let’s have a quick look now at the essential ingredients for an operational ex
 
 As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:
 
-- Cultural Enablers - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence
-- Continuous Process Improvement - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not
-- Enterprise Alignment - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized
-- Results - all leaders in the organization share one common responsibility: they are responsible for results
+- *Cultural Enablers* - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence;
+- *Continuous Process Improvement* - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not;
+- *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
+- *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
 
 #### Exploring Established Assessment Models
 
