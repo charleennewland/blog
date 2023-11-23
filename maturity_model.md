@@ -13,7 +13,7 @@
 
 Many organizations tend to prioritize short-term improvements, often leading to a fixation on quick fixes rather than the pursuit of enduring, sustainable changes. Ideally, an organization aims to strike a balance between short-term gains and long-term objectives and one effective way to achieve this is through the implementation of Operational Excellence. Not every organization chooses existing assessments, whether for financial or privacy reasons, as an approach to pursue operational excellence. 
 
-Existing tools might not fully suit each organization or work stream. Creating an customized model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
+Existing tools might not fully suit each organization or work stream. Creating a customized model enables the organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
 
 To develop an operational excellence maturity model, it is essential to understand the fundamental ideas underpinning the model, specifically centered around the principles of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md) and [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md). In my two previous posts, I delved into these definitions, so with that foundational knowledge in place, let's now direct our attention to the operational excellence maturity model.
 
