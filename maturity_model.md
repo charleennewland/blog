@@ -11,7 +11,7 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7e8cd1e4-af70-4679-a557-9341d8a37dc4/460/300">
 </p>
 
-In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success.  Implementing an operational excellence maturity model is a key approach to achieve this. Some organizations turn to existing operational excellence maturity models or engage with assessment companies for guidance. However, not every organisation can do so, whether for financial reasons or privacy concerns. Existing assessments models or tools may not always perfectly align with the needs and characteristics of every organization or work stream.
+In the hustle and bustle of today's world, operational excellence isn't just a choice; it's a vital necessity for those aiming for long-term success.  Implementing an operational excellence maturity model is a key approach to achieve this. Some organizations turn to existing operational excellence maturity models or engage with assessment companies for guidance. However, not every organisation can do so, whether for financial reasons or privacy concerns. Existing assessment models or tools may not always perfectly align with the needs and characteristics of every organization or work stream.
 
 Creating a customized model enables an organization to focus on specific critical areas or processes vital for its success. This blog post will explore the process of developing a maturity model for operational excellence.
 
