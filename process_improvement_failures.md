@@ -52,4 +52,4 @@ In my upcoming blog, I'll look at the major themes underlying process improvemen
 
 [1] [The ‘how’ of transformation. (2016, May 9). McKinsey & Company.](https://www.mckinsey.com/industries/retail/our-insights/the-how-of-transformation)
 
-[2] [Antony, J., Lizarelli, F. L., Fernandes, M. M., Dempsey, M., Brennan, A., & McFarlane, J. (2019). A study into the reasons for process improvement project failures: results from a pilot survey. International Journal of Quality & Reliability Management.](https://pureportal.strath.ac.uk/en/publications/a-study-into-the-reasons-for-process-improvement-project-failures)
+[2] [A study into the reasons for process improvement project failures](https://pureportal.strath.ac.uk/en/publications/a-study-into-the-reasons-for-process-improvement-project-failures)
