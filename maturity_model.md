@@ -58,6 +58,8 @@ As per the Shingo Institute [2], the fundamental principles for developing opera
 - *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
 - *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
 
+  Now that we've meticulously mapped out our roadmap to riveting precision, let's delve into some existing assessment models.
+  
 <p align="center">
 <img width="55
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
