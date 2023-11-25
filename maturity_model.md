@@ -86,7 +86,7 @@ The model consists of the following 5 dimensions:
 The image below shows the breakdown I created, categorizing these dimensions into various focus areas.
 
 <p align="center">
-  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/29091ef3-c280-428e-94a7-3bcc72a7307f/460/300">
+  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/8f99378b-0724-4851-a67d-92d95ab3d46f/460/300">
 </p>
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
@@ -112,7 +112,7 @@ With each level specifying its requirements. In order to advance, the organizati
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
 
 <p align="center">
-  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
+  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/19458d62-f1a6-4966-861b-c7619aaf32ec/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
