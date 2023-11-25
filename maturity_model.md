@@ -86,7 +86,7 @@ The model consists of the following 5 dimensions:
 The image below shows the breakdown I created, categorizing these dimensions into various focus areas.
 
 <p align="center">
-  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/52f4b9b9-278d-4bc6-9726-022d5bb61083/460/300">
+  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/29091ef3-c280-428e-94a7-3bcc72a7307f/460/300">
 </p>
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
