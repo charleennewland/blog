@@ -116,13 +116,17 @@ Once all focus areas have been assessed, the organization is assigned an total o
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
-Let's move forward and dissect one of the lines out of this maturity model and let's go with line 13 which falls under the dimension named Excellence-Driven Framework with the focus area being Excellence-Driven Policy.
+Let's move forward and zoom in on line 13 of this maturity model as an example, which falls under the dimension named 'Excellence-Driven Framework,' with the focus area being 'Excellence-Driven Policy.
 
-In Level 1; The organization lacks a documented excellence driven policy excellence
+In Level 1; There is no documented excellence driven policy 
 
-In Level 1; The organization lacks a documented excellence driven policy excellence
+In Level 2; There is a loosely defined approach to acchieving excellence 
 
+In Level 3; There is a documented excellence driven policy 
 
+In Level 4; There is a documented policy expressing a commitment to excellence, supported by proper training to ensure alignment
+
+In Level 5; These principles shape daily operations, with clear evidence of leadership commitment to this policy with regular assessments effectiveness
 
 This maturity model helps organizations aim for:
 
