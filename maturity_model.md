@@ -93,14 +93,19 @@ The image below showcases four lines of the customized maturity model. The model
 5. and "Excelling,"
 with each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
 
-Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores. 
-Reduced Subjectivity: Clearly defined levels help minimize subjective interpretations during assessments.
-Measurable Progress: Organizations can track their progress objectively as they move from one level to another.
-Reduced Manipulation: The specificity of well-defined levels reduces the opportunity for manipulation or misrepresentation of maturity.
-Targeted Development: Organizations can strategically focus on the specific criteria needed to progress to the next level.
-Efficient Resource Allocation: Resources can be directed toward areas identified as critical for advancement.
-Enhanced Accountability: Each maturity level comes with well-defined expectations, promoting accountability at different organizational levels.
-Ownership: Teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels.
+Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
+
+This maturity model helps organizations aim:
+
+- *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments
+- *Measurable Progress* - organizations can track their progress objectively as they move from one level to another
+- *Reduced Manipulation* - the specificity of well-defined levels reduces the opportunity for manipulation or misrepresentation of maturity
+- *Targeted Development* - organizations can strategically focus on the specific criteria needed to progress to the next level
+- *Efficient Resource Allocation* - resources can be directed toward areas identified as critical for advancement.
+- *Enhanced Accountability* - each maturity level comes with well-defined expectations, promoting accountability at different organizational levels.
+- *Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels
+- *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels
+- *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations
 
 <p align="center">
   <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
