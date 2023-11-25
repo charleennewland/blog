@@ -60,7 +60,7 @@ As per the Shingo Institute [2], the fundamental principles for developing opera
 
 <p align="center">
 <img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/3c95ec84-208f-44c9-b2b4-7bbdaf063561/460/300">
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
 </p>
 
 #### Exploring Established Assessment Models
