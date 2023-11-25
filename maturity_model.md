@@ -69,9 +69,7 @@ Now that we've finely combed through our specific requirements for the maturity 
 
 Prior to choosing the Shingo model as the foundation for the customized model, I reviewed several academic sources on assessment models related to operational excellence and continuous improvement. Here is detailed information about the [five assessment models (including the Shingo model)](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) that I've researched for this blog.
  
-According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
-
-These four assessment models, according to [3] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. Many organisations will have to fend with creating their own operational excellence assessment models.
+According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence. These four assessment models fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. Many organisations will have to fend with creating their own operational excellence assessment models.
 
 #### A tailor-made Operational Excellence Maturity Model
 
