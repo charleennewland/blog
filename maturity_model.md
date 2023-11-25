@@ -102,15 +102,15 @@ Once all focus areas have been assessed, the organization is assigned an total o
 
 This maturity model helps organizations aim for:
 
-- *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments
-- *Measurable Progress* - organizations can track their progress objectively as they move from one level to another
-- *Reduced Manipulation* - the specificity of well-defined levels reduces the opportunity for manipulation or misrepresentation of maturity
-- *Targeted Development* - organizations can strategically focus on the specific criteria needed to progress to the next level
-- *Efficient Resource Allocation* - resources can be directed toward areas identified as critical for advancement.
-- *Enhanced Accountability* - each maturity level comes with well-defined expectations, promoting accountability at different organizational levels.
-- *Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels
-- *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels
-- *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations
+- *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments;
+- *Measurable Progress* - organizations can track their progress objectively as they move from one level to another;
+- *Reduced Manipulation* - the specificity of well-defined levels reduce the opportunity for manipulation or misrepresentation of maturity;
+- *Targeted Development* - organizations can strategically focus on the specific criteria needed to progress to the next level;
+- *Efficient Resource Allocation* - helps organisations focus their resources on the important areas that will help make progress to the next level;
+- *Enhanced Accountability* - each maturity level comes with well-defined expectations, promoting accountability at different organizational levels;
+- *Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels;
+- *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels;
+- *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations;
 - *Increased Credibility* - well-defined levels increase the credibility of the maturity model when communicating with external stakeholders.
 
 So let's dissect one of these lines.
