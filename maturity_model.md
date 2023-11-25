@@ -112,7 +112,7 @@ With each level specifying its requirements. In order to advance, the organizati
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
 
 <p align="center">
-  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/e68edb1c-9042-4ce7-8028-96e936e383ea/460/300">
+  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/f1b83997-7883-41ca-be3b-7d30db9a47b3)/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
@@ -126,7 +126,7 @@ In Level 3; There is a documented excellence driven policy
 
 In Level 4; There is a documented policy expressing a commitment to excellence, supported by proper training to ensure alignment
 
-In Level 5; These principles shape daily operations, with clear evidence of leadership commitment to this policy with regular assessments effectiveness
+In Level 5; These principles shape daily operations, with evident leadership commitment and regular assessments of effectiveness
 
 This maturity model helps organizations aim for:
 
