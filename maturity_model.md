@@ -112,7 +112,7 @@ With each level specifying its requirements. In order to advance, the organizati
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
 
 <p align="center">
-  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/f1b83997-7883-41ca-be3b-7d30db9a47b3)/460/300">
+  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/3df39b8a-189b-4f72-b01e-9e4a62f0d597)/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
