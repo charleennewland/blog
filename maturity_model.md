@@ -112,9 +112,11 @@ With each level specifying its requirements. In order to advance, the organizati
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
 
 <p align="center">
-  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/19458d62-f1a6-4966-861b-c7619aaf32ec/460/300">
+  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/e68edb1c-9042-4ce7-8028-96e936e383ea/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
+
+Let's move forward and dissect one of the lines out of this maturity model/ Let's go with line
 
 This maturity model helps organizations aim for:
 
@@ -129,10 +131,7 @@ This maturity model helps organizations aim for:
 - *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations;
 - *Increased Credibility* - well-defined levels increase the credibility of the maturity model when communicating with external stakeholders.
 
-So let's dissect one of these lines.
-
 A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined
-
 
 #### Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
