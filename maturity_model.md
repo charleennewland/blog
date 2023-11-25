@@ -83,7 +83,7 @@ The model consists of the following 5 dimensions:
 - Enterprise Alignment
 - Results
 
-The image below illustrates the breakdown of these dimensions into various focus areas.
+The image below shows the breakdown I created, categorizing these dimensions into various focus areas.
 
 <p align="center">
   <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/5b75b595-b765-498f-9bc3-90e817a49ddc/460/300">
