@@ -93,8 +93,14 @@ The image below showcases four lines of the customized maturity model. The model
 5. and "Excelling,"
 with each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
 
-Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores. An organization's overall operational excellence score increases as it performs well across all areas, indicating progress in the right direction. It is important to regularly review and update the maturity model to align with the organization's evolving priorities
-
+Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores. 
+Reduced Subjectivity: Clearly defined levels help minimize subjective interpretations during assessments.
+Measurable Progress: Organizations can track their progress objectively as they move from one level to another.
+Reduced Manipulation: The specificity of well-defined levels reduces the opportunity for manipulation or misrepresentation of maturity.
+Targeted Development: Organizations can strategically focus on the specific criteria needed to progress to the next level.
+Efficient Resource Allocation: Resources can be directed toward areas identified as critical for advancement.
+Enhanced Accountability: Each maturity level comes with well-defined expectations, promoting accountability at different organizational levels.
+Ownership: Teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels.
 
 <p align="center">
   <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
@@ -102,6 +108,8 @@ Once all focus areas have been assessed, the organization is assigned an total o
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
 So let's dissect one of these lines.
+
+A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined
 
 
 #### Conclusions
