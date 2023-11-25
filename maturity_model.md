@@ -100,7 +100,7 @@ Once all focus areas have been assessed, the organization is assigned an total o
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
-This maturity model helps organizations aim:
+This maturity model helps organizations aim for:
 
 - *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments
 - *Measurable Progress* - organizations can track their progress objectively as they move from one level to another
