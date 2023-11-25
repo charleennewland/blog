@@ -91,11 +91,31 @@ The image below shows the breakdown I created, categorizing these dimensions int
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
 The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: 
-Level 1. Emerging - in this phase the organisation has a very reactive approach to the subject;
-Level 2. Learning - in this phase the organisation has a basic approach to the subject;
-Level 3. Committin - in this phase the organisation has a standardized or defined approach to the subject;
-Level 4. Accelerating - in this phase the organisation has a proactive approach to the subject;
-Level 5. Excelling - in this phase the organisation has a optimized approach to the subject.
+
+- Level 1: Emerging - Reactive Approach:
+Organization has a reactive approach to the subject.
+Limited awareness and response to issues.
+Minimal processes in place.
+
+- Level 2: Learning - Basic Understanding:
+Organization is developing a basic understanding of the subject.
+Initial efforts to learn and implement rudimentary processes.
+Limited documentation and inconsistent practices.
+
+- Level 3: Committing - Standardized/Defined Approach:
+Organization commits to a standardized or defined approach to the subject.
+Well-established processes with documentation.
+Consistent application of practices across the organization.
+
+- Level 4: Accelerating - Proactive Approach:
+Organization has a proactive approach to the subject.
+Continuous improvement and optimization of processes.
+Adoption of innovative practices to enhance effectiveness.
+
+- Level 5: Excelling - Optimized Approach:
+Organization excels with an optimized approach to the subject.
+Processes are highly efficient, streamlined, and well-optimized.
+Continuous innovation and adaptation to changing needs.
 
 With each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
 
