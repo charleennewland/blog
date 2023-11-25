@@ -91,12 +91,13 @@ The image below shows the breakdown I created, categorizing these dimensions int
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
 The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: 
-1. "Emerging,"
-2. "Learning,"
-3. "Committing,"
-4. "Accelerating,"
-5. and "Excelling,"
-with each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
+Level 1. Emerging - in this phase the organisation has a very reactive approach to the subject;
+Level 2. Learning - in this phase the organisation has a basic approach to the subject;
+Level 3. Committin - in this phase the organisation has a standardized or defined approach to the subject;
+Level 4. Accelerating - in this phase the organisation has a proactive approach to the subject;
+Level 5. Excelling - in this phase the organisation has a optimized approach to the subject.
+
+With each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
 
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
 
