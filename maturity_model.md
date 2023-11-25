@@ -78,7 +78,7 @@ The operational excellence maturity model I've put together for this blog post s
 The model consists of the following 5 dimensions:
 
 - Cultural enablers
-- Continuous Process Improvement
+- Excellence-Driven Framework
 - Quality Management
 - Enterprise Alignment
 - Results
