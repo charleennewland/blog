@@ -49,7 +49,14 @@ The benefits of an Operational Excellence Maturity Model according to [2] are:
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
 
-Let’s have a quick look now at the essential ingredients for an operational excellence maturity model. In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals. We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
+Let’s have a quick look now at the essential ingredients for an operational excellence maturity model.
+
+<p align="center">
+<img width="55
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
+</p>
+
+In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals. We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
 As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:
 
@@ -57,13 +64,6 @@ As per the Shingo Institute [2], the fundamental principles for developing opera
 - *Continuous Process Improvement* - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not;
 - *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
 - *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
-
-Now that we've finely combed through our specific requirements for the maturity model, let's take a plunge into the sea of existing assessment models.
-  
-<p align="center">
-<img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
-</p>
 
 #### Exploring Established Assessment Models
 
