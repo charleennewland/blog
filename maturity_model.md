@@ -121,8 +121,9 @@ A maturity model, like the one I developed, provides several advantages, especia
 #### Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
 
-There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an customized operational excellence maturity model for privacy, financial, or compatibility reasons. A customized assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities. 
+There are some existing operational excellence tools out there that might be applicable in some organisations or work streams. Other organisations might opt to create an customized operational excellence maturity model for privacy, financial, or compatibility reasons. A customized assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities.
 
+The maturity model I created has many benefits, especially in making things clear and consistent. It reduces confusion, ensures everyone knows the criteria for each level, and prevents misinterpretation or manipulation during assessments.
 
 [1] [The maturity of maturity model research: A systematic mapping study](https://www.sciencedirect.com/science/article/abs/pii/S0950584912001334)<br>
 [2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
