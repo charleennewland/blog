@@ -49,7 +49,7 @@ The benefits of an Operational Excellence Maturity Model according to [2] are:
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
 
-Let’s have a quick look now at the essential ingredients for an operational excellence maturity model.
+Time for a sneak peek into the essential and specific requirements for an operational excellence maturity model!
 
 <p align="center">
 <img width="55
