@@ -95,6 +95,11 @@ with each level specifying its requirements. In order to advance, the organizati
 
 Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
 
+<p align="center">
+  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
+</p>
+<h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
+
 This maturity model helps organizations aim:
 
 - *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments
@@ -106,11 +111,6 @@ This maturity model helps organizations aim:
 - *Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels
 - *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels
 - *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations
-
-<p align="center">
-  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/27145314-a168-4471-8582-c50688593f4a/460/300">
-</p>
-<h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
 So let's dissect one of these lines.
 
