@@ -58,6 +58,10 @@ As per the Shingo Institute [2], the fundamental principles for developing opera
 - *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
 - *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
 
+- <p align="center">
+  <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
+</p>
+
 #### Exploring Established Assessment Models
 
 Prior to choosing the Shingo model as the foundation for the customized model, I reviewed several academic sources on assessment models related to operational excellence and continuous improvement. Here is detailed information about the [five assessment models (including the Shingo model)](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) that I've researched for this blog.
