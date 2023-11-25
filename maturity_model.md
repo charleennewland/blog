@@ -118,15 +118,22 @@ Once all focus areas have been assessed, the organization is assigned an total o
 
 Let's move forward and zoom in on line 13 of this maturity model as an example, which falls under the dimension named 'Excellence-Driven Framework,' with the focus area being 'Excellence-Driven Policy.
 
-In Level 1; There is no documented excellence driven policy 
+*In Level 1;* There is no documented excellence driven policy 
 
-In Level 2; There is a loosely defined approach to acchieving excellence 
+*In Level 2;* There is a loosely defined approach to achieving excellence 
 
-In Level 3; There is a documented excellence driven policy 
+*In Level 3;* There is a documented excellence driven policy 
 
-In Level 4; There is a documented policy expressing a commitment to excellence, supported by proper training to ensure alignment
+*In Level 4;* There is a documented policy expressing a commitment to excellence, supported by proper training to ensure alignment
 
-In Level 5; These principles shape daily operations, with evident leadership commitment and regular assessments of effectiveness
+*In Level 5;* These principles shape daily operations, with evident leadership commitment and regular assessments of effectiveness
+
+If an organisation has no documented excellence driven policy they basically score a 3 on this focus area. Now this organisation can decide if for the next quarter for instance they want to achieve level 3. In that case the organisation has to make sure that:
+1. there is a documented excellence driven policy
+2. containing a commitement to high standards
+3. encouraging innovation and adaptability to evolving industry trends and best practices
+4. commitment to empower employees with the necessary skills, resources, and support to excel in their roles
+5. customer satisfaction is integral to the pursuit of excellence 
 
 This maturity model helps organizations aim for:
 
