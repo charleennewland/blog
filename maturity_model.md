@@ -134,7 +134,7 @@ In that case, the organization needs to ensure that during the next assessment r
 - [ ] the policy includes leadership commitment;
 - [ ] the policy includes a review and revision process;
 - [ ] the policy is communicated to all employees;
-- [ ] all employees are trained to be in compliance with the principles in the policy;
+- [ ] all employees undergo training to ensure compliance with the principles outlined in the policy;
 - [ ] there is evidence that these principles are incorporated into daily operations;
 - [ ] there is evidence of leadership commitment;
 - [ ] there is evidence of the effectiveness of this excellence-driven approach.
