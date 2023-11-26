@@ -18,7 +18,7 @@ Then, in [3], the Lean Enterprise Self-Assessment (LESAT) is introduced, develop
 
 The CI self-assessment tool outlined in [1] helps users in positioning their organization within broad levels of CI maturity without providing a detailed "score." In contrast, the study mentioned in [2] concentrates solely on assessing workstations and production areas. The Lean Enterprise Self-Assessment found in [3] primarily centers on the adoption of Lean principles and practices. As a result, my attention will be directed towards the five well-known assessment models mentioned below.
 
->*Some of the well-known assessment models, according to [4] are:*
+#### Some of the well-known assessment models, according to [4] are:
 
 1) Shingo Assessment; developed by the Shingo Institute, the Shingo Model is based on principles and concepts inspired by Japanese industrial engineer Shigeo Shingo [5]
    
