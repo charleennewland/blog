@@ -49,8 +49,9 @@ Now back to the [Unlocking the Potential of an Operational Excellence Maturity M
 [2] [A continuous improvement assessment tool, considering lean, safety and ergonomics](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-12-2017-0144/full/html)<br>
 [3] [LESAT: The Lean Enterprise Self-Assessment Tool](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Nightingale+D.+LESAT%3A+The+Lean+Enterprise+Self-Assessment+Tool.+ESD.61J+%2F+16.852%3A+Integrating+the+Lean+Enterprise.&btnG=)<br>
 [4] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
-[5] Shingo Institute. Utah. Shingo Model Handbook.<br>
-[6] EFQM. An Overview of the EFQM Excellence Model. 2013. (Available at: http://www.efqm.org/sites/default/files/overview_efqm_2013_v1.pdf last accessed on 03/06/2016)<br>
+[5] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
+[6] [An Overview of the EFQM Excellence Model](https://efqm.org/)<br>
+[7] [An Overview of the EFQM Excellence Model](https://efqm.org/)<br>
 [7] Baldrige The Malcolm Baldrige Criteria for Performance Excellence. 2015. (Available at http://www.nist.gov/baldrige/publications/business_nonprofit_criteria.cfm last accessed on 03/06/2016) <br>
 [8] Kobayashi I. 20 Keys to Workplace Improvement. Productivity Press, Portland, 1995. <br>
 [9] Goodson RE. Read a Plant – Fast. Harvard Business School Publication Corporation; May, 2002. p. 3 – 11. <br>
