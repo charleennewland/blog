@@ -92,7 +92,7 @@ The image below shows the breakdown I created, categorizing these dimensions int
 </p>
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
-The image below showcases four lines of the customized maturity model. The model consists of five distinct levels: 
+This resulted in a full-blown customized maturity model that includes all the focus areas mentioned above. The image below showcases four lines from this model, each depicting the following five distinct levels for every focus area::
 
 - *Level 1: Emerging - Reactive Approach:*
 the organization has a reactive and adhoc approach to the subject, limited awareness and response to issues and minimal processes in place;
