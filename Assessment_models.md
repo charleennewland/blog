@@ -55,18 +55,6 @@ Now back to the [Unlocking the Potential of an Operational Excellence Maturity M
 [8] [20 Keys to Workplace Improvement](https://books.google.nl/books?hl=en&lr=&id=RvdKDwAAQBAJ&oi=fnd&pg=PT8&dq=Kobayashi+I.+20+Keys+to+Workplace+Improvement&ots=oOm4bWlFyB&sig=qbVwJezGXF3ou7JdlpX0JI2FuYI&redir_esc=y#v=onepage&q=Kobayashi%20I.%2020%20Keys%20to%20Workplace%20Improvement&f=false)<br>
 [9] [Read a Plant – Fast](https://scholar.google.com/scholar?oi=gsb05&lookup_url=http%3A%2F%2Fmanagement.unk.edu%2Fmgt314%2FRead%2520a%2520Plant%2520-%2520fast%2C%2520Harvard%2520Business%2520Review.pdf&lookup=0&hl=en)<br>
 
-[1] Caffyn, S. (1999). Development of a continuous improvement self‐assessment tool. International Journal of Operations & Production Management, 19(11), 1138-1153.<br>
-[2] Brito, M. F., Ramos, A. L., Carneiro, P., & Gonçalves, M. A. (2019). A continuous improvement assessment tool, considering lean, safety and ergonomics. International Journal of Lean Six Sigma, 11(5), 879-902.<br>
-[3] Nightingale D. LESAT: The Lean Enterprise Self-Assessment Tool. ESD.61J / 16.852: Integrating the Lean Enterprise. 2005 <br>
-[4] Operational excellence assessment framework for manufacturing companies <br>
-[5] Shingo Institute. Utah. Shingo Model Handbook.<br>
-[6] EFQM. An Overview of the EFQM Excellence Model. 2013. (Available at: http://www.efqm.org/sites/default/files/overview_efqm_2013_v1.pdf last accessed on 03/06/2016)<br>
-[7] Baldrige The Malcolm Baldrige Criteria for Performance Excellence. 2015. (Available at http://www.nist.gov/baldrige/publications/business_nonprofit_criteria.cfm last accessed on 03/06/2016) <br>
-[8] Kobayashi I. 20 Keys to Workplace Improvement. Productivity Press, Portland, 1995. <br>
-[9] Goodson RE. Read a Plant – Fast. Harvard Business School Publication Corporation; May, 2002. p. 3 – 11. <br>
-[8] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
-
-
 >Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
 >- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
