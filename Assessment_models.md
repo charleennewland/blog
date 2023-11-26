@@ -43,7 +43,7 @@ The remaining four assessment models, as mentioned in the [4], fall short in cov
 
 #### Summary
 
-In a nutshell, based on the insights from [4], the Shingo assessment is the true MVP, excelling in all four dimensions of operational greatness. So, naturally, it's the rockstar foundation for my custom-made operational excellence maturity model
+In a nutshell, based on the insights from [4], the Shingo assessment is the true MVP, excelling in all four dimensions of operational greatness. So, naturally, it's the rockstar foundation for my custom-made operational excellence maturity model.
 
 Now back to the [Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/maturity_model.md).
 
