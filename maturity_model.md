@@ -137,7 +137,7 @@ In that case, the organization needs to ensure that:
 - [ ] there is evidence of leadership commitment;
 - [ ] there is evidence of the effectiveness of this excellence-driven approach.
 
-Now, if the organization manages to check all the of these boxes, it ascends to the legendary Level 5 for this focus area! :tada:
+Now, if the organization successfully checks all these boxes, it ascends to the legendary Level 5 in this focus area! :tada:
 
 A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
 
