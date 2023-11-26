@@ -64,7 +64,7 @@ As per the Shingo Institute [2], the fundamental principles for achieving operat
 - *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
 - *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
 
-These are the principles that the customized maturity model is based on. However, I have broken them down into different dimensions and renamed some, as you will see later.
+These are the principles that the customized maturity model is based on. However, for the model, I've broken them down into different dimensions and renamed some, as you will see later on in this post.
 
 #### Exploring Established Assessment Models
 
@@ -74,7 +74,7 @@ According to the insights shared in [3], the Shingo assessment distinguishes its
 
 #### A tailor-made Operational Excellence Maturity Model
 
-The operational excellence maturity model I've put together for this blog post serves as an assessment tool to gauge an organization's progress in its operational excellence journey.
+The operational excellence maturity model I've designed serves as an assessment tool to gauge an organization's progress in its operational excellence journey.
 
 The model consists of the following 5 dimensions:
 
@@ -84,7 +84,7 @@ The model consists of the following 5 dimensions:
 - Enterprise Alignment
 - Results
 
-I created this breakdown because, while it covers the fundamental principles outlined by the Shingo Institute [2], it is divided into more manageable and dissectible sections—specifically, the focus areas. I designed it to integrate Continuous Improvement into the broader concept of an Excellence-Driven Framework. Additionally, I ensured that Quality Management stands as a distinct and standalone dimension, allowing it to be broken down into various essential and more manageable focus areas. This is designed to improve the assessor's experience, making the entire assessment process more manageable.
+I created this breakdown because, while it covers the fundamental principles outlined by the Shingo Institute [2], it is divided into more manageable and dissectible sections—specifically the focus areas. I designed the model to integrate Continuous Improvement into the broader concept of an Excellence-Driven Framework. Additionally, I ensured that Quality Management stands as a distinct and standalone dimension, allowing it to be broken down into various essential and more manageable focus areas. This is designed to improve the assessor's experience, making the entire assessment process more manageable.
 
 #### How does it work?
 
