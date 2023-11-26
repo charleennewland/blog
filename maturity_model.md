@@ -124,7 +124,10 @@ If an organization lacks a documented excellence-driven policy, as in this examp
 
 In that case, the organization needs to ensure that:
 
-[x] #739
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+      
 - there is a documented excellence-driven policy;
 - the policy contains a commitment to high standards;
 - the policy encourages innovation and adaptability to evolving industry trends and best practices;
