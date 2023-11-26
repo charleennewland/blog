@@ -50,7 +50,7 @@ Now back to the [Unlocking the Potential of an Operational Excellence Maturity M
 [3] [LESAT: The Lean Enterprise Self-Assessment Tool](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Nightingale+D.+LESAT%3A+The+Lean+Enterprise+Self-Assessment+Tool.+ESD.61J+%2F+16.852%3A+Integrating+the+Lean+Enterprise.&btnG=)<br>
 [4] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
 [5] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
-[6] [An Overview of the EFQM Excellence Model](https://efqm.org/)<br>
+[6] [The EFQM Excellence Model](https://efqm.org/)<br>
 [7] [Baldrige The Malcolm Baldrige Criteria for Performance Excellence](https://www.nist.gov/baldrige/2017-2018-baldrige-excellence-framework)<br>
 [8] [20 Keys to Workplace Improvement](https://books.google.nl/books?hl=en&lr=&id=RvdKDwAAQBAJ&oi=fnd&pg=PT8&dq=Kobayashi+I.+20+Keys+to+Workplace+Improvement&ots=oOm4bWlFyB&sig=qbVwJezGXF3ou7JdlpX0JI2FuYI&redir_esc=y#v=onepage&q=Kobayashi%20I.%2020%20Keys%20to%20Workplace%20Improvement&f=false)<br>
 [9] [Read a Plant – Fast](https://scholar.google.com/scholar?oi=gsb05&lookup_url=http%3A%2F%2Fmanagement.unk.edu%2Fmgt314%2FRead%2520a%2520Plant%2520-%2520fast%2C%2520Harvard%2520Business%2520Review.pdf&lookup=0&hl=en)<br>
