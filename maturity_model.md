@@ -144,11 +144,10 @@ A maturity model, like the one I created, provides several advantages, especiall
 Setting a maturity model up with defined criteria ensures:
 
 - *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments;
-- *Measurable Progress* - organizations can track their progress objectively as they move from one level to another;
+- *Structured & Measurable Progress* - organizations can track their progress objectively as they move through a structured path for continuous improvement, advancing systematically through the maturity levels;
 - *Reduced Manipulation* - the specificity of well-defined levels reduce the opportunity for manipulation or misrepresentation of maturity;
 - *Targeted Development & Efficient Resource Allocation* - helps organisations focus their resources on the important areas that will help make progress to the next level;
-- *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities to achieve and maintain specific levels, thereby promoting accountability;
-- *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels.
+- *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities to achieve and maintain specific levels, thereby promoting accountability.
 
 <p align="center">
 <img width="55
