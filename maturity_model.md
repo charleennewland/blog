@@ -138,18 +138,14 @@ In that case, the organization needs to ensure that:
 
 A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
 
-This maturity model helps organizations aim for:
+Setting a maturity model up with defined criteria ensures:
 
 - *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments;
 - *Measurable Progress* - organizations can track their progress objectively as they move from one level to another;
 - *Reduced Manipulation* - the specificity of well-defined levels reduce the opportunity for manipulation or misrepresentation of maturity;
-- *Targeted Development* - organizations can strategically focus on the specific criteria needed to progress to the next level;
-- *Efficient Resource Allocation* - helps organisations focus their resources on the important areas that will help make progress to the next level;
-- *Enhanced Accountability* - each maturity level comes with well-defined expectations, promoting accountability at different organizational levels;
-- *Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels;
-- *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels;
-- *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations;
-- *Increased Credibility* - well-defined levels increase the credibility of the maturity model when communicating with external stakeholders.
+- *Targeted Development & Efficient Resource Allocation* - helps organisations focus their resources on the important areas that will help make progress to the next level;
+- *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels, while promoting accountability;
+- *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels.
 
 A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined.
 
