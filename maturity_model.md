@@ -83,6 +83,8 @@ The model consists of the following 5 dimensions:
 - Enterprise Alignment
 - Results
 
+#### How does it work?
+
 The image below shows the breakdown I created, categorizing these dimensions into various focus areas.
 
 <p align="center">
