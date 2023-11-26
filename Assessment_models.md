@@ -51,9 +51,9 @@ Now back to the [Unlocking the Potential of an Operational Excellence Maturity M
 [4] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
 [5] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 [6] [An Overview of the EFQM Excellence Model](https://efqm.org/)<br>
-[7] [An Overview of the EFQM Excellence Model](https://efqm.org/)<br>
-[7] Baldrige The Malcolm Baldrige Criteria for Performance Excellence. 2015. (Available at http://www.nist.gov/baldrige/publications/business_nonprofit_criteria.cfm last accessed on 03/06/2016) <br>
-[8] Kobayashi I. 20 Keys to Workplace Improvement. Productivity Press, Portland, 1995. <br>
+[7] [Baldrige The Malcolm Baldrige Criteria for Performance Excellence](https://www.nist.gov/baldrige/2017-2018-baldrige-excellence-framework)<br>
+[8] [20 Keys to Workplace Improvement](https://books.google.nl/books?hl=en&lr=&id=RvdKDwAAQBAJ&oi=fnd&pg=PT8&dq=Kobayashi+I.+20+Keys+to+Workplace+Improvement&ots=oOm4bWlFyB&sig=qbVwJezGXF3ou7JdlpX0JI2FuYI&redir_esc=y#v=onepage&q=Kobayashi%20I.%2020%20Keys%20to%20Workplace%20Improvement&f=false)<br>
+[9] [An Overview of the EFQM Excellence Model](https://efqm.org/)<br>
 [9] Goodson RE. Read a Plant – Fast. Harvard Business School Publication Corporation; May, 2002. p. 3 – 11. <br>
 
 
