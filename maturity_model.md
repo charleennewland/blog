@@ -1,5 +1,5 @@
 # Unlocking the Potential of an Operational Excellence Maturity Model
-## Part III Achieving Operational Excellence: A Step-by-Step Approach to Maturity 
+## Part III. Achieving Operational Excellence: A Step-by-Step Approach to Maturity 
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
