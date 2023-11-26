@@ -128,19 +128,21 @@ In that case, the organization needs to ensure that:
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
       
-- there is a documented excellence-driven policy;
-- the policy contains a commitment to high standards;
-- the policy encourages innovation and adaptability to evolving industry trends and best practices;
-- the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
-- customer satisfaction is integral to the pursuit of excellence;
-- the policy includes leadership commitment;
-- the policy includes a review and revision process;
-- the policy is communicated to all employees;
-- all employees are trained to be in compliance with the principles in the policy;
-- there is evidence that these principles are incorporated into daily operations;
-- there is evidence of leadership commitment;
-- there is evidence of the effectiveness of this excellence-driven approach.
+- [ ] there is a documented excellence-driven policy;
+- [ ] the policy contains a commitment to high standards;
+- [ ] the policy encourages innovation and adaptability to evolving industry trends and best practices;
+- [ ] the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
+- [ ] customer satisfaction is integral to the pursuit of excellence;
+- [ ] the policy includes leadership commitment;
+- [ ] the policy includes a review and revision process;
+- [ ] the policy is communicated to all employees;
+- [ ] all employees are trained to be in compliance with the principles in the policy;
+- [ ] there is evidence that these principles are incorporated into daily operations;
+- [ ] there is evidence of leadership commitment;
+- [ ] there is evidence of the effectiveness of this excellence-driven approach.
 
+- [ ] If the organization successfully meets all these criteria, it reaches Level 5 :tada:
+Now, if the organization successfully meets all these criteria, it reaches Level 5 :tada:
 
 A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
 
