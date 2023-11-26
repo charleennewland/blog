@@ -105,7 +105,7 @@ the organization commits to a standardized or defined approach to the subject, w
 the organization has a proactive approach to the subject, adoption of innovative practices to enhance effectiveness;
 
 - *Level 5: Excelling - Optimized Approach:*
-the organization excels with an optimized approach to the subject, processes are highly efficient, streamlined, and well-optimized.
+The organization excels with an optimized approach to the subject, processes are highly efficient, streamlined, and well-optimized, and effectiveness is checked with evidence of compliance.
 
 With each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
 
