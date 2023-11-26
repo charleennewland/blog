@@ -22,11 +22,11 @@ The CI self-assessment tool outlined in [1] helps users in positioning their org
 
 1) Shingo Assessment; developed by the Shingo Institute, the Shingo Model is based on principles and concepts inspired by Japanese industrial engineer Shigeo Shingo [5]
    
-2) European Foundation for Quality Management (EFQM); The European Foundation for Quality Management (EFQM) provides a framework and a set of tools for organizations to assess and improve their performance, focusing strongly on quality, excellence, and continuous improvement. [6]
+2) European Foundation for Quality Management (EFQM); The European Foundation for Quality Management (EFQM) provides a framework and a set of tools for organizations to assess and improve their performance, focusing strongly on quality, excellence, and continuous improvement [6]
    
-3) Malcom Baldrige National Quality Award (MBQA); The Malcolm Baldrige National Quality Award (MBNQA), also known as the Baldrige Award, is a prestigious U.S. government recognition for exceptional quality and performance excellence, named after Malcolm Baldrige, the former U.S. Secretary of Commerce from 1981 to 1987, who championed quality management. [7]
+3) Malcom Baldrige National Quality Award (MBQA); The Malcolm Baldrige National Quality Award (MBNQA), also known as the Baldrige Award, is a prestigious U.S. government recognition for exceptional quality and performance excellence, named after Malcolm Baldrige, the former U.S. Secretary of Commerce from 1981 to 1987, who championed quality management [7]
    
-4) Kobayashi 20 Keys of workplace improvement; The "Kobayashi 20 Keys" are principles for workplace improvement by Iwao Kobayashi, a Japanese consultant. These keys emphasize lean manufacturing and continuous improvement to enhance operational performance and quality. [8]
+4) Kobayashi 20 Keys of workplace improvement; The "Kobayashi 20 Keys" are principles for workplace improvement by Iwao Kobayashi, a Japanese consultant. These keys emphasize lean manufacturing and continuous improvement to enhance operational performance and quality [8]
    
 5) Rapid Plant Assessment (RPA); RPA is a manufacturing assessment tool designed for quick evaluation, aimed at enhancing a facility's performance and efficiency by identifying improvement opportunities. [9]
 
@@ -45,6 +45,16 @@ These five assessment models, according to [4] fail to cover all aspects or guid
 
 Now back to the [Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/maturity_model.md).
 
+[1] [Development of a continuous improvement self‐assessment tool](https://www.emerald.com/insight/content/doi/10.1108/01443579910291050/full/html?fullSc=1&fullSc=1&fullSc=1&fullSc=1)<br>
+[2] [A continuous improvement assessment tool, considering lean, safety and ergonomics](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-12-2017-0144/full/html)<br>
+[3] [LESAT: The Lean Enterprise Self-Assessment Tool](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Nightingale+D.+LESAT%3A+The+Lean+Enterprise+Self-Assessment+Tool.+ESD.61J+%2F+16.852%3A+Integrating+the+Lean+Enterprise.&btnG=)<br>
+[4] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
+[5] Shingo Institute. Utah. Shingo Model Handbook.<br>
+[6] EFQM. An Overview of the EFQM Excellence Model. 2013. (Available at: http://www.efqm.org/sites/default/files/overview_efqm_2013_v1.pdf last accessed on 03/06/2016)<br>
+[7] Baldrige The Malcolm Baldrige Criteria for Performance Excellence. 2015. (Available at http://www.nist.gov/baldrige/publications/business_nonprofit_criteria.cfm last accessed on 03/06/2016) <br>
+[8] Kobayashi I. 20 Keys to Workplace Improvement. Productivity Press, Portland, 1995. <br>
+[9] Goodson RE. Read a Plant – Fast. Harvard Business School Publication Corporation; May, 2002. p. 3 – 11. <br>
+
 
 [1] Caffyn, S. (1999). Development of a continuous improvement self‐assessment tool. International Journal of Operations & Production Management, 19(11), 1138-1153.<br>
 [2] Brito, M. F., Ramos, A. L., Carneiro, P., & Gonçalves, M. A. (2019). A continuous improvement assessment tool, considering lean, safety and ergonomics. International Journal of Lean Six Sigma, 11(5), 879-902.<br>
@@ -55,9 +65,6 @@ Now back to the [Unlocking the Potential of an Operational Excellence Maturity M
 [7] Baldrige The Malcolm Baldrige Criteria for Performance Excellence. 2015. (Available at http://www.nist.gov/baldrige/publications/business_nonprofit_criteria.cfm last accessed on 03/06/2016) <br>
 [8] Kobayashi I. 20 Keys to Workplace Improvement. Productivity Press, Portland, 1995. <br>
 [9] Goodson RE. Read a Plant – Fast. Harvard Business School Publication Corporation; May, 2002. p. 3 – 11. <br>
-
-
-
 [8] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
 
 
