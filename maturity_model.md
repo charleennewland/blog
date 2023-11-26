@@ -36,10 +36,9 @@ The study referenced in [1] defines a maturity model as a development of an enti
 
 #### Perks of an Operational Excellence Maturity Model
 
-Organisations usually focus on quick gains, but making lasting changes needs a mix of short-term wins and long-term goals.
-Operational Excellence helps strike this balance, vital for an organization's survival. Now, let's quickly explore some of the advantages of operational excellence.
+Organizations usually focus on quick gains, but making lasting changes requires a mix of short-term wins and long-term goals. Operational excellence helps strike this balance, which is vital for an organization's survival. Now, let's quickly explore some of the advantages of an operational excellence maturity model.
 
-The benefits of an Operational Excellence Maturity Model according to [2] are:
+The benefits of an operational excellence maturity model according to [2] are:
 
 - *Continuous Improvement* - promotes a culture of continuous improvement throughout the organization;
 - *Strategic Harmony* - aligns operational strategies with company objectives for a unified strategy;
