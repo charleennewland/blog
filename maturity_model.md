@@ -128,7 +128,7 @@ If an organization lacks a documented excellence-driven policy, as in this examp
 In that case, the organization needs to ensure that during the next assessment round:
 
 - [ ] there is a documented excellence-driven policy;
-- [ ] the policy includes a commitment to high standards and emphasizes that customer satisfaction is integral to the pursuit of excellence;
+- [ ] the policy includes a commitment to high standards and underscores that customer satisfaction is integral to attaining excellence;
 - [ ] the policy encourages innovation and adaptability to evolving industry trends and best practices;
 - [ ] the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
 - [ ] the policy includes leadership commitment;
