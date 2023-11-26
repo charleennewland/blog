@@ -116,7 +116,7 @@ Once all focus areas have been assessed, the organization is assigned an total o
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
-Let's move forward and zoom in on line 13 of this maturity model as an example, which falls under the dimension named 'Excellence-Driven Framework,' with the focus area being 'Excellence-Driven Policy.
+Let's move ahead and take a closer look at line 13 in this maturity model as an example. It falls under the dimension named 'Excellence-Driven Framework,' with the focus area being 'Excellence-Driven Policy
 
 If an organization lacks a documented excellence-driven policy, it essentially scores a 3 in this focus area. The organization can then decide, for example, to target Level 5 in the next quarter. In that case, the organization needs to ensure that:
 
