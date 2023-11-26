@@ -122,7 +122,7 @@ Let's move ahead and take a closer look at line 13 in this maturity model as an 
 
 If an organization lacks a documented excellence-driven policy, as in this example, it essentially scores a 2 (Level 2) in this focus area, which is relatively low. The organization can then decide, for example, to aim for Level 5 in the next quarter.
 
-In that case, the organization needs to ensure that:
+In that case, the organization needs to ensure that during the next assessment round:
 
 - [ ] there is a documented excellence-driven policy;
 - [ ] the policy contains a commitment to high standards;
@@ -137,7 +137,7 @@ In that case, the organization needs to ensure that:
 - [ ] there is evidence of leadership commitment;
 - [ ] there is evidence of the effectiveness of this excellence-driven approach.
 
-Now, if the organization successfully checks all these boxes, it ascends to the legendary Level 5 in this focus area! :tada:
+Now, if the organization successfully checks all of these boxes, it ascends to the legendary Level 5 in this focus area! :tada:
 
 A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
 
