@@ -139,7 +139,7 @@ In that case, the organization needs to ensure that during the next assessment r
 
 Now, if the organization successfully checks all of these boxes, it ascends to the legendary Level 5 in this focus area! :tada:
 
-A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
+A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for misinterpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
 
 Setting a maturity model up with defined criteria ensures:
 
