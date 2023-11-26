@@ -41,7 +41,7 @@ The image below presents a description of these models, potential drawbacks, and
 
 According to the insights shared in [4], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence.
 
-These five assessment models, according to [4] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. So many organisations will have to fend with creating their own operational excellence assessment models.
+These four assessment models, according to [4] fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. So many organisations will have to fend with creating their own operational excellence assessment models.
 
 Now back to the [Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/maturity_model.md).
 
