@@ -107,18 +107,20 @@ the organization has a proactive approach to the subject, adoption of innovative
 - *Level 5: Excelling - Optimized Approach:*
 The organization excels with an optimized approach to the subject, processes are highly efficient, streamlined, and well-optimized, and effectiveness is checked with evidence of compliance.
 
-With each level specifying its requirements. In order to advance, the organization must fulfil the requirements for both the higher level and the ones before.
+With each level specifying its requirements, the organization must fulfill the criteria for both the higher level and the ones preceding it. The ultimate goal for an organization is to score a 5, which means reaching Level 5 or coming close to it in each focus area.
 
-Once all focus areas have been assessed, the organization is assigned an total operational excellence score, allowing it to focus on and address areas with a lower scores.
+Once all focus areas have been assessed, the organization is assigned a total operational excellence score, allowing it to focus on and address areas with lower scores.
 
 <p align="center">
   <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/3df39b8a-189b-4f72-b01e-9e4a62f0d597)/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
-Let's move ahead and take a closer look at line 13 in this maturity model as an example. It falls under the dimension named 'Excellence-Driven Framework,' with the focus area being 'Excellence-Driven Policy
+Let's move ahead and take a closer look at line 13 in this maturity model as an example. It falls under the dimension named 'Excellence-Driven Framework', with the focus area being 'Excellence-Driven Policy'.
 
-If an organization lacks a documented excellence-driven policy, it essentially scores a 3 in this focus area. The organization can then decide, for example, to target Level 5 in the next quarter. In that case, the organization needs to ensure that:
+If an organization lacks a documented excellence-driven policy, as in this example, it essentially scores a 2 (Level 2) in this focus area, which is relatively low. The organization can then decide, for example, to aim for Level 5 in the next quarter.
+
+In that case, the organization needs to ensure that:
 
 - there is a documented excellence-driven policy;
 - the policy contains a commitment to high standards;
@@ -134,6 +136,8 @@ If an organization lacks a documented excellence-driven policy, it essentially s
 - there is evidence of the effectiveness of this excellence-driven approach.
 
 
+A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
+
 This maturity model helps organizations aim for:
 
 - *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments;
@@ -147,7 +151,7 @@ This maturity model helps organizations aim for:
 - *Educational Tool* - it can be used as an educational tool to help stakeholders understand the organization's expectations;
 - *Increased Credibility* - well-defined levels increase the credibility of the maturity model when communicating with external stakeholders.
 
-A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined
+A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined.
 
 #### Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
