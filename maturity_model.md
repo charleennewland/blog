@@ -118,22 +118,21 @@ Once all focus areas have been assessed, the organization is assigned an total o
 
 Let's move forward and zoom in on line 13 of this maturity model as an example, which falls under the dimension named 'Excellence-Driven Framework,' with the focus area being 'Excellence-Driven Policy.
 
-*In Level 1;* There is no documented excellence driven policy 
+If an organization lacks a documented excellence-driven policy, it essentially scores a 3 in this focus area. The organization can then decide, for example, to target Level 5 in the next quarter. In that case, the organization needs to ensure that:
 
-*In Level 2;* There is a loosely defined approach to achieving excellence 
-
-*In Level 3;* There is a documented excellence driven policy 
-
-*In Level 4;* There is a documented policy expressing a commitment to excellence, supported by proper training to ensure alignment
-
-*In Level 5;* These principles shape daily operations, with evident leadership commitment and regular assessments of effectiveness
-
-If an organisation has no documented excellence driven policy they basically score a 3 on this focus area. Now this organisation can decide if for the next quarter for instance they want to achieve level 3. In that case the organisation has to make sure that:
-1. there is a documented excellence driven policy
-2. containing a commitement to high standards
-3. encouraging innovation and adaptability to evolving industry trends and best practices
-4. commitment to empower employees with the necessary skills, resources, and support to excel in their roles
-5. customer satisfaction is integral to the pursuit of excellence 
+1. There is a documented excellence-driven policy.
+2. The policy contains a commitment to high standards.
+3. Encourages innovation and adaptability to evolving industry trends and best practices.
+4. Commits to empowering employees with the necessary skills, resources, and support to excel in their roles.
+5. Customer satisfaction is integral to the pursuit of excellence.
+6. Describes leadership commitment.
+7. Consists of a review and revision process.
+8. Is communicated to all employees.
+9. All employees are trained to be in compliance with these principles
+10. There is evidence that tehse principles are incorpoarted into daily operations
+11. There is evidence of leadership commitment
+12. and their is evidence of the effectiveness of this excellence driven approach
+   
 
 This maturity model helps organizations aim for:
 
