@@ -144,7 +144,7 @@ Setting a maturity model up with defined criteria ensures:
 - *Measurable Progress* - organizations can track their progress objectively as they move from one level to another;
 - *Reduced Manipulation* - the specificity of well-defined levels reduce the opportunity for manipulation or misrepresentation of maturity;
 - *Targeted Development & Efficient Resource Allocation* - helps organisations focus their resources on the important areas that will help make progress to the next level;
-- *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities for achieving and maintaining specific levels, while promoting accountability;
+- *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities to achieve and maintain specific levels, thereby promoting accountability;
 - *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels.
 
 A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined.
