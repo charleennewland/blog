@@ -120,19 +120,19 @@ Let's move forward and zoom in on line 13 of this maturity model as an example, 
 
 If an organization lacks a documented excellence-driven policy, it essentially scores a 3 in this focus area. The organization can then decide, for example, to target Level 5 in the next quarter. In that case, the organization needs to ensure that:
 
-1. There is a documented excellence-driven policy.
-2. The policy contains a commitment to high standards.
-3. Encourages innovation and adaptability to evolving industry trends and best practices.
-4. Commits to empowering employees with the necessary skills, resources, and support to excel in their roles.
-5. Customer satisfaction is integral to the pursuit of excellence.
-6. Describes leadership commitment.
-7. Consists of a review and revision process.
-8. Is communicated to all employees.
-9. All employees are trained to be in compliance with these principles
-10. There is evidence that tehse principles are incorpoarted into daily operations
-11. There is evidence of leadership commitment
-12. and their is evidence of the effectiveness of this excellence driven approach
-   
+- there is a documented excellence-driven policy;
+- the policy contains a commitment to high standards;
+- the policy encourages innovation and adaptability to evolving industry trends and best practices;
+- the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
+- customer satisfaction is integral to the pursuit of excellence;
+- the policy includes leadership commitment;
+- the policy includes a review and revision process;
+- the policy is communicated to all employees;
+- all employees are trained to be in compliance with the principles in the policy;
+- there is evidence that these principles are incorporated into daily operations;
+- there is evidence of leadership commitment;
+- there is evidence of the effectiveness of this excellence-driven approach.
+
 
 This maturity model helps organizations aim for:
 
