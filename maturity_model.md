@@ -112,7 +112,7 @@ With each level specifying its requirements, the organization must fulfill the c
 Once all focus areas have been assessed, the organization is assigned a total operational excellence score, allowing it to focus on and address areas with lower scores.
 
 <p align="center">
-  <img width="1100" height="400" src="https://github.com/charleennewland/blog/assets/138404574/3df39b8a-189b-4f72-b01e-9e4a62f0d597)/460/300">
+  <img width="1400" height="500" src="https://github.com/charleennewland/blog/assets/138404574/3df39b8a-189b-4f72-b01e-9e4a62f0d597)/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
@@ -147,7 +147,10 @@ Setting a maturity model up with defined criteria ensures:
 - *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities to achieve and maintain specific levels, thereby promoting accountability;
 - *Structured Progression* - teams can follow a structured path for continuous improvement, moving systematically through the maturity levels.
 
-A maturity model, like the one I developed, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for interpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are more likely to arrive at similar evaluations since the criteria are explicitly outlined.
+<p align="center">
+<img width="55
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7c61823a-ec97-4658-b64d-b08386109650/460/300">
+</p>
 
 #### Conclusions
 In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
