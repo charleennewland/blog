@@ -91,7 +91,7 @@ I chose this breakdown because it covers the fundamental principles as per the S
 The image below shows the breakdown I created, categorizing these dimensions into various focus areas.
 
 <p align="center">
-  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/93871bac-3a9c-47f6-8822-bdb6831d3720/460/300">
+  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/af25e3cc-13d0-41d0-ab86-c7caccbe0a3b)/460/300">
 </p>
 <h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
 
@@ -117,7 +117,7 @@ With each level specifying its requirements, the organization must fulfill the c
 Once all focus areas have been assessed, the organization is assigned a total operational excellence score, allowing it to focus on and address areas with lower scores.
 
 <p align="center">
-  <img width="2300" height="500" src="https://github.com/charleennewland/blog/assets/138404574/4b483c50-d95a-407f-9a58-fcbcf07a416d)/460/300">
+  <img width="2300" height="500" src="https://github.com/charleennewland/blog/assets/138404574/93871bac-3a9c-47f6-8822-bdb6831d3720)/460/300">
 </p>
 <h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
 
