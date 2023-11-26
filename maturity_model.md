@@ -84,7 +84,7 @@ The model consists of the following 5 dimensions:
 - Enterprise Alignment
 - Results
 
-I created this breakdown because, while it covers the fundamental principles outlined by the Shingo Institute [2], it is divided into more manageable and dissectible sections—specifically, the focus areas. I designed it to integrate Continuous Improvement into the broader concept of an Excellence-Driven Framework. Additionally, I ensured that Quality Management stands as a distinct and standalone dimension, allowing it to be broken down into various essential and more manageable focus areas. This is designed to enhance the assessor's experience, making the entire process more manageable.
+I created this breakdown because, while it covers the fundamental principles outlined by the Shingo Institute [2], it is divided into more manageable and dissectible sections—specifically, the focus areas. I designed it to integrate Continuous Improvement into the broader concept of an Excellence-Driven Framework. Additionally, I ensured that Quality Management stands as a distinct and standalone dimension, allowing it to be broken down into various essential and more manageable focus areas. This is designed to improve the assessor's experience, making the entire assessment process more manageable.
 
 #### How does it work?
 
