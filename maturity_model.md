@@ -124,6 +124,7 @@ If an organization lacks a documented excellence-driven policy, as in this examp
 
 In that case, the organization needs to ensure that:
 
+[x] #739
 - there is a documented excellence-driven policy;
 - the policy contains a commitment to high standards;
 - the policy encourages innovation and adaptability to evolving industry trends and best practices;
