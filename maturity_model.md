@@ -64,6 +64,8 @@ As per the Shingo Institute [2], the fundamental principles for achieving operat
 - *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
 - *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
 
+These are the principles that the customized maturity model is based on. However, I have broken them down into different dimensions and renamed some, as you will see later.
+
 #### Exploring Established Assessment Models
 
 Prior to choosing the Shingo model as the foundation for the customized model, I reviewed several academic sources on assessment models related to operational excellence and continuous improvement. Here is detailed information about the [five assessment models (including the Shingo model)](https://github.com/charleennewland/blog/blob/post03/Assessment_models.md) that I've researched for this blog.
@@ -81,6 +83,8 @@ The model consists of the following 5 dimensions:
 - Quality Management
 - Enterprise Alignment
 - Results
+
+I chose this breakdown because it covers the fundamental principles as per the Shingo Institute [2] but it is chopped in more workable and dissectible portions.
 
 #### How does it work?
 
