@@ -57,7 +57,7 @@ Time for a sneak peek into the essential and specific requirements for an operat
 
 In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals. We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
-As per the Shingo Institute [2], the fundamental principles for developing operational excellence are categorized into the following dimensions:
+As per the Shingo Institute [2], the fundamental principles for achieving operational excellence are categorized into the following dimensions:
 
 - *Cultural Enablers* - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence;
 - *Continuous Process Improvement* - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not;
