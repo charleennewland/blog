@@ -98,7 +98,7 @@ The image below shows the breakdown I created, categorizing these dimensions int
 This resulted in a full-blown custom-made maturity model complete with all the focus areas mentioned above. The image below showcases four lines from this model, each depicting the following five distinct levels for every focus area:
 
 - *Level 1: Emerging - Reactive Approach:*
-the organization has a reactive and adhoc approach to the subject, limited awareness and response to issues and minimal processes in place;
+the organization has a reactive and ad-hoc approach to the subject, limited awareness and response to issues and minimal processes in place;
 
 - *Level 2: Learning - Basic Understanding:*
 the organization is developing a basic understanding of the subject, initial efforts to learn and implement basic processes, limited documentation and inconsistent practices;
