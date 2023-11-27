@@ -55,7 +55,7 @@ Time for a sneak peek into the essential and specific requirements for an operat
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
 </p>
 
-In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals. We will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
+In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals. I will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
 
 As per the Shingo Institute [2], the fundamental principles for achieving operational excellence are categorized into the following dimensions:
 
