@@ -128,16 +128,16 @@ If an organization lacks a documented excellence-driven policy, as in this examp
 In that case, the organization needs to ensure that during the next assessment round:
 
 - [x] there is a documented excellence-driven policy;
-- [ ] the policy includes a commitment to high standards and underscores that customer satisfaction is integral to attaining excellence;
-- [ ] the policy encourages innovation and adaptability to evolving industry trends and best practices;
-- [ ] the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
-- [ ] the policy includes leadership commitment;
-- [ ] the policy includes a review and revision process;
-- [ ] the policy is communicated to all employees;
-- [ ] all employees undergo training to ensure compliance with the principles outlined in the policy;
-- [ ] there is evidence that these principles are incorporated into daily operations;
-- [ ] there is evidence of leadership commitment;
-- [ ] there is evidence of the effectiveness of this excellence-driven approach.
+- [x] the policy includes a commitment to high standards and underscores that customer satisfaction is integral to attaining excellence;
+- [x] the policy encourages innovation and adaptability to evolving industry trends and best practices;
+- [x] the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
+- [x] the policy includes leadership commitment;
+- [x] the policy includes a review and revision process;
+- [x] the policy is communicated to all employees;
+- [x] all employees undergo training to ensure compliance with the principles outlined in the policy;
+- [x] there is evidence that these principles are incorporated into daily operations;
+- [x] there is evidence of leadership commitment;
+- [x] there is evidence of the effectiveness of this excellence-driven approach.
 
 Now, if the organization successfully checks all of these boxes, it ascends to the legendary Level 5 in this focus area! :tada:
 
