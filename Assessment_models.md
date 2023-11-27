@@ -20,15 +20,15 @@ The CI self-assessment tool outlined in [1] helps users in positioning their org
 
 #### Some of the well-known assessment models, according to [4] are:
 
-1) Shingo Assessment; developed by the Shingo Institute, the Shingo Model is based on principles and concepts inspired by Japanese industrial engineer Shigeo Shingo [5]
+1) Shingo Assessment; developed by the Shingo Institute, the Shingo Model is based on principles and concepts inspired by Japanese industrial engineer Shigeo Shingo [5].
    
-2) European Foundation for Quality Management (EFQM); The European Foundation for Quality Management (EFQM) provides a framework and a set of tools for organizations to assess and improve their performance, focusing strongly on quality, excellence, and continuous improvement [6]
+2) European Foundation for Quality Management (EFQM); The European Foundation for Quality Management (EFQM) provides a framework and a set of tools for organizations to assess and improve their performance, focusing strongly on quality, excellence, and continuous improvement [6].
    
-3) Malcom Baldrige National Quality Award (MBQA); The Malcolm Baldrige National Quality Award (MBNQA), also known as the Baldrige Award, is a prestigious U.S. government recognition for exceptional quality and performance excellence, named after Malcolm Baldrige, the former U.S. Secretary of Commerce from 1981 to 1987, who championed quality management [7]
+3) Malcom Baldrige National Quality Award (MBQA); The Malcolm Baldrige National Quality Award (MBNQA), also known as the Baldrige Award, is a prestigious U.S. government recognition for exceptional quality and performance excellence, named after Malcolm Baldrige, the former U.S. Secretary of Commerce from 1981 to 1987, who championed quality management [7].
    
-4) Kobayashi 20 Keys of workplace improvement; The "Kobayashi 20 Keys" are principles for workplace improvement by Iwao Kobayashi, a Japanese consultant. These keys emphasize lean manufacturing and continuous improvement to enhance operational performance and quality [8]
+4) Kobayashi 20 Keys of workplace improvement; The "Kobayashi 20 Keys" are principles for workplace improvement by Iwao Kobayashi, a Japanese consultant. These keys emphasize lean manufacturing and continuous improvement to enhance operational performance and quality [8].
    
-5) Rapid Plant Assessment (RPA); RPA is a manufacturing assessment tool designed for quick evaluation, aimed at enhancing a facility's performance and efficiency by identifying improvement opportunities. [9]
+5) Rapid Plant Assessment (RPA); RPA is a manufacturing assessment tool designed for quick evaluation, aimed at enhancing a facility's performance and efficiency by identifying improvement opportunities [9].
 
 The image below presents a description of these models, potential drawbacks, and an evaluation of how components of these assessment tools align with the Shingo dimensions and principles with category weights highlighted in blue.
 
@@ -39,7 +39,7 @@ The image below presents a description of these models, potential drawbacks, and
 
 <h5 align="center">Overview of Assessment Models [4]</h5>   
 
-The remaining four assessment models, as mentioned in the [4], fall short in covering all aspects and guiding principles essential for achieving operational excellence—unlike the Shingo Assessment, which encompasses all dimensions of operational excellence. However, the cost associated with conducting the Shingo Assessment limits businesses in assessing their progress toward operational excellence frequently. As a result, many organizations may have to resort to creating their own operational excellence assessment models.
+The remaining four assessment models, as mentioned in [4], fall short in covering all aspects and guiding principles essential for achieving operational excellence—unlike the Shingo Assessment, which encompasses all dimensions of operational excellence. However, the cost associated with conducting the Shingo Assessment limits businesses in assessing their progress toward operational excellence frequently. As a result, many organizations may have to resort to creating their own operational excellence assessment models.
 
 #### Summary
 
