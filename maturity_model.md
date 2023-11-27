@@ -64,7 +64,7 @@ As per the Shingo Institute [2], the fundamental principles for achieving operat
 - *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
 - *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
 
-These are the principles that the customized maturity model is based on. However, for the model, I've broken them down into different dimensions and renamed some, as you will see later on in this post.
+These are the principles that the customized maturity model will be based on. However, for the model, I've broken them down into different dimensions and renamed some, as you will see later on in this post.
 
 #### Exploring Established Assessment Models
 
