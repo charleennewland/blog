@@ -43,7 +43,7 @@ The benefits of an operational excellence maturity model according to [2] are:
 - *Continuous Improvement* - promotes a culture of continuous improvement throughout the organization;
 - *Strategic Harmony* - aligns operational strategies with company objectives for a unified strategy;
 - *Optimized Resource Utilization* - assists in efficient resource utilization, leading to cost savings and increased production;
-- *Effective Risk Management and Compliance* - helps in identifying and managing risks, ensuring compliance, resilience, and adherence to standards;
+- *Effective Risk Management and Compliance* - helps in identifying and managing risks, ensuring compliance, and adherence to standards;
 - *Informed Decision-Making* - promotes data-driven decisions essential for long-term success.
 
 #### What essentials are required for a top-notch Operational Excellence Maturity Model?
