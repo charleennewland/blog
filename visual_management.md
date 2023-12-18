@@ -3,9 +3,9 @@
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
->*November 28, 2023*<br/>
+>*December 20, 2023*<br/>
 
->*Reading Time: 8 min*
+>*Reading Time: 4 min*
 >
 <p align="center">
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7e8cd1e4-af70-4679-a557-9341d8a37dc4/460/300">
@@ -25,143 +25,56 @@ Before we get into the nitty-gritty of what it takes to whip up a tailor-made op
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/6a770c2b-cc82-49cc-8dc8-ec1c95a85a05/460/300">
 </p>
 
+'Tis the season to be jolly! With Christmas trees, festive decorations, and the joyful tune of Mariah Carey's "All I Want for Christmas," we feel the holiday spirit. Egg-nog, mulled wine, and crackling fireplaces add to the magic. The visual experience of these elements not only tell us that the season is here, but it also amplifies our joy during this special time. It's fascinating how visually experiencing these elements enhances our joy during this time of the year.
 
-#### What exactly do we mean when we say "Maturity Model"?
+This leads us to today's topic: visual management and its role in amplifying the flow of information and improving communication within organizations.
+Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the holiday spirit, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain.
 
-A quick online search will produce numerous examples of maturity models applied across different industries. These models help organizations identify organizational gaps and strengths, which they can then use to develop a proper roadmap to improve crucial workflows or initiatives.
+According to [A] Visual management and correspondingly, data visualisation is not a new concept. The idea and the tools, in different forms, have been used in many different areas of the world since almost 4,500 years ago. One of the earliest uses is known to be The Egyptian Royal Cubit which was extensively used in construction projects to provide information through visual stimulus.[B]
 
-Picture a maturity model like a ladder; at its core, it's made up of assessment criteria, forming the rungs of the ladder, and various maturity levels, all tied together with a handy scoring system. It's like a roadmap for leveling up in excellence!
+#### What is Visual Management?
+Visual management is quite simply a method to visualise information. The study in [D] identifies visual management as  […] the placement of plain view of all tools, parts, production activities, and indicator of production system performance so that the status of system can be understood at a glance by everyone evolved. While according to [C]  Visual Management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to enhance organizational performance. (Liff and Posey, 2004). 
+The development of modern visual management practices can be tracked back to mid-1940s when Toyota production system (TPS) was growing. In the late 1940s, out of necessity, as experienced work forces got deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities. [A]
 
-The study referenced in [1] defines a maturity model as a development of an entity over time. This entity or object can cover a wide range of subjects, from individuals to organizational functions.‌ A maturity model serves as a tool for assessing an organization's performance and continuous growth in a specific domain. Maturity models can be used in a wide range of domains, from project management and software development to information security and operational excellence.
+Visual management aims to turn processes and production statuses into simple and easily understandable visual overviews and can be divided into 3 types of visuals:
+- Instructive visuals; communicate directions, strategic goals, customer expectations and compliance requirements;
+- Explanatory visuals; communicate SOPs, work-related information, and workplace organization and maintenance activities;
+- Performance-oriented visuals; communicate the status of processes, projects, production, productivity, and performance.
 
-#### Perks of an Operational Excellence Maturity Model
+Not only are they a powerful tool to communicate a strategy or direction of to the rest of the organisation but they also play a crucial role in communicating how well the organisation is doing.
 
-Organizations usually focus on quick gains, but making lasting changes requires a mix of short-term wins and long-term goals. Operational excellence helps strike this balance, which is vital for an organization's survival. Now, let's quickly explore some of the advantages of an operational excellence maturity model.
+#### Types of visual management tools
 
-The benefits of an operational excellence maturity model according to [2] are:
+In various settings, visual management tools play a crucial role in organizational communication. Here are a few commonly used types of visual management tools that enhance workflow, communication, and overall efficiency:
 
-- *Continuous Improvement* - promotes a culture of continuous improvement throughout the organization;
-- *Strategic Harmony* - aligns operational strategies with company objectives for a unified strategy;
-- *Optimized Resource Utilization* - assists in efficient resource utilization, leading to cost savings and increased production;
-- *Effective Risk Management and Compliance* - helps in identifying and managing risks, ensuring compliance, and adherence to standards;
-- *Informed Decision-Making* - promotes data-driven decisions essential for long-term success.
+- Kanban Boards; Visualize workflow using cards, tickets or sticky notes with columns representing different process stages
+- Andon Systems; Signal problems or abnormalities in production processes, activating lights or signals for quick response and resolution
+- Poka-Yoke (Error Proofing); Implement visual cues or mechanisms to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
+- Huddle Boards; Large, visible boards utilized in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans
+- Visual Metrics Dashboards; Present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making
+- A-Frame Signs; Portable signs commonly used in industrial settings to convey safety information, work status, or other important messages
+- Standardized Work Instructions; Provide visual documents outlining step-by-step procedures, utilizing images and minimal text for clarity and consistency
+- Visual Inventory Management; Use techniques like color-coded bins, shadow boards, or digital displays to offer a quick visual indication of inventory levels and reorder points
+- Flowcharts and Process Maps; Utilize visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
+- Safety Signs and Markings; Implement visual cues to communicate safety instructions and warnings, encompassing floor markings, labels, and signs for guiding safe behavior.
 
-#### What essentials are required for a top-notch Operational Excellence Maturity Model?
+  #### Benefits of Visual managements
+  Visual management offers a range of benefits in organizational settings. Here are some key benefits:
 
-Time for a sneak peek into the essential and specific requirements for an operational excellence maturity model!
+- Increased Transparency; Visual management fosters transparency by making key information readily visible, promoting an open and accountable work environment
+- Efficient Problem Solving; Quick identification of issues through visual signals allows for prompt problem-solving and prevents potential bottlenecks or disruptions
+- Enhanced Decision-Making; Visual data provides a quick and comprehensive overview, enabling faster and more informed decision-making by leaders and teams
+- Employee Engagement; Visual displays create an engaging work environment, encouraging employee involvement and participation in continuous improvement initiatives
+Standardized Processes; Visual aids, such as standardized work instructions, help ensure consistency in processes, reducing errors and promoting quality
+- Promotes Accountability; Visual displays of goals and progress foster a sense of accountability among team members, encouraging them to meet targets and contribute to overall success.
 
-<p align="center">
-<img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/8f573964-648b-4488-b478-c19a72e60319/460/300">
-</p>
+[A] Visual management, performance management and continuous improvement A lean manufacturing approach
+[B] Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
+[C] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
+[D] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
+International Journal of Production Research (IJPR), 48(24) (2010) 7265-7287.
+[E] Narusawa, T. and Shook, J. (2009), “Kaizen express: fundamentals for your lean journey”.https://books.google.nl/books?hl=en&lr=&id=PjDWLqyF3noC&oi=fnd&pg=PR4&dq=Narusawa,+T.+and+Shook,+J.+(2009),+%E2%80%9CKaizen+express:+fundamentals+for+your+lean+journey%E2%80%9D.&ots=0biMXGqEXm&sig=kQBXU3Awn4A_kglxUaz4B9kznHI&redir_esc=y#v=onepage&q=Narusawa%2C%20T.%20and%20Shook%2C%20J.%20(2009)%2C%20%E2%80%9CKaizen%20express%3A%20fundamentals%20for%20your%20lean%20journey%E2%80%9D.&f=false  
 
-In theory, you have the flexibility to select the principles to base your maturity model on, as long as they align with the organization's goals. I will base our model for this blog post on the Shingo model, since it aligns with the definitions covered in my earlier [blog post on operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md).
-
-As per the Shingo Institute [2], the fundamental principles for achieving operational excellence are categorized into the following dimensions:
-
-- *Cultural Enablers* - enable individuals in the organisation to participate in the transformation journey, progress in their understanding and build a culture of operational excellence;
-- *Continuous Process Improvement* - every employee must know “what good is,” whether his or her process is creating a good product or service, and they must know what to do if it is not;
-- *Enterprise Alignment* - develop management systems that align work and behaviours with principles and direction in ways that are simple, comprehensible, actionable and standardized;
-- *Results* - all leaders in the organization share one common responsibility: they are responsible for results.
-
-These are the principles that the customized maturity model will be based on. However, for the model, I've broken them down into different dimensions and renamed some, as you will see later on in this post.
-
-#### Exploring Established Assessment Models
-
-Prior to choosing the Shingo model as the foundation for the customized model, I reviewed several academic sources on assessment models related to operational excellence and continuous improvement. Here is detailed information about the [five assessment models (including the Shingo model)](https://github.com/charleennewland/blog/blob/post03/exploring_assessment_models.md) that I've researched for this blog post.
- 
-According to the insights shared in [3], the Shingo assessment distinguishes itself as the only assessment tool that achieves the most well-balanced weighted score across all four dimensions necessary for achieving operational excellence. These four assessment models fail to cover all aspects or guiding principles that lead to operational excellence, as opposed to the Shingo Assessment, which covers all dimensions of operational excellence. However, the expense associated with conducting the Shingo Assessment restricts the ability and frequency of businesses to assess their advancement toward operational excellence. Many organisations will have to fend with creating their own operational excellence assessment models.
-
-#### A tailor-made Operational Excellence Maturity Model
-
-The operational excellence maturity model I've designed serves as an assessment tool to gauge an organization's progress in its operational excellence journey.
-
-The model consists of the following 5 dimensions:
-
-- Cultural enablers
-- Excellence-Driven Framework
-- Quality Management
-- Enterprise Alignment
-- Results
-
-I created this breakdown because, while it covers the fundamental principles outlined by the Shingo Institute [2], it is divided into more manageable and dissectible sections—specifically the focus areas. I designed the model to integrate Continuous Improvement into the broader concept of an Excellence-Driven Framework. Additionally, I ensured that Quality Management stands as a distinct and standalone dimension, allowing it to be broken down into various essential and more manageable focus areas. This is designed to improve the assessor's experience, making the entire assessment process more manageable.
-
-#### How does it work?
-
-The image below shows the breakdown I created, categorizing these dimensions into various focus areas.
-
-<p align="center">
-  <img width="1000" height="600" src="https://github.com/charleennewland/blog/assets/138404574/af25e3cc-13d0-41d0-ab86-c7caccbe0a3b)/460/300">
-</p>
-<h5 align="center">Operational Excellence Dimensions and Focus Areas</h5>   
-
-This resulted in a full-blown custom-made maturity model complete with all the focus areas mentioned above. The image below showcases four lines from this model, each depicting the following five distinct levels for every focus area:
-
-- *Level 1: Emerging - Reactive Approach:*
-the organization has a reactive and ad-hoc approach to the subject, limited awareness and response to issues and minimal processes in place;
-
-- *Level 2: Learning - Basic Understanding:*
-the organization is developing a basic understanding of the subject, initial efforts to learn and implement basic processes, limited documentation and inconsistent practices;
-
-- *Level 3: Committing - Standardized/Defined Approach:*
-the organization commits to a standardized or defined approach to the subject, well-established processes with documentation, consistent application of practices across the organization;
-
-- *Level 4: Accelerating - Proactive Approach:*
-the organization has a proactive approach to the subject, adoption of innovative practices to enhance effectiveness;
-
-- *Level 5: Excelling - Optimized Approach:*
-The organization excels with an optimized approach to the subject, processes are highly efficient, streamlined, and well-optimized, and effectiveness is checked with evidence of compliance.
-
-With each level specifying its requirements, the organization must fulfill the criteria for both the higher level and the ones preceding it. The ultimate goal for an organization is to score a 5, which means reaching Level 5 or coming close to it in each focus area.
-
-Once all focus areas have been assessed, the organization is assigned a total operational excellence score, allowing it to focus on and address areas with lower scores.
-
-<p align="center">
-  <img width="2300" height="500" src="https://github.com/charleennewland/blog/assets/138404574/93871bac-3a9c-47f6-8822-bdb6831d3720)/460/300">
-</p>
-<h5 align="center"> Excerpt of Customized Operational Excellence Maturity Model</h5>  
-
-Let's move forward and take a closer look at line 13 in this maturity model as an example. It falls under the dimension 'Excellence-Driven Framework', within the focus area of 'Excellence-Driven Policy'.
-
-If an organization has no documented excellence-driven policy, as in this example, it essentially scores a 2 (Level 2) in this focus area, which is relatively low. The organization can then decide, for example, to aim for Level 5 in the next quarter.
-
-In that case, the organization needs to ensure that during the next assessment round:
-
-- [x] there is a documented excellence-driven policy;
-- [x] the policy includes a commitment to high standards and underscores that customer satisfaction is integral to attaining excellence;
-- [x] the policy encourages innovation and adaptability to evolving industry trends and best practices;
-- [x] the policy commits to empowering employees with the necessary skills, resources, and support to excel in their roles;
-- [x] the policy includes leadership commitment;
-- [x] the policy includes a review and revision process;
-- [x] the policy is communicated to all employees;
-- [x] all employees undergo training to ensure compliance with the principles outlined in the policy;
-- [x] there is evidence that these principles are incorporated into daily operations;
-- [x] there is evidence of leadership commitment;
-- [x] there is evidence of the effectiveness of this excellence-driven approach.
-
-Now, if the organization successfully checks all of these boxes, it ascends to the legendary Level 5 in this focus area! :tada:
-
-A maturity model, like the one I created, provides several advantages, especially in reducing ambiguity, ensuring clarity, and minimizing the potential for misinterpretation or manipulation. It ensures that all stakeholders understand the criteria for each level, promoting consistency in evaluations. Different assessors or teams are also more likely to arrive at a similar score since the criteria are explicitly outlined.
-
-Setting a maturity model up with defined criteria ensures:
-
-- *Reduced Subjectivity* - clearly defined levels help minimize subjective interpretations during assessments;
-- *Structured & Measurable Progress* - organizations can track their progress objectively as they move through a structured path for continuous improvement, advancing systematically through the maturity levels;
-- *Reduced Manipulation* - the specificity of well-defined levels reduce the opportunity for manipulation or misrepresentation of maturity;
-- *Targeted Development & Efficient Resource Allocation* - helps organisations focus their resources on the important areas that will help make progress to the next level;
-- *Improved Accountability & Ownership* - teams and individuals have a clear understanding of their responsibilities to achieve and maintain specific levels, thereby promoting accountability.
-
-<p align="center">
-<img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7c61823a-ec97-4658-b64d-b08386109650/460/300">
-</p>
-
-#### Conclusions
-In summary, an Operational Excellence Maturity Model serves as a valuable tool for organizations to assess, plan, and implement improvements in their operational processes. It aligns operations with strategy, promotes a culture of continuous improvement, and ultimately leads to better performance, customer satisfaction, and competitiveness.
-
-There are some existing operational excellence assessments out there that might be applicable in some organisations or work streams. On the other hand, other organizations might choose to create a customized operational excellence maturity model for reasons related to privacy, financial considerations, or compatibility. A customized assessment allows the organisation to focus on specific areas or processes that are critical to the organization's success and can reflect the organization's unique culture, values, and priorities.
-
-The maturity model that I created for this blog post has many benefits, especially in improving clarity and maintaining consistency. It reduces confusion, ensures everyone knows the criteria for each level and prevents misinterpretation or manipulation during assessments.
 
 [1] [The maturity of maturity model research: A systematic mapping study](https://www.sciencedirect.com/science/article/abs/pii/S0950584912001334)<br>
 [2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
