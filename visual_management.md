@@ -1,5 +1,5 @@
-# Unlocking the Potential of an Operational Excellence Maturity Model
-## Part III. Achieving Operational Excellence: A Step-by-Step Approach to Maturity 
+# Deck the Halls of Efficiency: A Visual Management Wonderland for Seamless Communication
+## Visual Management's Gift to Organizational Communication
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
