@@ -10,7 +10,7 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7e8cd1e4-af70-4679-a557-9341d8a37dc4/460/300">
 </p>
 
-'Tis the season to be jolly! With Christmas trees, festive decorations, and the joyful tune of Mariah Carey's "All I Want for Christmas," we feel the holiday spirit. Egg-nog, mulled wine, and crackling fireplaces add to the magic. The visual experience of these elements not only tell us that the season is here, but it also amplifies our joy during this time of the year. :snowflake:
+'Tis the season to be jolly! With Christmas trees, festive decorations, and Mariah Carey's 'All I Want for Christmas' becomes the anthem of joy, there's an undeniable magic in the air. Egg-nog, mulled wine, and crackling fireplaces add to the magic. The visual experience of these elements not only tell us that the season is here, but it also amplifies our joy during this time of the year. :snowflake:
 
 This leads us to today's topic: visual management and its role in amplifying the flow of information and improving communication within organizations.
 Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the season, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain. Visual management is also a powerful tool that aligns with the principles of operational excellence by continuous improvement throughout an organization. In my previous blog posts, I  wrote extensively about- [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to achieve operational excellence by implementing an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md).
@@ -58,7 +58,13 @@ In various settings, visual management tools play a crucial role in organization
 - Enhanced Decision-Making; Visual data provides a quick and comprehensive overview, enabling faster and more informed decision-making by leaders and teams
 - Employee Engagement; Visual displays create an engaging work environment, encouraging employee involvement and participation in continuous improvement initiatives
 Standardized Processes; Visual aids, such as standardized work instructions, help ensure consistency in processes, reducing errors and promoting quality
-- Promotes Accountability; Visual displays of goals and progress foster a sense of accountability among team members, encouraging them to meet targets and contribute to overall success.
+- Promotes Accountability; Visual displays of goals and progress foster a sense of accountability among team members, encouraging them to meet targets and contribute to overall success
+- Supports Lean Principles; Visual management aligns with lean principles, such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
+
+In summary, visual management in the workplace, is like a car's navigation system, it offers advantages such as improved communication, understanding, and a culture of continuous improvement. It provides teams with a clear, real-time understanding of the journey ahead, guiding them through complexities with efficiency. Similar to holiday decorations and a well-decorated Christmas tree that enhance the festive spirit, visual management improves information flow and communication within organizations, ultimately enhancing the transparency of the value chain.
+
+
+May your festivities be as joyous as a snowman finding out it's a snow day!
 
 [A] Visual management, performance management and continuous improvement A lean manufacturing approach
 [B] Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
