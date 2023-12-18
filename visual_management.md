@@ -1,6 +1,5 @@
-# Deck the Halls of Efficiency: A Visual Management Wonderland for Seamless Communication :christmas_tree: 🎁:
-## Visual Management's Gift to Organizational Communication :mrs_claus:
-
+# Deck the Halls of Efficiency: A Visual Management Wonderland for Seamless Communication :christmas_tree: 🎁
+## Visual Management's Gift to Organizational Communication 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*December 20, 2023*<br/>
