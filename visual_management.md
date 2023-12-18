@@ -65,12 +65,13 @@ In summary, visual management in the workplace, is like a car's navigation syste
 
 May your festivities be as joyous as a snowman finding out it's a snow day!
 
-[A] Visual management, performance management and continuous improvement A lean manufacturing approach
-[B] Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
-[C] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
-[D] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
+- [A] Visual management, performance management and continuous improvement A lean manufacturing approach
+
+- [B] Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
+- [C] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
+- [D] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
 International Journal of Production Research (IJPR), 48(24) (2010) 7265-7287.
-[E] Narusawa, T. and Shook, J. (2009), “Kaizen express: fundamentals for your lean journey”.https://books.google.nl/books?hl=en&lr=&id=PjDWLqyF3noC&oi=fnd&pg=PR4&dq=Narusawa,+T.+and+Shook,+J.+(2009),+%E2%80%9CKaizen+express:+fundamentals+for+your+lean+journey%E2%80%9D.&ots=0biMXGqEXm&sig=kQBXU3Awn4A_kglxUaz4B9kznHI&redir_esc=y#v=onepage&q=Narusawa%2C%20T.%20and%20Shook%2C%20J.%20(2009)%2C%20%E2%80%9CKaizen%20express%3A%20fundamentals%20for%20your%20lean%20journey%E2%80%9D.&f=false  
+- [E] Narusawa, T. and Shook, J. (2009), “Kaizen express: fundamentals for your lean journey”.https://books.google.nl/books?hl=en&lr=&id=PjDWLqyF3noC&oi=fnd&pg=PR4&dq=Narusawa,+T.+and+Shook,+J.+(2009),+%E2%80%9CKaizen+express:+fundamentals+for+your+lean+journey%E2%80%9D.&ots=0biMXGqEXm&sig=kQBXU3Awn4A_kglxUaz4B9kznHI&redir_esc=y#v=onepage&q=Narusawa%2C%20T.%20and%20Shook%2C%20J.%20(2009)%2C%20%E2%80%9CKaizen%20express%3A%20fundamentals%20for%20your%20lean%20journey%E2%80%9D.&f=false  
 
 
 [1] [The maturity of maturity model research: A systematic mapping study](https://www.sciencedirect.com/science/article/abs/pii/S0950584912001334)<br>
