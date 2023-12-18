@@ -1,4 +1,4 @@
-# Deck the Halls of Efficiency: A Visual Management Wonderland for Seamless Communication
+# Deck the Halls of Efficiency: A Visual Management Wonderland for Seamless Communication :tada:
 ## Visual Management's Gift to Organizational Communication
 
 
