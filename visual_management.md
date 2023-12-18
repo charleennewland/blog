@@ -14,7 +14,7 @@
 
 <p align="center">
 <img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/6a770c2b-cc82-49cc-8dc8-ec1c95a85a05/460/300">
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f388ad01-b386-4be9-bcfc-5733d26e3b07/460/300">
 </p>
 
 This leads us to today's topic: visual management and its role in amplifying the flow of information and improving communication within organizations.
