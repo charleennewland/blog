@@ -10,17 +10,15 @@
   <img width="550" height="300" src="https://github.com/charleennewland/blog/assets/138404574/7e8cd1e4-af70-4679-a557-9341d8a37dc4/460/300">
 </p>
 
-'Tis the season to be jolly! With Christmas trees, festive decorations, and Mariah Carey's 'All I Want for Christmas' becomes the anthem of joy, there's an undeniable magic in the air. Egg-nog, mulled wine, and crackling fireplaces add to the magic. The visual experience of these elements not only tell us that the season is here, but it also amplifies our joy during this time of the year. :snowflake:
-
-This leads us to today's topic: visual management and its role in amplifying the flow of information and improving communication within organizations.
-Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the season, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain. Visual management is also a powerful tool that aligns with the principles of operational excellence by continuous improvement throughout an organization. In my previous blog posts, I  wrote extensively about- [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to achieve operational excellence by implementing an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md).
-
-
+'Tis the season to be jolly! With Christmas trees, festive decorations, and Mariah Carey's 'All I Want for Christmas' becomes the anthem of joy, there's an undeniable magic in the air. Egg-nog, mulled wine, and crackling fireplaces add to the magic. The visual experience of these elements not only tell us that the season is here, but it also amplifies our joy during this time of the year.
 
 <p align="center">
 <img width="55
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/6a770c2b-cc82-49cc-8dc8-ec1c95a85a05/460/300">
 </p>
+
+This leads us to today's topic: visual management and its role in amplifying the flow of information and improving communication within organizations.
+Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the season, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain. Visual management is also a powerful tool that aligns with the principles of operational excellence by continuous improvement throughout an organization. In my previous blog posts, I  wrote extensively about- [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to achieve operational excellence by implementing an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md).
 
 According to [A] Visual management and correspondingly, data visualisation is not a new concept. The idea and the tools, in different forms, have been used in many different areas of the world since almost 4,500 years ago. One of the earliest uses is known to be The Egyptian Royal Cubit which was extensively used in construction projects to provide information through visual stimulus.[B]
 
@@ -61,6 +59,7 @@ Standardized Processes; Visual aids, such as standardized work instructions, hel
 - Promotes Accountability; Visual displays of goals and progress foster a sense of accountability among team members, encouraging them to meet targets and contribute to overall success
 - Supports Lean Principles; Visual management aligns with lean principles, such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
 
+#### Summary
 In summary, visual management in the workplace, is like a car's navigation system, it offers advantages such as improved communication, understanding, and a culture of continuous improvement. It provides teams with a clear, real-time understanding of the journey ahead, guiding them through complexities with efficiency. Similar to holiday decorations and a well-decorated Christmas tree that enhance the festive spirit, visual management improves information flow and communication within organizations, ultimately enhancing the transparency of the value chain.
 
 
