@@ -2,7 +2,7 @@
 ## Visual Management's Gift to Organizational Communication 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
->*December 20, 2023*<br/>
+>*December 21, 2023*<br/>
 
 >*Reading Time: 4 min*
 >
