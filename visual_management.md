@@ -23,7 +23,7 @@ Just as holiday decorations enhance our festive spirit and a well-decorated Chri
 As per [1], visual management and data visualization, aren't new concepts. These ideas and tools, in diverse forms, have been utilized worldwide for nearly 4,500 years. The research in [2] highlights one of the earliest applications, the Egyptian Royal Cubit, extensively used in construction projects to convey information through visual cues.
 
 #### What is Visual Management?
-Visual management is quite simply a method to visualise information. The study in [D] identifies visual management as  […] the placement of plain view of all tools, parts, production activities, and indicator of production system performance so that the status of system can be understood at a glance by everyone evolved. While according to [C]  Visual Management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to enhance organizational performance. (Liff and Posey, 2004). 
+Visual management is quite simply a method to visualise information. The study in [3] identifies visual management as  […] the placement of plain view of all tools, parts, production activities, and indicator of production system performance so that the status of system can be understood at a glance by everyone evolved. While according to [C]  Visual Management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to enhance organizational performance. (Liff and Posey, 2004). 
 The development of modern visual management practices can be tracked back to mid-1940s when Toyota production system (TPS) was growing. In the late 1940s, out of necessity, as experienced work forces got deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities. [A]
 
 Visual management aims to turn processes and production statuses into simple and easily understandable visual overviews and can be divided into 3 types of visuals:
@@ -68,9 +68,9 @@ May your festivities be as joyous as a snowman finding out it's a snow day!
 - [A] [1] Visual management, performance management and continuous improvement A lean manufacturing approach
 
 - [B] [2] Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
-- [C] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
-- [D] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
+- - [D] [3] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
 International Journal of Production Research (IJPR), 48(24) (2010) 7265-7287.
+- [C] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
 - [E] Narusawa, T. and Shook, J. (2009), “Kaizen express: fundamentals for your lean journey”.https://books.google.nl/books?hl=en&lr=&id=PjDWLqyF3noC&oi=fnd&pg=PR4&dq=Narusawa,+T.+and+Shook,+J.+(2009),+%E2%80%9CKaizen+express:+fundamentals+for+your+lean+journey%E2%80%9D.&ots=0biMXGqEXm&sig=kQBXU3Awn4A_kglxUaz4B9kznHI&redir_esc=y#v=onepage&q=Narusawa%2C%20T.%20and%20Shook%2C%20J.%20(2009)%2C%20%E2%80%9CKaizen%20express%3A%20fundamentals%20for%20your%20lean%20journey%E2%80%9D.&f=false  
 
 
