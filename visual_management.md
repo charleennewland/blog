@@ -18,7 +18,7 @@ Tis the season to be jolly! With Christmas trees, festive decorations, and Maria
 </p>
 
 This leads us to today's topic: visual management and its role in improving the flow of information and communication within organizations.
-Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the season, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain. Visual management is also a powerful tool that aligns with the principles of operational excellence by continuous improvement throughout an organization. In my previous blog posts, I  wrote extensively about- [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to achieve operational excellence by implementing an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md).
+Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the season, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain.  It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance. Visual management is a powerful tool that aligns with the principles of operational excellence. In my previous blog posts, I  wrote extensively about- [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to achieve operational excellence by implementing an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md).
 
 As per [1], visual management and data visualization, aren't new concepts. These ideas and tools, in diverse forms, have been utilized worldwide for nearly 4,500 years. The research in [2] highlights one of the earliest applications, the Egyptian Royal Cubit, extensively used in construction projects to convey information through visual cues.
 
@@ -75,7 +75,7 @@ These are just a handful—perfect for stuffing one elf-sized stocking, but ther
 - *Promotes Accountability;* visual displays of goals and progress instill a sense of accountability, motivating team members to meet targets
 - *Supports Lean Principles;* aligns with lean principles such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
 
-Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
+Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance.
 
 #### Summary
 
@@ -84,9 +84,6 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 
 ### Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
 
-```diff
-- ### Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
-```
 
 <p align="center">
   <img width="350" height="500" src="https://github.com/charleennewland/blog/assets/138404574/57e74878-8e05-4023-9bad-bd628ca8c56d/460/300">
