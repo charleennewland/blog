@@ -73,10 +73,9 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead! ☃️
 
 - [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
-- [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br> Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
-- - [D] [3] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
-International Journal of Production Research (IJPR), 48(24) (2010) 7265-7287.
-- [C] [4] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
+- [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
+- [3] [A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors](https://www.tandfonline.com/doi/abs/10.1080/00207540903373823)<br>
+- [4] [Where Do Schools in Jordan Stand on Visual Management? And What Is the Effect of This on Students’ Acquisition of Lifelong Learning Skills?](https://www.scirp.org/reference/referencespapers?referenceid=2755103)<br>
 - [E] Narusawa, T. and Shook, J. (2009), “Kaizen express: fundamentals for your lean journey”.https://books.google.nl/books?hl=en&lr=&id=PjDWLqyF3noC&oi=fnd&pg=PR4&dq=Narusawa,+T.+and+Shook,+J.+(2009),+%E2%80%9CKaizen+express:+fundamentals+for+your+lean+journey%E2%80%9D.&ots=0biMXGqEXm&sig=kQBXU3Awn4A_kglxUaz4B9kznHI&redir_esc=y#v=onepage&q=Narusawa%2C%20T.%20and%20Shook%2C%20J.%20(2009)%2C%20%E2%80%9CKaizen%20express%3A%20fundamentals%20for%20your%20lean%20journey%E2%80%9D.&f=false  
 
 
