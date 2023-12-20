@@ -2,9 +2,9 @@
 ## Visual Management's Gift to Organizational Communication 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
->*December 21, 2023*<br/>
+>*December 20, 2023*<br/>
 
->*Reading Time: 4 min*
+>*Reading Time: 3 min*
 >
 <p align="center">
   <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/d47bd538-d391-4a47-9990-e18f0be0818f/460/300">
@@ -76,13 +76,7 @@ Happy holidays! May your celebrations bring as much joy as a snowman discovering
 - [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
 - [3] [A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors](https://www.tandfonline.com/doi/abs/10.1080/00207540903373823)<br>
 - [4] [Where Do Schools in Jordan Stand on Visual Management? And What Is the Effect of This on Students’ Acquisition of Lifelong Learning Skills?](https://www.scirp.org/reference/referencespapers?referenceid=2755103)<br>
-- [E] Narusawa, T. and Shook, J. (2009), “Kaizen express: fundamentals for your lean journey”.https://books.google.nl/books?hl=en&lr=&id=PjDWLqyF3noC&oi=fnd&pg=PR4&dq=Narusawa,+T.+and+Shook,+J.+(2009),+%E2%80%9CKaizen+express:+fundamentals+for+your+lean+journey%E2%80%9D.&ots=0biMXGqEXm&sig=kQBXU3Awn4A_kglxUaz4B9kznHI&redir_esc=y#v=onepage&q=Narusawa%2C%20T.%20and%20Shook%2C%20J.%20(2009)%2C%20%E2%80%9CKaizen%20express%3A%20fundamentals%20for%20your%20lean%20journey%E2%80%9D.&f=false  
-
-
-[1] [The maturity of maturity model research: A systematic mapping study](https://www.sciencedirect.com/science/article/abs/pii/S0950584912001334)<br>
-[2] [Shingo Institute. Utah. Shingo Model Handbook](https://shingo.org/shingo-model/)<br>
-[3] [Operational excellence assessment framework for manufacturing companies](https://www.sciencedirect.com/science/article/pii/S2212827116309155)<br>
-
+ 
 
 >Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
