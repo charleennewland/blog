@@ -33,7 +33,7 @@ Visual management aims to transform processes and production statuses into simpl
 - **Explanatory visuals;** these communicate SOPs, work-related information, and workplace organization and maintenance activities
 - **Performance-oriented visuals;** these communicate the status of processes, projects, production, productivity, and performance.
 
-Not only are they a powerful tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is doing. Now, let's move forward and explore a couple of nifty visual management tools and methods, adding a delightful touch to your organizational process improvement journey, much like a cup of hot cocoa!
+They are not only an effective tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is performing. Now, let's move forward and explore a couple of nifty visual management tools and methods that will, like a hot cup of cocoa, bring a lovely touch to your organisational process improvement journey!
 
 <p align="center">
 <img width="55
