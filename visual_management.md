@@ -26,11 +26,9 @@ As per [1], visual management and data visualization, aren't new concepts. These
 
 In [1], we learn that the roots of modern visual management practices can be traced back to the mid-1940s when the Toyota Production System (TPS) was growing. In the late 1940s, as experienced workforces were deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities.
 
-Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [4], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
+There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [4], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
 
 Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
-
-
 
 Visual management aims to turn processes and production statuses into simple and easily understandable visual overviews and can be divided into 3 types of visuals:
 - Instructive visuals; communicate directions, strategic goals, customer expectations and compliance requirements;
