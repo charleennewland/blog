@@ -74,6 +74,7 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 
 - [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
 - [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
+- [3] [Kaizen Express: Fundamentals for Your Lean Journey](https://books.google.nl/books/about/Kaizen_Express.html?id=PjDWLqyF3noC&redir_esc=y)<br>
 - [3] [A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors](https://www.tandfonline.com/doi/abs/10.1080/00207540903373823)<br>
 - [4] [Where Do Schools in Jordan Stand on Visual Management? And What Is the Effect of This on Students’ Acquisition of Lifelong Learning Skills?](https://www.scirp.org/reference/referencespapers?referenceid=2755103)<br>
  
