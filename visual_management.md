@@ -83,9 +83,12 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 
 
 ### Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
-  https://placehold.it/150/ffffff/ff0000?text=hello
+```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
 
 <p align="center">
   <img width="350" height="500" src="https://github.com/charleennewland/blog/assets/138404574/57e74878-8e05-4023-9bad-bd628ca8c56d/460/300">
