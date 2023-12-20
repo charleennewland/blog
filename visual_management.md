@@ -72,9 +72,8 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 
 Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead! ☃️
 
-- [A] [1] Visual management, performance management and continuous improvement A lean manufacturing approach
-
-- [B] [2] Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
+- [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
+- [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br> Tezel, B., Koskela, L. and Tzortzopoulos, P. (2009), “The functions of visual management”.
 - - [D] [3] K. Murata, H. Katayama, A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors,
 International Journal of Production Research (IJPR), 48(24) (2010) 7265-7287.
 - [C] [4] https://www.scirp.org/reference/referencespapers?referenceid=2755103 
