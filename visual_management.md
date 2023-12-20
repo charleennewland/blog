@@ -26,7 +26,7 @@ As per [1], visual management and data visualization, aren't new concepts. These
 
 In [1], we learn that the roots of modern visual management practices can be traced back to the mid-1940s when the Toyota Production System (TPS) was growing. In the late 1940s, as experienced workforces were deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities.
 
-There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [2], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
+There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [2], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It uses stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
 
 Visual management aims to transform processes and production statuses into simple and easily understandable visual overviews. It can be categorized into three types of visuals:
 
@@ -34,7 +34,7 @@ Visual management aims to transform processes and production statuses into simpl
 - **Explanatory visuals;** these communicate SOPs, work-related information, and workplace organization and maintenance activities
 - **Performance-oriented visuals;** these communicate the status of processes, projects, production, productivity, and performance.
 
-Not only are they a powerful tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is doing.
+Not only are they a powerful tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is doing. Now, let's move forward and explore a couple of nifty visual management tools and methods, making your organizational process imporvement journey as delightful as a cup of hot cocoa!
 
 <p align="center">
 <img width="55
