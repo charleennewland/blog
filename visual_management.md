@@ -36,6 +36,11 @@ Visual management aims to transform processes and production statuses into simpl
 
 Not only are they a powerful tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is doing.
 
+<p align="center">
+<img width="55
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/aeb867bc-64c9-46f2-8f36-62d06f67ff16/460/300">
+</p>
+
 #### Types of visual management tools and methods
 
 Visual management tools in various settings are meant to significantly improve organizational communication. Here are commonly used types and methods that boost workflow, communication, and overall efficiency:
