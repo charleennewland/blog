@@ -20,13 +20,13 @@ Tis the season to be jolly! With Christmas trees, festive decorations, and Maria
 This leads us to today's topic: visual management and its role in improving the flow of information and communication within organizations.
 Just as holiday decorations enhance our festive spirit and a well-decorated Christmas tree effectively communicates the season, visual management plays a pivotal role in improving the flow of information and communication within organizations, ultimately increasing the transparency of the value chain. Visual management is also a powerful tool that aligns with the principles of operational excellence by continuous improvement throughout an organization. In my previous blog posts, I  wrote extensively about- [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to achieve operational excellence by implementing an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md).
 
-As per [1], visual management and data visualization, aren't new concepts. These ideas and tools, in diverse forms, have been utilized worldwide for nearly 4,500 years. The research in [2] highlights one of the earliest applications, the Egyptian Royal Cubit, extensively used in construction projects to convey information through visual cues.
+As per [1], visual management and data visualization, aren't new concepts. These ideas and tools, in diverse forms, have been utilized worldwide for nearly 4,500 years. This research highlights one of the earliest applications, the Egyptian Royal Cubit, extensively used in construction projects to convey information through visual cues.
 
 #### What is Visual Management?
 
 In [1], we learn that the roots of modern visual management practices can be traced back to the mid-1940s when the Toyota Production System (TPS) was growing. In the late 1940s, as experienced workforces were deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities.
 
-There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [4], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
+There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [2] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [3], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
 
 Visual management aims to transform processes and production statuses into simple and easily understandable visual overviews. It can be categorized into three types of visuals:
 
@@ -73,8 +73,9 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 **Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!** ☃️
 
 - [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
-- [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
-- [3] [Kaizen Express: Fundamentals for Your Lean Journey](https://books.google.nl/books/about/Kaizen_Express.html?id=PjDWLqyF3noC&redir_esc=y)<br>
+- [2] [Kaizen Express: Fundamentals for Your Lean Journey](https://books.google.nl/books/about/Kaizen_Express.html?id=PjDWLqyF3noC&redir_esc=y)<br>
+- [3] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
+
 - [3] [A study on construction of kaizen case-base and its utilization: A case of visual management in fabrication and assembly shop-floors](https://www.tandfonline.com/doi/abs/10.1080/00207540903373823)<br>
 - [4] [Where Do Schools in Jordan Stand on Visual Management? And What Is the Effect of This on Students’ Acquisition of Lifelong Learning Skills?](https://www.scirp.org/reference/referencespapers?referenceid=2755103)<br>
  
