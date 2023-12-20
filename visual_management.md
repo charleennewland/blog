@@ -67,8 +67,7 @@ Visual management in Lean is a vital bridge between data and people, utilizing v
 
 #### Summary
 
-In summary, just as a navigation system optimizes a journey for drivers, visual management optimizes processes, communication, and efficiency in the workplace. Both serve as essential tools for navigating the challenges. It offers advantages such as improved communication, understanding, and a culture of continuous improvement. It provides teams with a clear, real-time understanding of the journey ahead, guiding them through complexities with efficiency. Similar to holiday decorations and a well-decorated Christmas tree that enhance the festive spirit, visual management improves information flow and communication within organizations, ultimately enhancing the transparency of the value chain.
-
+In summary, just as holiday decorations and a well-decorated Christmas tree enhance the festive spirit, visual management improves information flow and optimizes processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, guiding them through complexities with efficiency.
 
 May your festivities be as joyous as a snowman finding out it's a snow day!
 
