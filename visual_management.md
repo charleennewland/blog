@@ -46,7 +46,7 @@ Visual management tools in various settings are meant to significantly improve o
 
 - *Kanban Boards;* visualize workflow using cards, tickets, or sticky notes, representing different process stages
 - *Andon Systems;* signal problems in production processes, activating lights or signals for a quick response and resolution
-- *Poka-Yoke (Error Proofing);** implementing visual cues to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
+- *Poka-Yoke (Error Proofing);* implementing visual cues to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
 - *Huddle Boards;* large, visible boards in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans
 - *Visual Metrics Dashboards;* present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making
 - *A-Frame Signs;* Portable signs in industrial settings conveying safety information, work status, or other important messages
