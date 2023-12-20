@@ -85,7 +85,7 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 ###Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
 
 <p align="center">
-  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/57e74878-8e05-4023-9bad-bd628ca8c56d/460/300">
+  <img width="300" height="650" src="https://github.com/charleennewland/blog/assets/138404574/57e74878-8e05-4023-9bad-bd628ca8c56d/460/300">
 </p>
 
 - [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
