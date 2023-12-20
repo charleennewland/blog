@@ -40,16 +40,16 @@ Not only are they a powerful tool to communicate a strategy or direction to the 
 
 Visual management tools in various settings are meant to significantly improve organizational communication. Here are commonly used types and methods that boost workflow, communication, and overall efficiency:
 
--  **Kanban Boards;** visualize workflow using cards, tickets, or sticky notes, representing different process stages
-- **Andon Systems;** signal problems in production processes, activating lights or signals for a quick response and resolution
-- **Poka-Yoke (Error Proofing);** implementing visual cues to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
-- **Huddle Boards;** large, visible boards in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans
-- **Visual Metrics Dashboards;** present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making
-- **A-Frame Signs;** Portable signs in industrial settings conveying safety information, work status, or other important messages
-- **Standardized Work Instructions;** visual documents outlining step-by-step procedures, using images and minimal text for clarity and consistency
-- **Visual Inventory Management;** techniques like color-coded bins, shadow boards, or digital displays for a quick visual indication of inventory levels and reorder points
-- **Flowcharts and Process Maps;** visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
-- **Safety Signs and Markings;** Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
+- *Kanban Boards;* visualize workflow using cards, tickets, or sticky notes, representing different process stages
+- *Andon Systems;* signal problems in production processes, activating lights or signals for a quick response and resolution
+- *Poka-Yoke (Error Proofing);** implementing visual cues to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
+- *Huddle Boards;* large, visible boards in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans
+- *Visual Metrics Dashboards;* present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making
+- *A-Frame Signs;* Portable signs in industrial settings conveying safety information, work status, or other important messages
+- *Standardized Work Instructions;* visual documents outlining step-by-step procedures, using images and minimal text for clarity and consistency
+- *Visual Inventory Management;* techniques like color-coded bins, shadow boards, or digital displays for a quick visual indication of inventory levels and reorder points
+- *Flowcharts and Process Maps;* visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
+- *Safety Signs and Markings;* Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
 
   #### Benefits of Visual managements
   
@@ -70,7 +70,7 @@ Visual management in Lean is a vital bridge between data and people, utilizing v
 In summary, just as holiday decorations and a well-decorated Christmas tree enhance the festive spirit, visual management improves information flow. It optimizes processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, efficiently guiding them through complexities.
 
 
-Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead! ☃️
+**Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead! ☃️**
 
 - [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
 - [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
