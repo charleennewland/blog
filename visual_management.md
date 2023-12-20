@@ -28,9 +28,6 @@ In [1], we learn that the roots of modern visual management practices can be tra
 
 There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [4], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
 
-Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
-
-
 Visual management aims to transform processes and production statuses into simple and easily understandable visual overviews. It can be categorized into three types of visuals:
 
 - **Instructive visuals;** these communicate directions, strategic goals, customer expectations, and compliance requirements
@@ -55,15 +52,18 @@ Visual management tools in various settings are meant to significantly improve o
 - **Safety Signs and Markings;** Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
 
   #### Benefits of Visual managements
+  
   Visual management brings numerous advantages to organizational settings. Here are key benefits:
 
-- **Increased Transparency;** promotes openness and accountability by making crucial information easily visible
-- **Efficient Problem Solving;** enables quick identification of issues through visual signals, facilitating quick resolution
-- **Enhanced Decision-Making;** provides a swift and comprehensive overview for faster, well-informed decision-making by leaders and teams
-- **Employee Engagement;** creates an engaging work environment, encouraging employee involvement in continuous improvement initiatives
-- **Standardized Processes;** utilizes visual aids, like standardized work instructions, ensuring consistency, reducing errors, and promoting quality
-- **Promotes Accountability;** visual displays of goals and progress instill a sense of accountability, motivating team members to meet targets
-- **Supports Lean Principles;** aligns with lean principles such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
+- *Increased Transparency;* promotes openness and accountability by making crucial information easily visible
+- *Efficient Problem Solving;* enables quick identification of issues through visual signals, facilitating quick resolution
+- *Enhanced Decision-Making;* provides a swift and comprehensive overview for faster, well-informed decision-making by leaders and teams
+- *Employee Engagement;* creates an engaging work environment, encouraging employee involvement in continuous improvement initiatives
+- *Standardized Processes;* utilizes visual aids, like standardized work instructions, ensuring consistency, reducing errors, and promoting quality
+- *Promotes Accountability;* visual displays of goals and progress instill a sense of accountability, motivating team members to meet targets
+- *Supports Lean Principles;* aligns with lean principles such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
+
+Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
 
 #### Summary
 In summary, visual management in the workplace, is like a car's navigation system, it offers advantages such as improved communication, understanding, and a culture of continuous improvement. It provides teams with a clear, real-time understanding of the journey ahead, guiding them through complexities with efficiency. Similar to holiday decorations and a well-decorated Christmas tree that enhance the festive spirit, visual management improves information flow and communication within organizations, ultimately enhancing the transparency of the value chain.
