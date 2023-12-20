@@ -30,16 +30,18 @@ There are many definitions for visual management, but the following two are espe
 
 Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
 
-Visual management aims to turn processes and production statuses into simple and easily understandable visual overviews and can be divided into 3 types of visuals:
-- Instructive visuals; communicate directions, strategic goals, customer expectations and compliance requirements;
-- Explanatory visuals; communicate SOPs, work-related information, and workplace organization and maintenance activities;
-- Performance-oriented visuals; communicate the status of processes, projects, production, productivity, and performance.
+
+Visual management aims to transform processes and production statuses into simple and easily understandable visual overviews. It can be categorized into three types of visuals:
+
+- Instructive visuals; these communicate directions, strategic goals, customer expectations, and compliance requirements
+- Explanatory visuals; these communicate SOPs, work-related information, and workplace organization and maintenance activities
+- Performance-oriented visuals; these communicate the status of processes, projects, production, productivity, and performance.
 
 Not only are they a powerful tool to communicate a strategy or direction of to the rest of the organisation but they also play a crucial role in communicating how well the organisation is doing.
 
 #### Types of visual management tools
 
-In various settings, visual management tools play a crucial role in organizational communication. Here are a few commonly used types of visual management tools that enhance workflow, communication, and overall efficiency:
+In various settings, visual management tools play a crucial role in organizational communication. Here are a few commonly used types of visual management tools and methods that enhance workflow, communication, and overall efficiency:
 
 - Kanban Boards; Visualize workflow using cards, tickets or sticky notes with columns representing different process stages
 - Andon Systems; Signal problems or abnormalities in production processes, activating lights or signals for quick response and resolution
