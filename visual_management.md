@@ -54,7 +54,9 @@ Visual management tools in various settings are meant to significantly improve o
 - *Visual Inventory Management;* techniques like color-coded bins, shadow boards, or digital displays for a quick visual indication of inventory levels and reorder points
 - *Flowcharts and Process Maps;* visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
 - *Safety Signs and Markings;* Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
-  
+
+5S (Sort, Set in order, Shine, Standardize, Sustain) and visual management go hand in hand to make workplaces more efficient, organized, and safe. Visual management is a critical ingredient in implementing 5S effectively.
+
 These are just a handful—perfect for stuffing one elf-sized stocking, but there's more fun to discover!
 
 <p align="center">
