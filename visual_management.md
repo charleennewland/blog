@@ -85,9 +85,7 @@ In summary, just as holiday decorations and a well-decorated Christmas tree enha
 ### Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
 
 ```diff
-- This is a red colored line
-+ This is a green colored line
-@@ This is a purple colored line @@
+- ### Happy holidays! May your celebrations bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
 ```
 
 <p align="center">
