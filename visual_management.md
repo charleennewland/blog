@@ -10,7 +10,7 @@
   <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/d47bd538-d391-4a47-9990-e18f0be0818f/460/300">
 </p>
 
-Tis the season to be jolly! With Christmas trees, festive decorations, and Mariah Carey's 'All I Want for Christmas' becoming the anthem of joy, there's an undeniable magic in the air. Egg-nog, mulled wine, and crackling fireplaces add to the enchantment. The visual experience of these elements not only tells us that the season is here but also amplifies our joy during this time of the year
+Tis the season to be jolly! With Christmas trees, festive decorations, and Mariah Carey's 'All I Want for Christmas' becoming the anthem of joy, there's an undeniable magic in the air. Egg-nog, mulled wine, and crackling fireplaces add to the magic of it all :sparkles:. The visual experience of these elements not only tells us that the season is here but also amplifies our joy during this time of the year
 
 <p align="center">
 <img width="55
