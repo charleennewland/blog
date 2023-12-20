@@ -41,18 +41,18 @@ Not only are they a powerful tool to communicate a strategy or direction to the 
 
 #### Types of visual management tools and methods
 
-In various settings, visual management tools play a crucial role in organizational communication. Here are a few commonly used types of visual management tools and methods that enhance workflow, communication, and overall efficiency:
+Visual management tools in various settings are meant to significantly improve organizational communication. Here are commonly used types and methods that boost workflow, communication, and overall efficiency:
 
-- Kanban Boards; Visualize workflow using cards, tickets or sticky notes with columns representing different process stages
-- Andon Systems; Signal problems or abnormalities in production processes, activating lights or signals for quick response and resolution
-- Poka-Yoke (Error Proofing); Implement visual cues or mechanisms to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
-- Huddle Boards; Large, visible boards utilized in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans
-- Visual Metrics Dashboards; Present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making
-- A-Frame Signs; Portable signs commonly used in industrial settings to convey safety information, work status, or other important messages
-- Standardized Work Instructions; Provide visual documents outlining step-by-step procedures, utilizing images and minimal text for clarity and consistency
-- Visual Inventory Management; Use techniques like color-coded bins, shadow boards, or digital displays to offer a quick visual indication of inventory levels and reorder points
-- Flowcharts and Process Maps; Utilize visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
-- Safety Signs and Markings; Implement visual cues to communicate safety instructions and warnings, encompassing floor markings, labels, and signs for guiding safe behavior.
+-  **Kanban Boards;** visualize workflow using cards, tickets, or sticky notes, representing different process stages
+- **Andon Systems;** signal problems in production processes, activating lights or signals for a quick response and resolution
+- **Poka-Yoke (Error Proofing);** implementing visual cues to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers
+- **Huddle Boards;** large, visible boards in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans
+- **Visual Metrics Dashboards;** present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making
+- **A-Frame Signs;** Portable signs in industrial settings conveying safety information, work status, or other important messages
+- **Standardized Work Instructions;** visual documents outlining step-by-step procedures, using images and minimal text for clarity and consistency
+- **Visual Inventory Management;** techniques like color-coded bins, shadow boards, or digital displays for a quick visual indication of inventory levels and reorder points
+- **Flowcharts and Process Maps;** visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
+- **Safety Signs and Markings;** Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
 
   #### Benefits of Visual managements
   Visual management offers a range of benefits in organizational settings. Here are some key benefits:
