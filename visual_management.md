@@ -28,7 +28,7 @@ In [1] we learn that the development of modern visual management practices can b
 
 Visual management is quite simply a method to visualise information. The study in [3] identifies visual management as […] the placement of plain view of all tools, parts, production activities, and indicator of production system performance so that the status of system can be understood at a glance by everyone evolved. While according to [4] visual Management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to enhance organizational performance.
 
-Visual management is an absolutely essential tool within the world of Lean and can be seen as the link between the data and the people and visual workplace with controls communicating without words and interruptions in process. The primary goal is to make information easily accessible and understandable at a glance. Visual management is widely used in various industries, including manufacturing, healthcare, and services, to improve operational efficiency, safety, and overall performance.
+Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
 
 
 
