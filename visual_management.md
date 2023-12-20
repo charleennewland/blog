@@ -51,6 +51,12 @@ Visual management tools in various settings are meant to significantly improve o
 - *Flowcharts and Process Maps;* visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
 - *Safety Signs and Markings;* Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
 
+  <p align="center">
+<img width="55
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/2a058527-6fe5-4a38-9597-45469c105201/460/300">
+</p>
+
+
   #### Benefits of Visual managements
   
   Visual management brings numerous advantages to organizational settings. Here are key benefits:
