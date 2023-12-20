@@ -24,9 +24,9 @@ As per [1], visual management and data visualization, aren't new concepts. These
 
 #### What is Visual Management?
 
-In [1] we learn that the development of modern visual management practices can be tracked back to mid-1940s when Toyota production system (TPS) was growing. In the late 1940s, out of necessity, as experienced work forces got deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities.
+In [1], we learn that the roots of modern visual management practices can be traced back to the mid-1940s when the Toyota Production System (TPS) was growing. In the late 1940s, as experienced workforces were deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities.
 
-Visual management is quite simply a method to visualise information. The study in [3] identifies visual management as […] the placement of plain view of all tools, parts, production activities, and indicator of production system performance so that the status of system can be understood at a glance by everyone evolved. While according to [4] visual Management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to enhance organizational performance.
+Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [4], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It utilizes stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
 
 Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The primary aim is easy accessibility and understanding at a glance. It is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance.
 
