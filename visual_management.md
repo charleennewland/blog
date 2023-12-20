@@ -69,22 +69,22 @@ These are just a handful—perfect for stuffing one elf-sized stocking, but ther
   
   Visual management brings numerous advantages to organizational settings. Here are some key benefits:
 
-- *Increased Transparency;* promotes openness and accountability by making crucial information easily visible
-- *Efficient Problem Solving;* enables quick identification of issues through visual signals, facilitating quick resolution
-- *Enhanced Decision-Making;* provides a swift and comprehensive overview for faster, well-informed decision-making by leaders and teams
-- *Employee Engagement;* creates an engaging work environment, encouraging employee involvement in continuous improvement initiatives
-- *Standardized Processes;* utilizes visual aids, like standardized work instructions, ensuring consistency, reducing errors, and promoting quality
-- *Promotes Accountability;* visualy displays of goals and progress instill a sense of accountability, motivating team members to meet targets
-- *Supports Lean Principles;* aligns with lean principles such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
+- *Increased Transparency-* promotes openness and accountability by making crucial information easily visible;
+- *Efficient Problem Solving-* enables quick identification of issues through visual signals, facilitating quick resolution;
+- *Enhanced Decision-Making-* provides a swift and comprehensive overview for faster, well-informed decision-making by leaders and teams;
+- *Employee Engagement-* creates an engaging work environment, encouraging employee involvement in continuous improvement initiatives;
+- *Standardized Processes-* utilizes visual aids, like standardized work instructions, ensuring consistency, reducing errors, and promoting quality;
+- *Promotes Accountability-* visualy displays of goals and progress instill a sense of accountability, motivating team members to meet targets;
+- *Supports Lean Principles-* aligns with lean principles such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
 
 Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The main goal is to make information easily accessible and understandable at a glance.
 
 #### Summary
 
-Just as holiday decorations and a well-decorated Christmas tree elevate the festive atmosphere, visual management improves overall communication and information flow. It supports in optimizing processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, efficiently guiding them through complexities.
+Just as holiday decorations and a well-decorated Christmas tree elevate the festive atmosphere, visual management improves overall communication and information flow. It assists in optimizing processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, efficiently guiding them through complexities.
 
 
-### And lastly, wishing you happy holidays! May your festivities bring as much joy as a snowman discovering it's a snow day, and here's to a fantastic 2024 ahead!
+### And lastly, wishing you happy holidays! May your festivities bring as much joy as a snowman discovering it's a snow day. Here's to a fantastic 2024 ahead!
 
 
 <p align="center">
