@@ -55,7 +55,7 @@ These are just a handful, like finding only red M&M's in the pack—entertaining
 
 <p align="center">
 <img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f388ad01-b386-4be9-bcfc-5733d26e3b07/460/300">
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/5dff081e-560d-4db4-a49b-c3221107468e/460/300">
 </p>
 
   #### Benefits of Visual managements
