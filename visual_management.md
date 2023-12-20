@@ -50,12 +50,13 @@ Visual management tools in various settings are meant to significantly improve o
 - *Visual Inventory Management;* techniques like color-coded bins, shadow boards, or digital displays for a quick visual indication of inventory levels and reorder points
 - *Flowcharts and Process Maps;* visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies
 - *Safety Signs and Markings;* Visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
+- 
+These are just a handful, like finding only red M&M's in the pack—entertaining, but there's more to discover!
 
-  <p align="center">
+<p align="center">
 <img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/2a058527-6fe5-4a38-9597-45469c105201/460/300">
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f388ad01-b386-4be9-bcfc-5733d26e3b07/460/300">
 </p>
-
 
   #### Benefits of Visual managements
   
