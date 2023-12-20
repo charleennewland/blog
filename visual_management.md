@@ -67,9 +67,9 @@ Visual management in Lean is a vital bridge between data and people, utilizing v
 
 #### Summary
 
-In summary, just as holiday decorations and a well-decorated Christmas tree enhance the festive spirit, visual management improves information flow and optimizes processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, guiding them through complexities with efficiency.
+In summary, just as holiday decorations and a well-decorated Christmas tree enhance the festive spirit, visual management improves information flow. It optimizes processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, efficiently guiding them through complexities.
 
-May your festivities be as joyous as a snowman finding out it's a snow day!
+Happy holidays! May your festivities be as joyous as a snowman finding out it's a snow day!, and may you have a wonderful 2024 ahead! 
 
 - [A] [1] Visual management, performance management and continuous improvement A lean manufacturing approach
 
