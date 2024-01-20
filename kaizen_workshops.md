@@ -1,4 +1,4 @@
-# Deck the Halls of Efficiency: A Visual Management Wonderland for Seamless Communication :christmas_tree: 🎁 :snowman:
+# Mastering Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
 ## Visual Management's Gift to Organizational Communication 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
