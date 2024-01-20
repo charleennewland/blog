@@ -1,16 +1,22 @@
-# Mastering Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
+# Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
 ## Visual Management's Gift to Organizational Communication 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
->*December 20, 2023*<br/>
+>*January 24, 2024*<br/>
 
->*Reading Time: 3 min*
+>*Reading Time: 5 min*
 >
 <p align="center">
   <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/d47bd538-d391-4a47-9990-e18f0be0818f/460/300">
 </p>
 
-Tis the season to be jolly! With Christmas trees, festive decorations, and Mariah Carey's 'All I Want for Christmas' becoming the anthem of joy :notes:, there's an undeniable magic in the air. Egg-nog, mulled wine, and crackling fireplaces add to the magic of it all :sparkles:. The visual presence of these elements not only indicates the arrival of the season but also strives to enhance our joy during this time of the year.
+Welcome 2024 (even though we're almost already through January)! As we dive into this 'brand-new' year, let's applaud the timekeepers of the past who defined the year's length.
+
+It's a time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages.- Improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
+
+
+In one of my earlier blogs where I delved into the definition of continuous improvement, we mentioned the term kaizen. The term 'Kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. 
+According to Cheser, while Kaizen has historically been applied to manufacturing settings, it is now commonly applied to service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness.[1] (https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)
 
 <p align="center">
 <img width="55
