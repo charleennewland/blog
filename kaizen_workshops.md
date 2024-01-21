@@ -11,7 +11,7 @@
 </p>
 <h5 align="center"> Source: Vecteezy</h1>  
 
-Welcome, 2024, even though we're almost through January! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages—improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
+Welcome, 2024, even though we're almost through January! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages-improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
 In one of my earlier blogs, where I delved into the definition of [Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term 'kaizen.' The term 'kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. According to [1], kaizen was first used in manufacturing settings, but now it's often used in service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness. 
 <p align="center">
