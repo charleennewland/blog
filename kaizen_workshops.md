@@ -23,7 +23,7 @@ There are various academic definitions for kaizen, but in this post, I will focu
 
 In [2], Imai differentiates between two types of improvement: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards
 
-Figure 1 is an image known as the Kaizen flag. Drawing a horizontal line at each organizational level, as depicted in the image below, helps us understand the amount of time each level in the organization spends focusing on innovation, kaizen, and maintenance activities
+Figure 1 is an image known as the Kaizen flag. Drawing a horizontal line at each organizational level, as depicted in the image below, helps us understand the amount of time each individual, depending on their level in the organization, should spend focusing on innovation, kaizen, and maintenance activities.
 
 The flag can be broken into the following 3 areas:
 - **Innovation;** these are drastic improvements in existing processes;
@@ -35,20 +35,17 @@ The flag can be broken into the following 3 areas:
 </p> 
 <h5 align="center"> Figure 1: Kaizen Flag - Imai 1997 [2]</h5>   
 
-The flag suggests that driving improvements are part of everyone’s job; the same goes for maintaining standards, while innovation is part of top and middle managements responsibility.
-
+The flag suggests that driving improvements is part of everyone’s job, and the same applies to maintaining standards, while innovation is the responsibility of top and middle management.
 
 #### Kaizen Workshops
+Now, picture this: you and your team have noticed a decline in your process output for a while. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' So, what does this kaizen workshop involve? It's a team gathering where the focus is on a specific area or issue that needs improvement. Typically lasting a week, everyone pitches in to find simple and smart ways to improve efficiency and productivity.
 
-Now imagine this: you and your team have been realizing that your process output has been deteriorating for a while now. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' Now, what does this kaizen workshop involve? 
-It's a team gathering where the team focuses on a specific area or issue that needs improvement. This is usually a week-long event. Everyone pitches in to find simple and smart ways to increase efficiency and productivity. 
+Kaizen events are typically organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices.
 
-Kaizen events are organised when the organisation wants to address urgent business risks, resolve root causes, overcome cross-functional challenges or sustain continuous improvement practices.
-
-First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of kaizen activities. Not all problems require a kaizen event or workshop.
+First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of kaizen activities. Remember, not every problem needs a kaizen event or workshop.
 
 
-Below you will find a high level steps to conducting a kaizen workshop.
+Here are the high-level steps for conducting a kaizen workshop:
 
 1. **Define goals and objectives** for the kaizen event;
 2. **Form a cross-functional team**, including members associated with the process;
@@ -63,8 +60,7 @@ Below you will find a high level steps to conducting a kaizen workshop.
 11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
 12. **Document the entire kaizen event** for future reference and follow-up. 
 
-These 12 steps should serve as a solid guide for a kaizen event. Now, let's quickly review the first 3 steps in our kaizen workshop guide.
-
+This set of 12 steps provides can serve as a framework for a successful kaizen event. Now, let's quickly review the first 3 steps outlined in our kaizen workshop guide.
 
 <p align="center">
 <img width="55
