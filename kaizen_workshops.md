@@ -84,30 +84,49 @@ These 12 steps should serve as a solid guide for a Kaizen event. Now, let's quic
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/5dff081e-560d-4db4-a49b-c3221107468e/460/300">
 </p>
 
-  #### Benefits of Visual management
-  
-  Visual management brings numerous advantages to organizational settings. Here are some key benefits:
+  Define goals and objectives for the Kaizen event
+"Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy!"
 
-- *Increased Transparency-* promotes openness and accountability by making crucial information easily visible;
-- *Efficient Problem Solving-* enables quick identification of issues through visual signals, facilitating quick resolution;
-- *Enhanced Decision-Making-* provides a swift and comprehensive overview for faster, well-informed decision-making by leaders and teams;
-- *Employee Engagement-* creates an engaging work environment, encouraging employee involvement in continuous improvement initiatives;
-- *Standardized Processes-* utilizes visual aids, like standardized work instructions, ensuring consistency, reducing errors, and promoting quality;
-- *Promotes Accountability-* visually displays goals and progress, instills a sense of accountability, motivating team members to meet targets;
-- *Supports Lean Principles-* aligns with lean principles such as Just-in-Time and Kanban, promoting efficiency, waste reduction, and a focus on customer value.
+Defining a goal is crucial, as it provides direction and structure. When defining a goal, you answer the following question: What specific problem or improvement are we aiming to address?
 
-Visual management in Lean is a vital bridge between data and people, utilizing visual communication to minimize disruptions. The main goal is to make information easily accessible and understandable at a glance.
+Here are some important points to follow when defining goals:
 
-#### Summary
-
-Just as holiday decorations and a well-decorated Christmas tree enhance the festive atmosphere, visual management improves organizational communication, promoting efficiency and encouraging efforts to achieve operational excellence. It assists in optimizing processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, efficiently guiding them through complexities.
+- Clearly articulate the specific problem or improvement you aim to address; 
+- Motivate the team by establishing a precise goal;
+- Focus on the actual problem to enhance clarity and unanimous agreement;
+- Ensure all participants share a common understanding of the goal's purpose;
+- Utilize tools like the SMART criteria, benchmarking, and mind mapping for effective goal definition;
+- Regularly review the goal's relevance and be prepared to make adjustments based on changing circumstances or new information.
 
 
+#### Building the Avengers of Kaizen: Picking Your Dream Team, Cape Optional!
+
+Selecting the right team members is crucial for a successful kaizen workshop.You want to include people with knowledge of the process or area that you are trying to improve such as individuals who take part in the process, which will also ensure that they are taking part in selecting the appropriate solution ensuring a higher adoption rate resulting in a successful project.
+
+Here are some important points to follow when selecting a team:
+
+- Select a team leader with strong leadership skills. This individual should be familiar with Lean techniques and have the ability to explain them to team members on the fly;
+- Include key stakeholders with a vested interest in the process being improved, such as managers, supervisors, and employees directly involved in the targeted area;
+- Include individuals with diverse skills and expertise, meaning members from different departments who can provide unique insights into the entire value stream;
+- Include subject matter experts (SMEs) with in-depth knowledge of the specific process under review to propose effective solutions.
 
 
-<p align="center">
-  <img width="350" height="500" src="https://github.com/charleennewland/blog/assets/138404574/57e74878-8e05-4023-9bad-bd628ca8c56d/460/300">
-</p>
+#### The Art of Gemba Walking: A Guide to Not Stumbling!
+The Gemba walk is a hands-on approach that involves going to the actual workplace to observe and understand processes.
+
+- Develop a checklist of areas to observe and questions to ask. Ensure a focused approach to maximize the value of time on the ground. Perform a pre-analysis of accompanying process data for effective questioning;
+- Engage with Frontline Workers by asking questions and actively listening. Encourage them to share their perspectives. Their insights are critical in understanding the real challenges and opportunities;
+- Observe the processes and workflows and act as a silent observer during processes and workflows. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
+- Approach the Gemba walk with an open mind, ready for unexpected discoveries, and be willing to adjust preconceptions. This ensures a better understanding of the work environment.
+
+These are the first 3 steps of our 12-step guide to a proper Kaizen event. In my next blog, we will go into the next 3 steps, which include Values Stream Mapping (VSM) and Root Cause Analysis (RCA). Two of my favourite tools.
+
+#### The main takeaways here are:
+
+- Kaizen workshop is a week-long team gathering for targeted improvement;
+- Goal definition is crucial for providing direction and structure.
+- Team formation is crucial, including those with process knowledge and key stakeholders for higher adoption rates
+- Gemba walks involve firsthand observation, engaging with frontline workers, and documenting areas for improvement.
 
 - [1] [Visual management, performance management and continuous improvement: A lean manufacturing approach](https://www.emerald.com/insight/content/doi/10.1108/IJLSS-09-2014-0028/full/html)<br>
 - [2] [The Functions of Visual Management](https://eprints.hud.ac.uk/id/eprint/29091/)<br>
