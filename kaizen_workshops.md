@@ -119,7 +119,7 @@ These are the first 3 steps of our 12-step guide to a proper Kaizen event. In my
 >- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
 >- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)
 >- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)
->- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)    
+>- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)    
 
 
 
