@@ -7,7 +7,7 @@
 >*Reading Time: 5 min*
 >
 <p align="center">
-  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/d47bd538-d391-4a47-9990-e18f0be0818f/460/300">
+  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/499adadb-035a-4189-8abe-6a09dd06a0b2/460/300">
 </p>
 
 Welcome 2024 (even though we're almost already through January)! As we dive into this 'brand-new' year, let's applaud the timekeepers of the past who defined the year's length.
