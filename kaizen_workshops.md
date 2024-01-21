@@ -40,33 +40,44 @@ In picture 1, there's an image called the Kaizen flag. If we draw a horizontal l
 <p align="center">
   <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
 </p> 
-<h5 align="center"> Kaizen Flag -Source: Imai 1997 [8]</h5>   
+<h5 align="center"> Kaizen Flag - Imai 1997 [8]</h5>   
 
-They are not only an effective tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is performing. Now, let's move forward and explore a couple of nifty visual management tools and methods that will, like a hot cup of cocoa, bring a lovely touch to your organisational process improvement journey!
+The flag suggests that driving improvements are part of everyone’s tasks; the same goes for maintaining standards, while innovation is to be expected from top and middle management.
 
 <p align="center">
 <img width="55
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/e65568aa-3746-4f49-85a6-9a51b4fabce8/460/300">
 </p>
 
-#### Types of visual management tools and methods
+#### Kaizen Workshops
 
-Visual management tools in various settings are meant to significantly improve organizational communication. Here are commonly used types and methods that boost workflow, communication, and overall efficiency:
+Now imagine this: you and your team have been realizing that your process output has been deteriorating for a while now. In a stroke of genius, you declare, 'Enough is enough; it's time for a Kaizen workshop!' Now, what does this Kaizen workshop involve? 
+It's a team gathering where the team focuses on a specific area or issue that needs improvement. This is usually a week-long event. Everyone pitches in to find simple and smart ways to increase efficiency and productivity. 
 
-- *Kanban Boards-* visualize workflow using cards, tickets, or sticky notes, representing different process stages;
-- *Andon Systems-* signal problems in production processes, activating lights or signals for a quick response and resolution;
-- *Poka-Yoke (Error Proofing)-* implementing visual cues to prevent errors before they occur, ensuring correct actions through color-coding, shape differentiation, or physical barriers;
-- *Huddle Boards-* are large, visible boards in team meetings to discuss goals, progress, and challenges, often featuring key performance indicators (KPIs) and action plans;
-- *Visual Metrics Dashboards-* present key performance metrics through digital or physical displays, facilitating quick analysis and decision-making;
-- *A-Frame Signs-* are portable signs in industrial settings conveying safety information, work status, or other important messages;
-- *Standardized Work Instructions-* are visual documents outlining step-by-step procedures, using images and minimal text for clarity and consistency;
-- *Visual Inventory Management-* are techniques like color-coded bins, shadow boards, or digital displays for a quick visual indication of inventory levels and reorder points;
-- *Flowcharts and Process Maps-* are a visual representations of processes using symbols and diagrams, aiding team members in understanding sequence and dependencies;
-- *Safety Signs and Markings-* are visual cues to communicate safety instructions and warnings, including floor markings, labels, and signs for guiding safe behavior.
+We organize Kaizen events when we want to address urgent business risks, resolve root causes, overcome cross-functional challenges or sustain continuous improvement practices.
 
-*5S (Sort, Set in order, Shine, Standardize, Sustain) and visual management go hand in hand to make workplaces more efficient, organized, and safe. Visual management is a critical ingredient in implementing 5S effectively.*
+First, make sure that team members are trained in or are familiar with Lean principles, as these often form the basis of Kaizen activities. I also want to note that not all problems require a Kaizen event or workshop. So what does a kaizen event look like? 
 
-These are just a handful—perfect for stuffing one elf-sized stocking, but there's more fun to discover!
+
+Typically a Kaizen workshop may consist of the following:
+
+Below you will find a detailed, step-by-step guide to conducting a Kaizen workshop with 12 comprehensive steps.
+
+1. Define goals and objectives for the Kaizen event
+2. Form a cross-functional team, including members associated with the process.
+3. Conduct a Gemba walk in the actual workplace.
+4. Create a Value Stream Map (VSM) to identify for improvements in the process
+5. Facilitate brainstorming sessions to share ideas for improvement.
+6. Analyze the root causes of the identified issues
+7. Develop potential solutions to address the identified issues
+8. Create a detailed plan for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs)
+9. Run a pilot to test and refine potential solutions.
+10. Execute planned changes, adjusting processes and workflows
+11. Monitor implemented changes and evaluate their impact on the process using metrics and KPIs
+12. Document the entire Kaizen event for future reference and follow-up 
+
+These 12 steps should serve as a solid guide for a Kaizen event. Now, let's quickly review the first 3 steps in our Kaizen workshop guide.
+
 
 <p align="center">
 <img width="55
@@ -92,7 +103,6 @@ Visual management in Lean is a vital bridge between data and people, utilizing v
 Just as holiday decorations and a well-decorated Christmas tree enhance the festive atmosphere, visual management improves organizational communication, promoting efficiency and encouraging efforts to achieve operational excellence. It assists in optimizing processes, communication, and efficiency in the workplace, ultimately increasing the transparency of the value chain. Visual management offers teams a clear, real-time understanding of their journey, efficiently guiding them through complexities.
 
 
-### And lastly, wishing you happy holidays! May your festivities bring as much joy as a snowman discovering it's a snow day. Here's to a fantastic 2024 ahead!
 
 
 <p align="center">
@@ -108,7 +118,8 @@ Just as holiday decorations and a well-decorated Christmas tree enhance the fest
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
 >- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
 >- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)
->- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)  
+>- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)
+>- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)    
 
 
 
