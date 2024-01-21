@@ -40,6 +40,7 @@ In picture 1, there's an image called the Kaizen flag. If we draw a horizontal l
 <p align="center">
   <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
 </p> 
+<h5 align="center"> Kaizen Flag -Source: Imai 1997 [8]</h5>   
 
 They are not only an effective tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is performing. Now, let's move forward and explore a couple of nifty visual management tools and methods that will, like a hot cup of cocoa, bring a lovely touch to your organisational process improvement journey!
 
