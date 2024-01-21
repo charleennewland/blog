@@ -9,7 +9,7 @@
 <p align="center">
   <img width="900" height="350" src="https://github.com/charleennewland/blog/assets/138404574/6f0bd99a-e4c2-42d6-a894-bde538baee88/900/400">
 </p>
-<h5 align="center"> Vecteezy</h2>  
+*<h5 align="center"> Vecteezy</h2>*  
 
 Welcome 2024 (even though we're almost already through January)! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages.- Improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
