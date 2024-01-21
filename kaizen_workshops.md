@@ -19,7 +19,7 @@ In one of my earlier blogs, where I delved into the definition of [Continuous Im
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
 </p>
 
-There are many definitions for Kaizen in academic work, but in this post, I will focus on the definitions of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
+There are many definitions for Kaizen in academic work, but in this post, I will focus on the definition of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
 
 In [2] Imai differentiates between two types of improvement: Kaizen and innovation. Kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of Kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). 
 
