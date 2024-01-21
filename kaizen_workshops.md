@@ -36,7 +36,6 @@ In picture 1, there's an image called the Kaizen flag. If we draw a horizontal l
 -**Kaizen**; these are continuous improvement of existing processes
 -**Maintenance** these are activities aimed at preserving existing technologies and standards.
 
-
 <p align="center">
   <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
 </p> 
@@ -44,10 +43,6 @@ In picture 1, there's an image called the Kaizen flag. If we draw a horizontal l
 
 The flag suggests that driving improvements are part of everyone’s job; the same goes for maintaining standards, while innovation is part of top and middle managements responsibility.
 
-<p align="center">
-<img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/e65568aa-3746-4f49-85a6-9a51b4fabce8/460/300">
-</p>
 
 #### Kaizen Workshops
 
