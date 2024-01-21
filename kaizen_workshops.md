@@ -19,10 +19,9 @@ In one of my earlier blogs, where I delved into the definition of [Continuous Im
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
 </p>
 
-There are many definitions for kaizen in academic work, but in this post, I will focus on the definition of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
+There are various academic definitions for kaizen, but in this post, I will focus on Imai's definition. This definition emphasizes practical elements, particularly from an organizational hierarchy perspective. It also highlights the distinction between kaizen and innovation.
 
-In [2] Imai differentiates between two types of improvement: kaizen and innovation. kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). 
-
+In [2], Imai differentiates between two types of improvement: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards
 
 In figure 1, there's an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
 
