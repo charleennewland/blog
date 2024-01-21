@@ -12,7 +12,7 @@
 
 Welcome 2024 (even though we're almost already through January)! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages.- Improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
-In one of my earlier blogs where I delved into the definition of [Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), we mentioned the term kaizen. The term 'Kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. 
+In one of my earlier blogs where I delved into the definition of [Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term kaizen. The term 'Kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. 
 According to Cheser, while Kaizen has historically been applied to manufacturing settings, it is now commonly applied to service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness.[1] 
 
 There are many definitions for Kaizen in academic work, but in this post, I will focus on the definitions of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
