@@ -63,18 +63,18 @@ Typically a Kaizen workshop may consist of the following:
 
 Below you will find a detailed, step-by-step guide to conducting a Kaizen workshop with 12 comprehensive steps.
 
-1. Define goals and objectives for the Kaizen event
-2. Form a cross-functional team, including members associated with the process.
-3. Conduct a Gemba walk in the actual workplace.
-4. Create a Value Stream Map (VSM) to identify for improvements in the process
-5. Facilitate brainstorming sessions to share ideas for improvement.
-6. Analyze the root causes of the identified issues
-7. Develop potential solutions to address the identified issues
-8. Create a detailed plan for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs)
-9. Run a pilot to test and refine potential solutions.
-10. Execute planned changes, adjusting processes and workflows
-11. Monitor implemented changes and evaluate their impact on the process using metrics and KPIs
-12. Document the entire Kaizen event for future reference and follow-up 
+1. **Define goals and objectives** for the Kaizen event
+2. **Form a cross-functional team**, including members associated with the process.
+3. **Conduct a Gemba walk** in the actual workplace.
+4. **Create a Value Stream Map (VSM)** to identify for improvements in the process
+5. **Facilitate brainstorming sessions** to share ideas for improvement.
+6. **Analyze the root causes** of the identified issues
+7. **Develop potential solutions** to address the identified issues
+8. **Create a detailed plan** for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs)
+9. **Run a pilot** to test and refine potential solutions.
+10. **Implement planned changes**, adjusting processes and workflows
+11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs
+12. **Document the entire Kaizen event** for future reference and follow-up 
 
 These 12 steps should serve as a solid guide for a Kaizen event. Now, let's quickly review the first 3 steps in our Kaizen workshop guide.
 
