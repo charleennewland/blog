@@ -7,7 +7,7 @@
 >*Reading Time: 5 min*
 >
 <p align="center">
-  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/6f0bd99a-e4c2-42d6-a894-bde538baee88/400/900">
+  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/6f0bd99a-e4c2-42d6-a894-bde538baee88/900/400">
 </p>
 [1] [Continuous Improvement Vectors by Vecteezy](https://www.vecteezy.com/free-vector/continuous-improvement)<br>
 <a href="https://www.vecteezy.com/free-vector/continuous-improvement">Continuous Improvement Vectors by Vecteezy</a>
