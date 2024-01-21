@@ -23,7 +23,7 @@ There are various academic definitions for kaizen, but in this post, I will focu
 
 In [2], Imai differentiates between two types of improvement: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards
 
-In figure 1, there's an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
+Figure 1 is an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
 
 The flag can be broken into the following 3 areas:
 - **Innovation;** these are drastic improvements in existing processes;
