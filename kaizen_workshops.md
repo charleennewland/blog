@@ -73,12 +73,12 @@ Defining a goal is crucial at the start of a kaizen workshop, as it provides dir
 
 Here are some important points to follow when defining goals:
 
-- Clearly articulate the specific problem or improvement you aim to address; 
-- Motivate the team by establishing a precise goal;
-- Focus on the actual problem to enhance clarity and unanimous agreement;
-- Ensure all participants share a common understanding of the goal's purpose;
-- Utilize tools like the SMART criteria, benchmarking, and mind mapping for effective goal definition;
-- Regularly review the goal's relevance and be prepared to make adjustments based on changing circumstances or new information.
+- **Clearly articulate the specific problem** or improvement you aim to address; 
+- **Motivate the team** by formulating a precise goal;
+- **Focus on the actual problem** to enhance clarity and unanimous agreement;
+- **Ensure all participants share a common understanding** of the goal's purpose;
+- **Utilize tools like the SMART criteria, benchmarking, and mind mapping** for effective goal definition;
+- **Regularly review the goal's relevance** and be prepared to make adjustments based on changing circumstances or new information.
 
 
 #### 2. Building the Avengers of Kaizen: Picking Your Dream Team, Cape Optional!
@@ -87,19 +87,19 @@ Selecting the right team members is crucial for a successful kaizen workshop.You
 
 Here are some important points to follow when selecting a team:
 
-- Select a team leader with strong leadership skills. This individual should be familiar with Lean techniques and have the ability to explain them to team members on the fly;
-- Include key stakeholders with a vested interest in the process being improved, such as managers, supervisors, and employees directly involved in the targeted area;
-- Include individuals with diverse skills and expertise, meaning members from different departments who can provide unique insights into the entire value stream;
-- Include subject matter experts (SMEs) with in-depth knowledge of the specific process under review to propose effective solutions.
+- **Select a team leader with strong leadership skills.** This individual should be familiar with Lean techniques and have the ability to explain them to team members on the fly;
+- **Include key stakeholders with a vested interest in the process** being improved, such as managers, supervisors, and employees directly involved in the targeted area;
+- **Include individuals with diverse skills** and expertise, meaning members from different departments who can provide unique insights into the entire value stream;
+- **Include subject matter experts (SMEs)** with in-depth knowledge of the specific process under review to propose effective solutions.
 
 
 #### 3. The Art of Gemba Walking: A Guide to Not Stumbling!
 The Gemba walk is a hands-on approach that involves going to the actual workplace to observe and understand processes.
 
-- Develop a checklist of areas to observe and questions to ask. Ensure a focused approach to maximize the value of time on the ground. Perform a pre-analysis of accompanying process data for effective questioning;
-- Engage with Frontline Workers by asking questions and actively listening. Encourage them to share their perspectives. Their insights are critical in understanding the real challenges and opportunities;
-- Observe the processes and workflows and act as a silent observer during processes and workflows. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
-- Approach the Gemba walk with an open mind, ready for unexpected discoveries, and be willing to adjust preconceptions. This ensures a better understanding of the work environment.
+- **Develop a checklist of areas to observe** and questions to ask. Ensure a focused approach to maximize the value of time on the ground. Perform a pre-analysis of accompanying process data for effective questioning;
+- **Engage with frontline workers** by asking questions and actively listening. Encourage them to share their perspectives. Their insights are critical in understanding the real challenges and opportunities;
+- **Observe the processes and workflows** and act as a silent observer during processes and workflows. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
+- **Approach the Gemba walk with an open mind**, ready for unexpected discoveries, and be willing to adjust preconceptions. This ensures a better understanding of the work environment.
 
 These are the first 3 steps of our 12-step guide to a proper Kaizen event. In my next blog, we will go into the next 3 steps, which include Values Stream Mapping (VSM) and Root Cause Analysis (RCA). Two of my favourite tools.
 
