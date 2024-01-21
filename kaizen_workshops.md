@@ -14,7 +14,12 @@
 Welcome 2024 (even though we're almost already through January)! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages.- Improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
 In one of my earlier blogs where I delved into the definition of [Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term kaizen. The term 'Kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. 
-According to Cheser, while Kaizen has historically been applied to manufacturing settings, it is now commonly applied to service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness.[1] 
+According to Cheser, while Kaizen has historically been applied to manufacturing settings, it is now commonly applied to service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness.[1]
+
+<p align="center">
+<img width="55
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
+</p>
 
 There are many definitions for Kaizen in academic work, but in this post, I will focus on the definitions of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
 
@@ -48,18 +53,18 @@ First, make sure that team members are trained in or are familiar with Lean prin
 
 Below you will find a high level steps to conducting a Kaizen workshop.
 
-1. **Define goals and objectives** for the Kaizen event
-2. **Form a cross-functional team**, including members associated with the process.
-3. **Conduct a Gemba walk** in the actual workplace.
-4. **Create a Value Stream Map (VSM)** to identify for improvements in the process
-5. **Facilitate brainstorming sessions** to share ideas for improvement.
-6. **Analyze the root causes** of the identified issues
-7. **Develop potential solutions** to address the identified issues
-8. **Create a detailed plan** for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs)
-9. **Run a pilot** to test and refine potential solutions.
-10. **Implement planned changes**, adjusting processes and workflows
-11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs
-12. **Document the entire Kaizen event** for future reference and follow-up 
+1. **Define goals and objectives** for the Kaizen event;
+2. **Form a cross-functional team**, including members associated with the process;
+3. **Conduct a Gemba walk** in the actual workplace;
+4. **Create a Value Stream Map (VSM)** to identify for improvements in the process;
+5. **Facilitate brainstorming sessions** to share ideas for improvement;
+6. **Analyze the root causes** of the identified issues;
+7. **Develop potential solutions** to address the identified issues;
+8. **Create a detailed plan** for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs);
+9. **Run a pilot** to test and refine potential solutions;
+10. **Implement planned changes**, adjusting processes and workflows;
+11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
+12. **Document the entire Kaizen event** for future reference and follow-up. 
 
 These 12 steps should serve as a solid guide for a Kaizen event. Now, let's quickly review the first 3 steps in our Kaizen workshop guide.
 
