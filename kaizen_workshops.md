@@ -78,7 +78,7 @@ Here are some important points to follow when selecting a team:
 - **Include individuals with diverse skills** and expertise, meaning members from different departments who can provide unique insights into the entire value stream;
 - **Include subject matter experts (SMEs)** with in-depth knowledge of the specific process under review to propose effective solutions.
 
-#### 2. Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy! 	:dart:
+#### 2. Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy! :dart:
 
 Defining a goal is crucial at the start of a kaizen workshop, as it provides direction and structure. When defining a goal, you answer the following question: What specific problem or improvement are we aiming to address?
 
