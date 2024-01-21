@@ -23,8 +23,9 @@ In [2] Imai differentiates between two types of improvement: Kaizen and innovati
 
 In figure 1, there's an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
 
-- **Innovation;** these are drastic improvements in existing processes
-- **Kaizen**; these are continuous improvement of existing processes
+This flag is broken into the following 3 areas:
+- **Innovation;** these are drastic improvements in existing processes;
+- **Kaizen**; these are continuous improvement of existing processes;
 - **Maintenance** these are activities aimed at preserving existing technologies and standards.
 
 <p align="center">
