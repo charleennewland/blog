@@ -1,5 +1,5 @@
 # Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
-## Visual Management's Gift to Organizational Communication 
+## Part I. Building a Culture of Continuous Improvement
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*January 24, 2024*<br/>
