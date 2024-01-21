@@ -38,7 +38,7 @@ The flag can be broken into the following 3 areas:
 The flag suggests that driving improvements is part of everyone’s job, and the same applies to maintaining standards, while innovation is the responsibility of top and middle management.
 
 #### Kaizen Workshops
-Now, picture this: you and your team have noticed a decline in your process output for a while. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' So, what does this kaizen workshop involve? It's a team gathering where the focus is on a specific area or issue that needs improvement. Typically lasting a week, everyone pitches in to find simple and smart ways to improve efficiency and productivity.
+Now, picture this: you and your team have noticed a decline in the output of a process for a while. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' So, what does this kaizen workshop involve? It's a team gathering where the focus is on a specific area or issue that needs improvement. Typically lasting a week, everyone pitches in to find simple and smart ways to improve efficiency and productivity.
 
 Kaizen events are typically organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices.
 
@@ -47,8 +47,8 @@ First, make sure that team members are trained in or are familiar with Lean prin
 
 Here are the high-level steps for conducting a kaizen workshop:
 
-1. **Define goals and objectives** for the kaizen event;
-2. **Form a cross-functional team**, including members associated with the process;
+1. **Form a cross-functional team**, including members associated with the process;
+2. **Define goals and objectives** for the kaizen event;
 3. **Conduct a Gemba walk** in the actual workplace;
 4. **Create a Value Stream Map (VSM)** to identify for improvements in the process;
 5. **Facilitate brainstorming sessions** to share ideas for improvement;
@@ -67,7 +67,18 @@ This set of 12 steps provides can serve as a framework for a successful kaizen e
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/c8519c67-f08b-4923-a22a-8c534246b065/460/300">
 </p>
 
-#### 1. Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy!
+#### 1. Building the Avengers of Kaizen: Picking Your Dream Team, Cape Optional!
+
+Selecting the right team members is crucial for a successful kaizen workshop.You want to include people with knowledge of the process or area that you are trying to improve such as individuals who take part in the process, which will also ensure that they are taking part in selecting the appropriate solution ensuring a higher adoption rate resulting in a successful project.
+
+Here are some important points to follow when selecting a team:
+
+- **Select a team leader with strong leadership skills.** This individual should be familiar with Lean techniques and have the ability to explain them to team members on the fly;
+- **Include key stakeholders with a vested interest in the process** being improved, such as managers, supervisors, and employees directly involved in the targeted area;
+- **Include individuals with diverse skills** and expertise, meaning members from different departments who can provide unique insights into the entire value stream;
+- **Include subject matter experts (SMEs)** with in-depth knowledge of the specific process under review to propose effective solutions.
+
+#### 2. Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy!
 
 Defining a goal is crucial at the start of a kaizen workshop, as it provides direction and structure. When defining a goal, you answer the following question: What specific problem or improvement are we aiming to address?
 
@@ -79,18 +90,6 @@ Here are some important points to follow when defining goals:
 - **Ensure all participants share a common understanding** of the goal's purpose;
 - **Utilize tools like the SMART criteria, benchmarking, and mind mapping** for effective goal definition;
 - **Regularly review the goal's relevance** and be prepared to make adjustments based on changing circumstances or new information.
-
-
-#### 2. Building the Avengers of Kaizen: Picking Your Dream Team, Cape Optional!
-
-Selecting the right team members is crucial for a successful kaizen workshop.You want to include people with knowledge of the process or area that you are trying to improve such as individuals who take part in the process, which will also ensure that they are taking part in selecting the appropriate solution ensuring a higher adoption rate resulting in a successful project.
-
-Here are some important points to follow when selecting a team:
-
-- **Select a team leader with strong leadership skills.** This individual should be familiar with Lean techniques and have the ability to explain them to team members on the fly;
-- **Include key stakeholders with a vested interest in the process** being improved, such as managers, supervisors, and employees directly involved in the targeted area;
-- **Include individuals with diverse skills** and expertise, meaning members from different departments who can provide unique insights into the entire value stream;
-- **Include subject matter experts (SMEs)** with in-depth knowledge of the specific process under review to propose effective solutions.
 
 
 #### 3. The Art of Gemba Walking: A Guide to Not Stumbling!
