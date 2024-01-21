@@ -60,7 +60,7 @@ Here are the high-level steps for conducting a kaizen workshop:
 11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
 12. **Document the entire kaizen event** for future reference and follow-up. 
 
-This set of 12 steps provides can serve as a framework for a successful kaizen event. Now, let's quickly review the first 3 steps outlined in our kaizen workshop guide.
+This set of 12 steps provides a framework for a successful kaizen event. Now, let's quickly review the first 3 steps outlined in our kaizen workshop guide.
 
 <p align="center">
 <img width="55
