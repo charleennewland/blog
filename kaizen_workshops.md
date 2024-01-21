@@ -65,7 +65,7 @@ These 12 steps should serve as a solid guide for a Kaizen event. Now, let's quic
 
 <p align="center">
 <img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/5dff081e-560d-4db4-a49b-c3221107468e/460/300">
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/c8519c67-f08b-4923-a22a-8c534246b065/460/300">
 </p>
 
 #### 1. Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy!
