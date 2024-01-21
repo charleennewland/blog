@@ -23,22 +23,23 @@ According to Cheser, while Kaizen has historically been applied to manufacturing
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f388ad01-b386-4be9-bcfc-5733d26e3b07/460/300">
 </p>
 
-This leads us to today's topic: visual management and its role in improving the flow of information and communication within organizations. 
-Beautifully decorated Christmas trees communicate the spirit of the season, enhancing our enjoyment of the holidays. Similarly, visual management is essential for improving transparency in the value chain, as well as communication and information flow within businesses. Visual management is widely applied in manufacturing, healthcare, and services, it boosts operational efficiency, safety, and overall performance. Visual management is a powerful tool that aligns with the principles of operational excellence. You can read more about [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), [operational excellence](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt2.md), and how to create an [operational excellence maturity model](https://github.com/charleennewland/blog/edit/post03/operational_excellence_maturity_model.md) to achieve operational excellence in my previous blog posts.
+There are many definitions for Kaizen in academic work, but in this post, I will focus on the definitions of Imai and Hammer because they emphasize the more practical elements, particularly from an organizational hierarchy perspective. They also highlight the difference between Kaizen and innovation.
 
-As per [1], visual management and data visualization, aren't new concepts. These ideas and tools, in diverse forms, have been utilized worldwide for nearly 4,500 years. The research in [2] highlights one of the earliest applications, the Egyptian Royal Cubit, extensively used in construction projects to convey information through visual cues.
+Hammer et al. emphasize that Kaizen promotes process-oriented thinking, as improvement in processes is necessary to achieve better outcomes. Improvement is classified into Continuous Improvement (CI) and innovation. Kaizen involves incremental improvements through ongoing efforts, while innovation requires significant changes achieved through substantial investments in technology or a radical shift in process design using Business Process Re-engineering (BPR). (https://www.google.nl/books/edition/Reengineering_the_Corporation/DXNzGHOCgWIC?hl=en&gbpv=0&bsq=Reengineering%20the%20Corporation:%20A%20Manifesto%20for%20Business%20Revolution,%20Harper%20Collins,%20New%20York )
 
-#### What is Visual Management?
+Imai differentiates between two types of improvement: Kaizen and innovation. Kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of Kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). (https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )
 
-In [1], we learn that the roots of modern visual management practices can be traced back to the mid-1940s when the Toyota Production System (TPS) was growing. In the late 1940s, as experienced workforces were deployed to war zones, standard work procedures were developed and posted at work cells above each station at Toyota facilities.
 
-There are many definitions for visual management, but the following two are especially comprehensive. Visual management is essentially a method for visualizing information. The study in [3] defines visual management as the placement in plain view of all tools, parts, production activities, and indicators of production system performance, facilitating the understanding of the system's status at a glance by everyone involved. According to [2], visual management aligns vision, values, goals, and culture with management systems, processes, and stakeholders. It uses stimuli that target the five senses—sight, hearing, feeling, smell, and taste—to improve organizational performance.
+In picture 1, there's an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
 
-Visual management aims to transform processes and production statuses into simple and easily understandable visual overviews. It can be categorized into three types of visuals:
+-**Innovation;** these are drastic improvements in existing processes
+-**Kaizen**; these are continuous improvement of existing processes
+-**Maintenance** these are activities aimed at preserving existing technologies and standards.
 
-- **Instructive visuals;** these communicate directions, strategic goals, customer expectations, and compliance requirements
-- **Explanatory visuals;** these communicate SOPs, work-related information, and workplace organization and maintenance activities
-- **Performance-oriented visuals;** these communicate the status of processes, projects, production, productivity, and performance.
+
+<p align="center">
+  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
+</p> 
 
 They are not only an effective tool to communicate a strategy or direction to the rest of the organisation but they also play a crucial role in communicating how well the organisation is performing. Now, let's move forward and explore a couple of nifty visual management tools and methods that will, like a hot cup of cocoa, bring a lovely touch to your organisational process improvement journey!
 
