@@ -17,7 +17,7 @@ According to Cheser, while Kaizen has historically been applied to manufacturing
 
 There are many definitions for Kaizen in academic work, but in this post, I will focus on the definitions of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
 
-In [2] Imai differentiates between two types of improvement: Kaizen and innovation. Kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of Kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). (https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )
+In [2] Imai differentiates between two types of improvement: Kaizen and innovation. Kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of Kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). 
 
 
 In figure 1, there's an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
@@ -105,9 +105,9 @@ These are the first 3 steps of our 12-step guide to a proper Kaizen event. In my
 
 #### The main takeaways here are:
 
-- Kaizen workshop is a week-long team gathering for targeted improvement;
-- Goal definition is crucial for providing direction and structure.
-- Team formation is crucial, including those with process knowledge and key stakeholders for higher adoption rates
+- Kaizen workshops are a week-long team gathering for targeted improvement;
+- Defining goals at the beginning of kaizen workshops is crucial for providing direction and structure;
+- Team formation is crucial, including those with process knowledge and key stakeholders for higher adoption rates;
 - Gemba walks involve firsthand observation, engaging with frontline workers, and documenting areas for improvement.
 
 - [1] [one]((https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html))<br>
