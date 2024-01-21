@@ -42,7 +42,7 @@ In picture 1, there's an image called the Kaizen flag. If we draw a horizontal l
 </p> 
 <h5 align="center"> Kaizen Flag - Imai 1997 [8]</h5>   
 
-The flag suggests that driving improvements are part of everyone’s tasks; the same goes for maintaining standards, while innovation is expected from top and middle management.
+The flag suggests that driving improvements are part of everyone’s job; the same goes for maintaining standards, while innovation is part of top and middle managements responsibility.
 
 <p align="center">
 <img width="55
