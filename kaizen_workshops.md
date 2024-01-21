@@ -7,8 +7,10 @@
 >*Reading Time: 5 min*
 >
 <p align="center">
-  <img width="250" height="325" src="https://github.com/charleennewland/blog/assets/138404574/747ff327-8ca4-4e4d-ac72-2dd70d83b68c/50/1000">
+  <img width="550" height="350" src="https://github.com/charleennewland/blog/assets/138404574/3e374aa7-9c8c-42d8-9c2c-f10eb487ea06/460/300">
 </p>
+[1] [Continuous Improvement Vectors by Vecteezy](https://www.vecteezy.com/free-vector/continuous-improvement)<br>
+<a href="https://www.vecteezy.com/free-vector/continuous-improvement">Continuous Improvement Vectors by Vecteezy</a>
 
 Welcome 2024 (even though we're almost already through January)! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages.- Improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
