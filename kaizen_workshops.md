@@ -11,17 +11,17 @@
 </p>
 <h5 align="center"> Source: Vecteezy</h1>  
 
-Welcome, 2024, even though we're almost through January! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages—improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on Kaizen. Buckle up, 2024—we're ready for the ride!
+Welcome, 2024, even though we're almost through January! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages—improvements galore. So, in the spirit of positive changes, let's kick off this January blog with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
-In one of my earlier blogs, where I delved into the definition of [Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term 'kaizen.' The term 'Kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. According to [1], kaizen was first used in manufacturing settings, but now it's often used in service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness. 
+In one of my earlier blogs, where I delved into the definition of [Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term 'kaizen.' The term 'kaizen' is Japanese for 'change' (kai) and 'good' (zen), emphasizing the constant pursuit of improvement. According to [1], kaizen was first used in manufacturing settings, but now it's often used in service business processes to drive small changes regularly—reducing waste and continuously improving productivity, safety, and effectiveness. 
 <p align="center">
 <img width="55
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
 </p>
 
-There are many definitions for Kaizen in academic work, but in this post, I will focus on the definition of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
+There are many definitions for kaizen in academic work, but in this post, I will focus on the definition of Imai because it emphasizes the more practical elements, particularly from an organizational hierarchy perspective. It also highlight the difference between kaizen and innovation.
 
-In [2] Imai differentiates between two types of improvement: Kaizen and innovation. Kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of Kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). 
+In [2] Imai differentiates between two types of improvement: kaizen and innovation. kaizen means gradual improvements through continuous efforts, while innovation involves substantial improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. (Figure 1). 
 
 
 In figure 1, there's an image called the Kaizen flag. If we draw a horizontal line at each organizational level (as depicted in the picture below), it helps us know how much each level in the organization should focus on innovation, kaizen and maintenance activities.
@@ -41,17 +41,17 @@ The flag suggests that driving improvements are part of everyone’s job; the sa
 
 #### Kaizen Workshops
 
-Now imagine this: you and your team have been realizing that your process output has been deteriorating for a while now. In a stroke of genius, you declare, 'Enough is enough; it's time for a Kaizen workshop!' Now, what does this Kaizen workshop involve? 
+Now imagine this: you and your team have been realizing that your process output has been deteriorating for a while now. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' Now, what does this kaizen workshop involve? 
 It's a team gathering where the team focuses on a specific area or issue that needs improvement. This is usually a week-long event. Everyone pitches in to find simple and smart ways to increase efficiency and productivity. 
 
 Kaizen events are organised when the organisation wants to address urgent business risks, resolve root causes, overcome cross-functional challenges or sustain continuous improvement practices.
 
-First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of Kaizen activities. Not all problems require a Kaizen event or workshop.
+First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of kaizen activities. Not all problems require a kaizen event or workshop.
 
 
-Below you will find a high level steps to conducting a Kaizen workshop.
+Below you will find a high level steps to conducting a kaizen workshop.
 
-1. **Define goals and objectives** for the Kaizen event;
+1. **Define goals and objectives** for the kaizen event;
 2. **Form a cross-functional team**, including members associated with the process;
 3. **Conduct a Gemba walk** in the actual workplace;
 4. **Create a Value Stream Map (VSM)** to identify for improvements in the process;
@@ -62,9 +62,9 @@ Below you will find a high level steps to conducting a Kaizen workshop.
 9. **Run a pilot** to test and refine potential solutions;
 10. **Implement planned changes**, adjusting processes and workflows;
 11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
-12. **Document the entire Kaizen event** for future reference and follow-up. 
+12. **Document the entire kaizen event** for future reference and follow-up. 
 
-These 12 steps should serve as a solid guide for a Kaizen event. Now, let's quickly review the first 3 steps in our Kaizen workshop guide.
+These 12 steps should serve as a solid guide for a kaizen event. Now, let's quickly review the first 3 steps in our kaizen workshop guide.
 
 
 <p align="center">
@@ -106,7 +106,7 @@ The Gemba walk is a hands-on approach that involves going to the actual workplac
 - **Observe the processes and workflows** and act as a silent observer during processes and workflows. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
 - **Approach the Gemba walk with an open mind**, ready for unexpected discoveries, and be willing to adjust preconceptions. This ensures a better understanding of the work environment.
 
-These are the first 3 steps of our 12-step guide to a proper Kaizen event. In my next blog, we will go into the next 3 steps, which include Values Stream Mapping (VSM) and Root Cause Analysis (RCA). Two of my favourite tools.
+These are the first 3 steps of our 12-step guide to a proper kaizen event. In my next blog, we will go into the next 3 steps, which include Values Stream Mapping (VSM) and Root Cause Analysis (RCA). Two of my favourite tools.
 
 #### The main takeaways here are:
 
