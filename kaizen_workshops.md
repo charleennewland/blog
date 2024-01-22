@@ -110,8 +110,8 @@ These are the initial three steps in our 12-step guide to a proper kaizen event.
 - Team formation is crucial, including those with process knowledge and key stakeholders for higher adoption rates;
 - Gemba walks involve firsthand observation, engaging with frontline workers, and documenting areas for improvement.
 
-- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
-- [2] [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )<br>
+>- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
+>- [2] [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )<br>
  
 
 >Related content:
