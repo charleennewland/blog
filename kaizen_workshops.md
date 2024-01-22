@@ -114,6 +114,7 @@ These are the initial three steps in our 12-step guide to a proper kaizen event.
 #### The main takeaways here are:
 
 - Kaizen workshops are a week-long team gathering for targeted improvement;
+- Kaizen workshops drive efficiency, empower employee engagement, and foster cross-functional collaboration;
 - Defining goals at the beginning of kaizen workshops is crucial for providing direction and structure;
 - Team formation is crucial, including those with process knowledge and key stakeholders for higher adoption rates;
 - Gemba walks involve firsthand observation, engaging with frontline workers, and documenting areas for improvement.
