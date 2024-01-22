@@ -42,7 +42,7 @@ The flag suggests that driving improvements is part of everyone’s job, and the
 #### Kaizen Workshops
 Imagine this scenario: you and your team have detected a gradual decline in the output of a process. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' So, what does this kaizen workshop involve? It's a team gathering where the focus is on a specific area or issue that needs improvement. Typically lasting a week, everyone pitches in to find simple and smart ways to improve efficiency and productivity.
 
-Kaizen events are typically organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices.
+Kaizen events are usually organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices.
 
 First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of kaizen activities. Remember, not every problem needs a kaizen event or workshop.
 
