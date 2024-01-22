@@ -98,7 +98,7 @@ The Gemba walk is a hands-on approach that involves going to the actual workplac
 
 - **Create a checklist of areas to observe** and questions to ask. Ensure a focused approach to maximize the value of time on the ground. Perform a pre-analysis of accompanying process data for effective questioning;
 - **Engage with frontline workers** by asking questions and actively listening. Encourage them to share their perspectives. Their insights are critical in understanding the real challenges and opportunities;
-- **Observe the processes and workflows** and act as a silent observer during processes and workflows. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
+- **Observe the processes and workflows** and act as a silent observer. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
 - **Approach the Gemba walk with an open mind**, ready for unexpected discoveries, and be willing to adjust preconceptions. This ensures a better understanding of the work environment.
 
 These are the initial three steps in our 12-step guide to a proper kaizen event. In my next blog post, we will delve into the following three steps, which include Value Stream Mapping (VSM) and Root Cause Analysis (RCA) – two of my favorite tools.
