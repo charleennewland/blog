@@ -66,7 +66,7 @@ This set of 12 steps provides a framework for a successful kaizen event.
 Kaizen workshops offer many advantages. With time, it can promote a cultural shift, inspiring employees to embrace continuous improvement. Some other **benefits** include:
 
 - **Efficiency improvement-** kaizen workshops identify inefficiencies, streamline workflows, and optimize resource utilization;
-- **Employee Engagement-** these workshops empower employees, inspire a sense of ownership and encouraging active participation in the improvement process;
+- **Employee Engagement-** these workshops empower employees, inspire a sense of ownership and encourage active participation in the improvement process;
 - **Cross-Functional Collaboration-** kaizen workshops bring employees from different departments together, promoting collaboration and breaking down organizational silos.
 
 Now, let's quickly review the first 3 steps outlined in our kaizen workshop guide.
