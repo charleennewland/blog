@@ -86,11 +86,10 @@ Defining a goal is critical at the start of a kaizen workshop, as it provides di
 
 Here are some important points to follow when defining goals:
 
-- **Clearly articulate the specific problem** or improvement you aim to address; 
-- **Motivate the team** by formulating a precise goal;
 - **Focus on the actual problem** to enhance clarity and unanimous agreement;
+- **Clearly articulate the specific problem** or improvement you aim to address, as this will serve as motivation for the team;
 - **Ensure all participants share a common understanding** of the goal's purpose;
-- **Utilize tools like the SMART criteria, benchmarking, and mind mapping** for effective goal definition;
+- **Utilize tools like the SMART framework, benchmarking, and mind mapping** for effective goal definition;
 - **Regularly review the goal's relevance** and be prepared to make adjustments based on changing circumstances or new information.
 
 
