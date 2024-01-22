@@ -101,7 +101,7 @@ The Gemba walk is a hands-on approach that involves going to the actual workplac
 - **Observe the processes and workflows** and act as a silent observer. Document any deviations, bottlenecks, or areas for improvement using checklists, photographs, or written notes;
 - **Approach the Gemba walk with an open mind**, ready for unexpected discoveries, and be willing to adjust preconceptions. This ensures a better understanding of the work environment.
 
-These are the initial three steps in our 12-step guide to a proper kaizen event. In my next blog post, we will delve into the following three steps, which include Value Stream Mapping (VSM) and Root Cause Analysis (RCA) – two of my favorite tools.
+These are the initial three steps in our 12-step guide to a proper kaizen event. In my next blog post, we will delve into the following three steps, which include Value Stream Mapping (VSM) and Root Cause Analysis (RCA) – two of my favorite Lean tools.
 
 #### The main takeaways here are:
 
