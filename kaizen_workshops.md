@@ -25,10 +25,12 @@ In [2], Imai differentiates between two types of improvements: kaizen and innova
 
 Figure 1 is known as the kaizen flag. Drawing a horizontal line at each organizational level, as depicted in the image below, helps us understand the amount of time each individual, depending on their level in the organization, should spend focusing on innovation, kaizen, and maintenance activities.
 
-The flag can be broken into the following 3 areas:
-- **Innovation;** these are drastic improvements in existing processes;
-- **Kaizen**; these are continuous improvement of existing processes;
-- **Maintenance** these are activities aimed at preserving existing technologies and standards.
+
+The flag can be divided into the following three areas:
+
+**Innovation:** these involve drastic improvements in existing processes;
+**Kaizen:** these entail continuous improvement of existing processes;
+**Maintenance:** these involve activities aimed at preserving existing technologies and standards.
 
 <p align="center">
   <img width="500" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
