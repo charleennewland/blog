@@ -82,7 +82,7 @@ Here are some important points to follow when selecting a team:
 
 #### 2. Goal-setting: Because 'Winging It' Is Not a Kaizen Strategy! :dart:
 
-Defining a goal is crucial at the start of a kaizen workshop, as it provides direction and structure. When defining a goal, you answer the following question: What specific problem or improvement are we aiming to address?
+Defining a goal is critical at the start of a kaizen workshop, as it provides direction and structure. When defining a goal, you answer the following question: What specific problem or improvement are we aiming to address?
 
 Here are some important points to follow when defining goals:
 
