@@ -28,9 +28,9 @@ Figure 1 is known as the kaizen flag. Drawing a horizontal line at each organiza
 
 The flag can be divided into the following three areas:
 
-**Innovation:** these involve drastic improvements in existing processes;
-**Kaizen:** these entail continuous improvement of existing processes;
-**Maintenance:** these involve activities aimed at preserving existing technologies and standards.
+- **Innovation:** these involve drastic improvements in existing processes;
+- **Kaizen:** these entail continuous improvement of existing processes;
+- **Maintenance:** these involve activities aimed at preserving existing technologies and standards.
 
 <p align="center">
   <img width="500" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
