@@ -71,7 +71,7 @@ This set of 12 steps provides a framework for a successful kaizen event. Now, le
 
 #### 1. Building the Avengers of Kaizen: Picking Your Dream Team, Cape Optional! :superhero:
 
-Selecting the right team members is crucial for a successful kaizen workshop.You want to include people with knowledge of the process or area that you are trying to improve such as individuals who take part in the process, which will also ensure that they are taking part in selecting the appropriate solution ensuring a higher adoption rate resulting in a successful project.
+Selecting the right team members is crucial for a successful kaizen workshop. You want to include people with knowledge of the process or area that you are trying to improve such as individuals who take part in the process, which will also ensure that they are taking part in selecting the appropriate solution ensuring a higher adoption rate resulting in a successful project.
 
 Here are some important points to follow when selecting a team:
 
