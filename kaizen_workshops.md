@@ -33,7 +33,7 @@ The flag can be divided into the following three areas:
 - **Maintenance:** these involve activities aimed at preserving existing technologies and standards.
 
 <p align="center">
-  <img width="500" height="350" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
+  <img width="500" height="300" src="https://github.com/charleennewland/blog/assets/138404574/2469ccb3-6f42-4bcb-ad7e-35994060886f/460/300">
 </p> 
 <h5 align="center"> Figure 1: Kaizen Flag - Imai 1997 [2]</h5>   
 
