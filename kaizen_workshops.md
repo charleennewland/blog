@@ -26,7 +26,7 @@ However, he questions this translation because in his opinion, it does not carry
 tremendous amount of self-discipline and commitment that is needed by everyone when
 conducting Kaizen (Imai, 2013)
 
-According to Kaizen is a means of encouraging worker participation that is promoted through different types of Kaizen activities: suggestions, Kaizen teams, and Kaizen events ( Jaca et al., 2014). The participation of people in such activities is usually
+According [4] to Kaizen is a means of encouraging worker participation that is promoted through different types of Kaizen activities: suggestions, Kaizen teams, and Kaizen events ( Jaca et al., 2014). The participation of people in such activities is usually
 considered a means of developing key skills in the employees.
 Figure 1 is known as the kaizen flag. The flag can be divided into the following three areas:
 
@@ -125,7 +125,8 @@ These are the initial three steps in our 12-step guide to a proper kaizen event.
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
 >- [2] [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )<br>
- 
+ >- [3] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
+ >- [4] [Learning 5S principles from Japanese best practitioners: case studies of five manufacturing companies](https://www.tandfonline.com/doi/abs/10.1080/00207543.2013.878481)<br>
 
 >Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
