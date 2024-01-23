@@ -105,7 +105,7 @@ Here are some important points to follow when defining goals:
 
 
 #### 3. The Art of Gemba Walking: A Guide to Not Stumbling! :walking:
-Gemba" (現場) is a Japanese term that translates to "the actual place" or "the real place. Gemba walk is a hands-on approach that involves going to the actual workplace to observe and understand processes.
+Gemba (現場) is a Japanese term that translates to "the actual place" or "the real place". Gemba walk is a hands-on approach that involves going to the actual workplace to observe and understand processes.
 
 - **Create a checklist of areas to observe** and questions to ask. Ensure a focused approach to maximize the value of time on the ground. Perform a pre-analysis of accompanying process data for effective questioning;
 - **Engage with frontline workers** by asking questions and actively listening. Encourage them to share their perspectives. Their insights are critical in understanding the real challenges and opportunities;
