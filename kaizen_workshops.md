@@ -19,15 +19,12 @@ In one of my earlier blogs, where I delved into the definition of [continuous im
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
 </p>
 
+Imai acknowledges in [3] that Kaizen is commonly understood as Continuous Improvement (CI), but he believes it doesn't capture the significant level of self-discipline and commitment required by everyone during the Kaizen process. Therefore, in an effort to highlight that Kaizen goes beyond simple CI and involves extensive, organization-wide improvement, he proposes a new interpretation: everyday improvement, everybody improvement, and everywhere improvement.
+
 There are various academic definitions for kaizen, but in this post, I will focus on Imai's definition. This definition emphasizes practical elements, particularly from an organizational hierarchy perspective. It also highlights the distinction between kaizen and innovation.
 
-In [2], Imai differentiates between two types of improvements: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. To the question: is Kaizen the same as continuous improvement we have to look at Imai's answer. Imai (2013) acknowledges that Kaizen is often interpreted as and has come to mean CI.
-However, he questions this translation because in his opinion, it does not carry forward the
-tremendous amount of self-discipline and commitment that is needed by everyone when
-conducting Kaizen (Imai, 2013)
+In [2], Imai differentiates between two types of improvements: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards.
 
-According [4] to Kaizen is a means of encouraging worker participation that is promoted through different types of Kaizen activities: suggestions, Kaizen teams, and Kaizen events ( Jaca et al., 2014). The participation of people in such activities is usually
-considered a means of developing key skills in the employees.
 Figure 1 is known as the kaizen flag. The flag can be divided into the following three areas:
 
 - **Innovation:** these involve drastic improvements in existing processes;
@@ -42,6 +39,8 @@ Drawing a horizontal line at each organizational level, as depicted in the image
 <h5 align="center"> Figure 1: Kaizen Flag - Imai 1997 [2]</h5>   
 
 The flag suggests that driving improvements should be part of everyone’s job, and the same applies to maintaining standards, while innovation is the responsibility of top and middle management.
+
+Kaizen is simply a method that encourages worker participation, as mentioned in [4], and is promoted through various types of Kaizen activities such as suggestions, Kaizen teams, and Kaizen events. Participation in these activities is typically seen as a way to develop key skills in employees.
 
 #### Kaizen Workshops
 Imagine this scenario: you and your team have detected a gradual decline in the output of a process. In a stroke of genius, you declare, 'Enough is enough; it's time for a kaizen workshop!' So, what does this kaizen workshop involve? It's a team gathering where the focus is on a specific area or issue that needs improvement. Typically lasting a week, everyone pitches in to find simple and smart ways to improve efficiency and productivity.
