@@ -21,8 +21,13 @@ In one of my earlier blogs, where I delved into the definition of [continuous im
 
 There are various academic definitions for kaizen, but in this post, I will focus on Imai's definition. This definition emphasizes practical elements, particularly from an organizational hierarchy perspective. It also highlights the distinction between kaizen and innovation.
 
-In [2], Imai differentiates between two types of improvements: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards.
+In [2], Imai differentiates between two types of improvements: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See figure 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards. To the question: is Kaizen the same as continuous improvement we have to look at Imai's answer. Imai (2013) acknowledges that Kaizen is often interpreted as and has come to mean CI.
+However, he questions this translation because in his opinion, it does not carry forward the
+tremendous amount of self-discipline and commitment that is needed by everyone when
+conducting Kaizen (Imai, 2013)
 
+According to Kaizen is a means of encouraging worker participation that is promoted through different types of Kaizen activities: suggestions, Kaizen teams, and Kaizen events ( Jaca et al., 2014). The participation of people in such activities is usually
+considered a means of developing key skills in the employees.
 Figure 1 is known as the kaizen flag. The flag can be divided into the following three areas:
 
 - **Innovation:** these involve drastic improvements in existing processes;
