@@ -65,8 +65,7 @@ These are just a handful—perfect for stuffing one elf-sized stocking, but ther
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/5dff081e-560d-4db4-a49b-c3221107468e/460/300">
 </p>
 
-  #### Benefits of Visual managements
-  
+  #### Benefits of Visual management
   Visual management brings numerous advantages to organizational settings. Here are some key benefits:
 
 - *Increased Transparency-* promotes openness and accountability by making crucial information easily visible;
