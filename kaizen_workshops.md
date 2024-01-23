@@ -19,11 +19,11 @@ In one of my earlier articles, where I delved into the definition of [continuous
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
 </p>
 
-Imai acknowledges in [3] that kaizen is commonly understood as continuous improvement (CI), but he believes it doesn't capture the significant level of self-discipline and commitment required by everyone during the kaizen process. Therefore, in an effort to highlight that kaizen goes beyond simple CI and involves extensive, organization-wide improvement, he proposes a new interpretation: everyday improvement, everybody improvement, and everywhere improvement.
+Imai acknowledges in [2] that kaizen is commonly understood as continuous improvement (CI), but he believes it doesn't capture the significant level of self-discipline and commitment required by everyone during the kaizen process. Therefore, in an effort to highlight that kaizen goes beyond simple CI and involves extensive, organization-wide improvement, he proposes a new interpretation: everyday improvement, everybody improvement, and everywhere improvement.
 
 There are various academic definitions for kaizen, but in this post, I will focus on Imai's definition. This definition emphasizes practical elements, particularly from an organizational hierarchy perspective. It also highlights the distinction between kaizen and innovation.
 
-In [2], Imai differentiates between two types of improvements: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See image 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards.
+In [3], Imai differentiates between two types of improvements: kaizen and innovation. Kaizen refers to gradual improvements through continuous efforts, while innovation involves significant improvements achieved by investing in new technology or equipment. In the context of kaizen, management has two key functions: maintenance and improvement. See image 1 below. Maintenance involves preserving current technologies and standards through training and discipline, ensuring adherence to procedures. Improvement focuses on elevating existing standards.
 
 Image 1 is known as the kaizen flag. The flag can be divided into the following three areas:
 
@@ -38,7 +38,7 @@ Drawing a horizontal line at each organizational level, as depicted in the image
 </p> 
 <h5 align="center"> Image 1: Kaizen Flag - Imai 1997 [2]</h5>   
 
-The flag suggests that driving improvements should be part of everyone’s job, and the same applies to maintaining standards, while innovation is the responsibility of top and middle management.
+The flag suggests that driving improvements should be part of everyone’s job, and the same applies to maintaining standards, while innovation should be the responsibility of top and middle management.
 
 Kaizen employs a bottom-up approach with a focus on waste elimination. For more information on the types of waste, you can refer to my article on [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md). Kaizen is simply a method that encourages worker participation, as mentioned in [4], and is promoted through various types of kaizen activities such as suggestions, kaizen teams, and kaizen events. Participation in these activities is typically seen as a way to develop key skills in employees.
 
@@ -123,8 +123,8 @@ These are the initial three steps in our 12-step guide to a proper kaizen event.
 - Gemba walks involve firsthand observation, engaging with frontline workers, and documenting areas for improvement.
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
->- [2] [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )<br>
- >- [3] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
+>- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
+>- [3] [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )<br>
  >- [4] [Learning 5S principles from Japanese best practitioners: case studies of five manufacturing companies](https://www.tandfonline.com/doi/abs/10.1080/00207543.2013.878481)<br>
 
 >Related content:
