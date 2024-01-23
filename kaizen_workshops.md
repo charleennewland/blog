@@ -1,4 +1,4 @@
-# Embracing Kaizen 改善: Your Guide to Planning and Executing Successful Process Improvement Workshops
+# Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
 ## Part I. Building a Culture of Continuous Improvement
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
@@ -27,9 +27,9 @@ In [2], Imai differentiates between two types of improvements: kaizen and innova
 
 Image 1 is known as the kaizen flag. The flag can be divided into the following three areas:
 
-- **Innovation:** these involve drastic improvements in existing processes;
-- **Kaizen:** these entail continuous improvement of existing processes;
-- **Maintenance:** these involve activities aimed at preserving existing technologies and standards.
+- **Innovation-** these involve drastic improvements in existing processes;
+- **Kaizen-** these entail continuous improvement of existing processes;
+- **Maintenance-** these involve activities aimed at preserving existing technologies and standards.
 
 Drawing a horizontal line at each organizational level, as depicted in the image below, helps us understand the amount of time each individual, depending on their level in the organization, should spend focusing on innovation, kaizen, and maintenance activities.
 
