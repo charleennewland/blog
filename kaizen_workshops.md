@@ -19,7 +19,7 @@ In one of my earlier blogs, where I delved into the definition of [continuous im
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
 </p>
 
-Imai acknowledges in [3] that kaizen is commonly understood as Continuous Improvement (CI), but he believes it doesn't capture the significant level of self-discipline and commitment required by everyone during the kaizen process. Therefore, in an effort to highlight that kaizen goes beyond simple CI and involves extensive, organization-wide improvement, he proposes a new interpretation: everyday improvement, everybody improvement, and everywhere improvement.
+Imai acknowledges in [3] that kaizen is commonly understood as continuous improvement (CI), but he believes it doesn't capture the significant level of self-discipline and commitment required by everyone during the kaizen process. Therefore, in an effort to highlight that kaizen goes beyond simple CI and involves extensive, organization-wide improvement, he proposes a new interpretation: everyday improvement, everybody improvement, and everywhere improvement.
 
 There are various academic definitions for kaizen, but in this post, I will focus on Imai's definition. This definition emphasizes practical elements, particularly from an organizational hierarchy perspective. It also highlights the distinction between kaizen and innovation.
 
