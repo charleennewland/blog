@@ -1,4 +1,4 @@
-# Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
+# Embracing Kaizen 改善: Your Guide to Planning and Executing Successful Process Improvement Workshops
 ## Part I. Building a Culture of Continuous Improvement
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
@@ -13,7 +13,7 @@
 
 Welcome, 2024, even though we're almost through January! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages-improvements galore. :sparkles: So, in the spirit of positive changes, let's kick off this January blog post with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
 
-In one of my earlier articles, where I delved into the definition of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term 'kaizen.' The term 'kaizen' is Japanese for 'change' (kai) and 'good' (zen), highlighting the ongoing effort to improve. According to [1], kaizen was first used in manufacturing settings, but now it's often used in service business processes to drive small changes, regularly reducing waste and continuously improving productivity, safety, and effectiveness. 
+In one of my earlier articles, where I delved into the definition of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term kaizen (改善). The term 'kaizen' is Japanese for 'change' (kai) and 'good' (zen), highlighting the ongoing effort to improve. According to [1], kaizen was first used in manufacturing settings, but now it's often used in service business processes to drive small changes, regularly reducing waste and continuously improving productivity, safety, and effectiveness. 
 <p align="center">
 <img width="55
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/f223bfb1-a8c9-491c-a67e-a30b21ab41f7/460/300">
