@@ -1,5 +1,5 @@
 # Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
-## Part I. Building a Culture of Continuous Improvement
+## Part I. Building a Culture of Continuous Improvement - Teams, Goals, and Gemba Walks
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*January 24, 2024*<br/>
