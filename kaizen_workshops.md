@@ -56,8 +56,8 @@ Here are the high-level steps for conducting a kaizen workshop:
 2. **Define goals and objectives** for the kaizen event;
 3. **Conduct a Gemba walk** in the actual workplace;
 4. **Create a Value Stream Map (VSM)** to identify opportunities for improvements in the process;
-5. **Facilitate brainstorming sessions** to share ideas for improvement;
-6. **Analyze the root causes** of the identified issues;
+5. **Analyze the root causes** of the identified issues;
+6. **Facilitate brainstorming sessions** to share ideas for improvement;
 7. **Develop potential solutions** to address the identified issues;
 8. **Create a detailed plan** for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs);
 9. **Run a pilot** to test and refine potential solutions;
