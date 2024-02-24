@@ -75,8 +75,18 @@ After following the above mentioned steps, we end up with the following image, w
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/a43c901b-aea0-43ce-9246-b4f22fe9bcfd/600/300"> 
 </p>
 </p>
-<h5 align="center"> Source: Current State Map</h1>  
+<h5 align="center"> Current State Map</h1>  
 
+Design the Future State
+
+- **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demandased on the analysis of the current state;
+- **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
+
+<p align="center">
+  <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/c90b458c-5ebd-4af7-afda-db7f7a3e80a5/600/300"> 
+</p>
+</p>
+<h5 align="center"> Process Data and Improvements</h1>  
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
 >- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
