@@ -72,7 +72,7 @@ Here are the steps we need to take:
 
 After following the above mentioned steps, we end up with the following image, which is the current state map:
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/charleennewland/blog/assets/138404574/a43c901b-aea0-43ce-9246-b4f22fe9bcfd/600/300"> 
+  <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/a43c901b-aea0-43ce-9246-b4f22fe9bcfd/600/300"> 
 </p>
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
