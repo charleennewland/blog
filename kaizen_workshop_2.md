@@ -77,6 +77,7 @@ After following the above mentioned steps, we end up with the following image, w
 </p>
 <h5 align="center"> Current State Map</h1>  
 
+This is typically where steps 5, 6, and 7 in our 12-step guideline for value stream mapping come into play, but these will be dissected in future blog posts.
 **Design the Future State**
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demandased on the analysis of the current state;
@@ -97,9 +98,7 @@ Focus on improving the areas with low process efficiency. See the details of the
 
 Implementing these changes will lead to the following quantifiable improvements:
 
-At the moment, each call center representative (CCR) handles an average of 21.82 calls per day.
-After the proposed changes, this will rise to 35.56 calls per day per CCR, which comes down to an **increase of 62.97%**.
-
+At present, each call center representative (CCR) handles an average of 21.82 calls per day. After implementing the proposed changes, this figure will increase to 35.56 calls per day per CCR, marking an increase of 62.97%. Additionally, with the suggested automation and streamlining improvements, the potential increase in output for this call center could be even more significant.
 Brown Paper Sessions
 
 Many improvement professionals conduct a brown paper session before creating a value stream map. Others prefer to use the brown paper session as part of the value stream mapping process. To each their own. A 'brown paper session' is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises. Participants use markers, sticky notes, or other visual aids for easy sharing and collaboration. The term originates from the use of brown paper as the canvas for capturing ideas. Below is an image illustrating what a brown paper session looks like.
