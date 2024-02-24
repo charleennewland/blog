@@ -3,12 +3,12 @@
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
->*January 24, 2024*<br/>
+>*February 28, 2024*<br/>
 
 >*Reading Time: 5 min*
 >
 <p align="center">
-  <img width="900" height="350" src="https://github.com/charleennewland/blog/assets/138404574/8042c3ea-8474-4eeb-a241-51053cc3105f/900/400"> 
+  <img width="900" height="350" src="https://github.com/charleennewland/blog/assets/138404574/8042c3ea-8474-4eeb-a241-51053cc3105f/500/500"> 
 </p>
 <h5 align="center"> Source: Vecteezy</h1>  
 
