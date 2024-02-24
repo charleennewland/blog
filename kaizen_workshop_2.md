@@ -74,6 +74,9 @@ After following the above mentioned steps, we end up with the following image, w
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/a43c901b-aea0-43ce-9246-b4f22fe9bcfd/600/300"> 
 </p>
+</p>
+<h5 align="center"> Source: Current State Map</h1>  
+
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
 >- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
