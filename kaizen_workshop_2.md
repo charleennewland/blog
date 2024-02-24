@@ -78,6 +78,7 @@ After following the above mentioned steps, we end up with the following image, w
 <h5 align="center"> Current State Map</h1>  
 
 This is typically where steps 5, 6, and 7 in our 12-step guideline for value stream mapping come into play, but these will be dissected in future blog posts.
+
 **Design the Future State**
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demandased on the analysis of the current state;
