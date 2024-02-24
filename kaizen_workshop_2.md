@@ -37,23 +37,25 @@ First, make sure that team members are trained in or are familiar with Lean prin
 11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
 12. **Document the entire kaizen event** for future reference and follow-up. 
 
+What does academic literature says about Value Stream Mapping?
+
 Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors [B] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
 
 According to [A ] there are three types of activities that a process consists of. These can be categorized into:
-(1) non-value adding (NVA);
-(2) necessary but non-value adding (NNVA); and
-(3) value-adding (VA).	
+1. non-value adding (NVA);
+2. necessary but non-value adding (NNVA); and
+3. value-adding (VA).	
 
-In one of my earlier blog posts on continuous improvement, I mentioned the eight types of waste the lean philosophy knows. The acronym DOWNTIME is an easy way to remember the eight wastes:
+In one of my earlier blog posts on [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the eight types of waste the lean philosophy knows. The acronym DOWNTIME is an easy way to remember the eight wastes:
 
-Defects - products or services that do not meet customers' specifications and require resources to rectify
-Overproduction - producing products in excess before they are truly needed
-Waiting - wasting time awaiting a preceding process to finish before moving forward
-Non-utilized talent - losing time, ideas, skills, and improvements when not involving employees
-Transportation - excessive movement of resources or information not essential to the product or service
-Inventory - quantities of products, materials, and information beyond what is immediately necessary
-Motion - unnecessary movement by people or movement that does not add value to the product or service
-Extra-processing - an activity that is not required to produce the product or service.
+- Defects - products or services that do not meet customers' specifications and require resources to rectify;
+- Overproduction - producing products in excess before they are truly needed;
+- Waiting - wasting time awaiting a preceding process to finish before moving forward;
+- Non-utilized talent - losing time, ideas, skills, and improvements when not involving employees;
+- Transportation - excessive movement of resources or information not essential to the product or service;
+- Inventory - quantities of products, materials, and information beyond what is immediately necessary;
+- Motion - unnecessary movement by people or movement that does not add value to the product or service;
+- Extra-processing - an activity that is not required to produce the product or service.
 
 Now that we've covered the theoretical background, let's look at the practical steps required to create a VSM. We'll use a call center as an example.
 
@@ -61,11 +63,11 @@ As the needs of the customers of this call center have developed, the kaizen tea
 
 Here are the steps we need to take:
 
-Draw the map: Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream.
-Identify process steps: Map out the sequence of activities involved in delivering the product or service, including material and information flows.
-Capture metrics: Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step.
-Highlight waste: Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing.
-Identify bottlenecks: Determine points in the value stream where work accumulates or slows down, leading to inefficiencies.
+- **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream.
+- **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows.
+- **Capture metrics:** Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step.
+- **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing.
+- **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies.
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
 >- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
