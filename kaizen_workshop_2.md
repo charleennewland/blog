@@ -10,7 +10,6 @@
 <p align="center">
   <img width="600" height="400" src="https://github.com/charleennewland/blog/assets/138404574/8042c3ea-8474-4eeb-a241-51053cc3105f/600/300"> 
 </p>
-<h5 align="center"> 
 
 In my previous blog post, we were introduced to the concept of Kaizen, which led us to kaizen events and how to conduct one. A kaizen event, in case you missed it, is a week-long event, usually organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices. We covered the first three steps of the high-level guide to conducting a kaizen event in the previous post, and in this one, we'll delve into value stream mapping. Exciting stuff! 🙂
 
