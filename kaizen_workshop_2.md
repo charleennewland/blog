@@ -63,11 +63,15 @@ As the needs of the customers of this call center have developed, the kaizen tea
 
 Here are the steps we need to take:
 
-- **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream.
-- **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows.
-- **Capture metrics:** Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step.
-- **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing.
-- **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies.
+- **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream;
+- **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows;
+- **Capture metrics:** Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step;
+- **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing;
+- **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies;
+- **Evaluate flow:** Assess the smoothness and continuity of material and information flow throughout the value stream.
+
+After following the above mentioned steps, we end up with the following image, which is the current state map:
+
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
 >- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
