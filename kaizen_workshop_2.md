@@ -8,7 +8,7 @@
 >*Reading Time: 5 min*
 >
 <p align="center">
-  <img width="900" height="350" src="https://github.com/charleennewland/blog/assets/138404574/6f0bd99a-e4c2-42d6-a894-bde538baee88/900/400">
+  <img width="900" height="350" src="https://github.com/charleennewland/blog/assets/138404574/8042c3ea-8474-4eeb-a241-51053cc3105f/900/400"> 
 </p>
 <h5 align="center"> Source: Vecteezy</h1>  
 
