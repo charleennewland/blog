@@ -77,7 +77,7 @@ After following the above mentioned steps, we end up with the following image, w
 </p>
 <h5 align="center"> Current State Map</h1>  
 
-Design the Future State
+**Design the Future State**
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demandased on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
@@ -93,8 +93,22 @@ Focus on improving the areas with low process efficiency. See the details of the
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/8c805b5c-2765-47df-80c3-2f86e7b0640b/600/300"> 
 </p>
 </p>
-<h5 align="center"> Process Data and Improvements</h1>  
+<h5 align="center"> Future State Map</h1>  
 
+Implementing these changes will lead to the following quantifiable improvements:
+
+At the moment, each call center representative (CCR) handles an average of 21.82 calls per day.
+After the proposed changes, this will rise to 35.56 calls per day per CCR, which comes down to an **increase of 62.97%**.
+
+Brown Paper Sessions
+
+Many improvement professionals conduct a brown paper session before creating a value stream map. Others prefer to use the brown paper session as part of the value stream mapping process. To each their own. A 'brown paper session' is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises. Participants use markers, sticky notes, or other visual aids for easy sharing and collaboration. The term originates from the use of brown paper as the canvas for capturing ideas. Below is an image illustrating what a brown paper session looks like.
+
+Summary:
+- VSM visualizes each task involved in creating a product or service and helps identify waste, bottlenecks, and inefficiencies.
+- To create a VSM, tools such as whiteboards, flip chart paper, or VSM software can be utilized for visualization.
+- To develop a leaner process that eliminates or reduces waste and enhances flow, we must analyze the current state map.
+- Improvements, including modifications to process steps, material and information flows, and other key metrics, will be documented in the future state map.
 
 >- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
 >- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
