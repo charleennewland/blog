@@ -37,7 +37,7 @@ First, make sure that team members are trained in or are familiar with Lean prin
 11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
 12. **Document the entire kaizen event** for future reference and follow-up. 
 
-We've covered steps 1, 2, and 3 in the previous post. In this blog post, we will examine step 4, which involves creating a Value Stream Map.
+We've covered steps 1, 2, and 3 in the previous post. In this blog post, we will examine **step 4, which involves creating a Value Stream Map**.
 
 **What does academic literature says about Value Stream Mapping?**
 
