@@ -1,5 +1,5 @@
 # Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
-## Part II. Building a Culture of Continuous Improvement - Value Stream Mapping :world_map:
+## Part II. Building a Culture of Continuous Improvement - Value Stream Mapping
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
@@ -10,9 +10,9 @@
 <p align="center">
   <img width="600" height="400" src="https://github.com/charleennewland/blog/assets/138404574/8042c3ea-8474-4eeb-a241-51053cc3105f/600/300"> 
 </p>
-<h5 align="center"> Source: Vecteezy</h1>  
+<h5 align="center"> 
 
-Welcome, 2024, even though we're almost through January! As we dive into this 'brand-new' year, it's time for new beginnings, setting goals, adopting healthier lifestyles, hitting the gym, and learning new languages-improvements galore. :sparkles: So, in the spirit of positive changes, let's kick off this January blog post with a focus on kaizen. Buckle up, 2024—we're ready for the ride!
+In my previous blog post, we were introduced to the concept of Kaizen, which led us to kaizen events and how to conduct one. A kaizen event, in case you missed it, is a week-long event, usually organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices. We covered the first three steps of the high-level guide to conducting a kaizen event in the previous post, and in this one, we'll delve into value stream mapping. Exciting stuff! 🙂
 
 In one of my earlier articles, where I delved into the definition of [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the term kaizen (改善). The term 'kaizen' is Japanese for 'change' (kai) and 'good' (zen), highlighting the ongoing effort to improve. According to [1], kaizen was first used in manufacturing settings, but now it's often used in service business processes to drive small changes, regularly reducing waste and continuously improving productivity, safety, and effectiveness. 
 <p align="center">
