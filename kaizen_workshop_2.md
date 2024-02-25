@@ -71,7 +71,7 @@ Here are the steps you need to take:
 
 - **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream;
 - **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows;
-- **Capture metrics:** Collect Data: Gather data on the time it takes to complete each step in the process. This can be done through observation, time tracking software, or employee input. Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step;
+- **Capture metrics:** Collect data by gathering information on the time required to complete each step in the process. This can be achieved through observation, the use of time tracking software, or by seeking input from employees. Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step;
 - **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing;
 - **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies;
 - **Evaluate flow:** Assess the smoothness and continuity of material and information flow throughout the value stream.
