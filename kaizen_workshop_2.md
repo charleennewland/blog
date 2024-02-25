@@ -41,7 +41,7 @@ We've covered steps 1, 2, and 3 in the previous post. In this blog post, we will
 
 **"What does academic literature say about Value Stream Mapping?"**
 
-Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors [B] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
+Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors [1] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
 
 According to [A ] there are three types of activities that a process consists of. These can be categorized into:
 1. non-value adding (NVA);
@@ -120,17 +120,16 @@ Summary:
 - To develop a leaner process that eliminates or reduces waste and enhances flow, we must analyze the current state map.
 - Improvements, including modifications to process steps, material and information flows, and other key metrics, will be documented in the future state map.
 
->- [1] [THE EFFECT OF JAPANESE KAIZEN ON EMPLOYEE MOTIVATION IN U.S. MANUFACTURING](https://www.emerald.com/insight/content/doi/10.1108/eb028884/full/html)<br>
->- [2] [Masaaki Imai Definition of KAIZEN](https://www.youtube.com/watch?v=WqKMlRJUAJk )<br>
->- [3] [Gemba Kaizen: A Commonsense, Low-Cost Approach to Management](https://books.google.nl/books/about/Gemba_Kaizen_A_Commonsense_Low_Cost_Appr.html?id=qaqKh6Tp4SsC&redir_esc=y )<br>
- >- [4] [Learning 5S principles from Japanese best practitioners: case studies of five manufacturing companies](https://www.tandfonline.com/doi/abs/10.1080/00207543.2013.878481)<br>
+>- [1] [Value Stream Mapping to Add Value and Eliminate Muda](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [2] [Toyota Production System: An Integrated Approach to Just-in-Time](https://books.google.nl/books?hl=en&lr=&id=M73MBQAAQBAJ&oi=fnd&pg=PP1&dq=Toyota+Production+System:+An+Integrated+Approach+to+Just-in-Time,+&ots=hbMwpK7UNb&sig=1MB3BNKkCjQ_HvMUhcuiX4FGEYw&redir_esc=y#v=onepage&q=Toyota%20Production%20System%3A%20An%20Integrated%20Approach%20to%20Just-in-Time%2C&f=false)<br>
 
 >Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
 >- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
 >- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)
 >- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)
->- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)    
+>- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)
+>- [Embracing Kaizen Part I: Your Guide to Planning and Executing Successful Process Improvement Workshops](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)       
 
 
 
