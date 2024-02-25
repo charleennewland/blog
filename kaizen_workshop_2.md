@@ -39,7 +39,7 @@ First, make sure that team members are trained in or are familiar with Lean prin
 
 We've covered steps 1, 2, and 3 in the previous post. In this blog post, we will examine **step 4, which involves creating a Value Stream Map**.
 
-**"What does academic literature say about Value Stream Mapping?"**
+**What does academic literature say about Value Stream Mapping?**
 
 Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors [1] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
 
