@@ -50,6 +50,8 @@ According to [2] there are three types of activities that a process consists of.
 
 In process improvement, the aim is to minimize Non-Value Adding (NVA) activities, which don't contribute to customer value, and optimize Necessary but Non-Value Adding (NNVA) tasks. The focus is on improving Value-Adding (VA) activities that directly meet customer needs, thereby reducing waste.
 
+In process improvement, the goal is to minimize Non-Value Adding (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Adding (NNVA) tasks. The focus lies in improving Value-Adding (VA) activities that directly fulfill customer needs, all aimed at reducing inefficiencies and maximizing process output
+
 In one of my earlier blog posts on [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the eight types of waste the lean philosophy knows. The acronym DOWNTIME is an easy way to remember the eight wastes:
 
 - Defects - products or services that do not meet customers' specifications and require resources to rectify;
