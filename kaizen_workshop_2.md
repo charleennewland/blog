@@ -85,9 +85,7 @@ After following the above mentioned steps, we end up with the following image, w
 
 This is typically where steps 5, 6, and 7 in our 12-step guideline for value stream mapping come into play, but these will be dissected in future blog posts.
 
-**Design the Future State**
-
-- **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demandased on the analysis of the current state;
+- **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
 
 <p align="center">
