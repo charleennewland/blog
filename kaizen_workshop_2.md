@@ -71,7 +71,7 @@ Here are the steps you need to take:
 
 - **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream;
 - **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows;
-- **Capture metrics:** Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step;
+- **Capture metrics:** Collect Data: Gather data on the time it takes to complete each step in the process. This can be done through observation, time tracking software, or employee input. Document key performance indicators (KPIs) such as lead time, cycle time, and process efficiency for each process step;
 - **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing;
 - **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies;
 - **Evaluate flow:** Assess the smoothness and continuity of material and information flow throughout the value stream.
@@ -87,6 +87,9 @@ This is typically where steps 5, 6, and 7 in our 12-step guideline for value str
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
+
+
+The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements that came out of the root cause analysis, brainstorming session, and development of potential solutions (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
 
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/c90b458c-5ebd-4af7-afda-db7f7a3e80a5/600/300"> 
