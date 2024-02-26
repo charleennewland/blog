@@ -86,9 +86,7 @@ After following the above mentioned steps, we end up with the following image, w
 </p>
 <h5 align="center"> Current State Map</h1>  
 
-The current state map serves as a baseline for comparison when designing a future state map.
-
-After drawing the current state map, you will have to:
+The 7-minute difference between the cycle time and the process time suggests a significant waiting time for inputs or resources required to complete a call. This waiting time is non-value-added, as it does not directly contribute to resolving the customer's issue. The current state map provides a baseline for comparison when designing a future state map, which you will need to create now by following these steps:
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
