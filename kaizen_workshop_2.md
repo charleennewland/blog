@@ -67,6 +67,7 @@ In one of my earlier blog posts on [continuous improvement](https://github.com/c
 
 Now that we've covered the theoretical background, let's look at the practical steps required to create a VSM, using a call center as an example.
 As the needs of the customers of this call center have developed, the team recognizes the need to improve and elevate the services.
+
 Picture this: with colorful sticky notes, markers, and a whiteboard at hand, you and your team are all set to tackle the task of creating the Value Stream Map. If you find yourselves unsure of the next steps, don't worry — I'm here to help guide you through the process.
 
 Here are the steps you need to take:
