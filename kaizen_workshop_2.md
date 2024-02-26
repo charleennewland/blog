@@ -86,13 +86,12 @@ After following the above mentioned steps, we end up with the following image, w
 </p>
 <h5 align="center"> Current State Map</h1>  
 
-This is typically where steps 5, 6, and 7 in our 12-step guide for value stream mapping come into play, but these will be dissected in future blog posts.
+After drawing the current state map, you will have to:
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
 
-
-The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements that came out of the root cause analysis, brainstorming session, and development of potential solutions (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
+The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that emerged from the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
 
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/c90b458c-5ebd-4af7-afda-db7f7a3e80a5/600/300"> 
@@ -100,14 +99,14 @@ The table below outlines the various activities in the customer call process, in
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
 
-Focus on improving the areas with low process efficiency. See the details of the improvements below. The updated map showing these changes will look as follows:
+The first focus should be on improving areas with low process efficiency. See the details of the improvements below. The updated map showing these changes will look as follows:
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/8c805b5c-2765-47df-80c3-2f86e7b0640b/600/300"> 
 </p>
 </p>
 <h5 align="center"> Future State Map</h1>  
 
-Implementing these changes will lead to the following quantifiable improvements:
+Succesfully implementing these changes will lead to the following quantifiable improvements:
 
 At present, each call center representative (CCR) handles an average of 21.82 calls per day. After implementing the proposed changes, this figure will increase to 35.56 calls per day per CCR, marking an increase of 62.97%. Additionally, with the suggested automation and streamlining improvements, the potential increase in output for this call center could be even more significant.
 
