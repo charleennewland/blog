@@ -91,7 +91,7 @@ After drawing the current state map, you will have to:
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
 
-The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that emerged from the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
+The first focus should be on improving areas with low process efficiency. The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that emerged from the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
 
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/c90b458c-5ebd-4af7-afda-db7f7a3e80a5/600/300"> 
@@ -99,9 +99,12 @@ The table below outlines the various activities in the customer call process, in
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
 
-The first focus should be on improving areas with low process efficiency. See the details of the improvements below. The updated map showing these changes will look as follows:
+After incorporating these improvements, including changes to process steps, the goal of the future state map is to visually represent the optimized process flow, highlighting improvements and efficiencies gained from the changes.
+
+
+
 <p align="center">
-  <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/8c805b5c-2765-47df-80c3-2f86e7b0640b/600/300"> 
+  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/8c805b5c-2765-47df-80c3-2f86e7b0640b/600/300"> 
 </p>
 </p>
 <h5 align="center"> Future State Map</h1>  
