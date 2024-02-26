@@ -81,7 +81,7 @@ Here are the steps you need to take:
 
 After following the above mentioned steps, we end up with the following image, which is the current state map:
 <p align="center">
-  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/f20d4037-2db8-4f35-8a2f-e0fa3d70a02b/600/300"> 
+  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/3a5f9d47-780d-48b5-a899-a2e4d41c6cab/600/300"> 
 </p>
 </p>
 <h5 align="center"> Current State Map</h1>  
