@@ -132,9 +132,9 @@ Here is an image illustrating what a brown paper session looks like.
 <h5 align="center"> Brown Paper</h1>  
 
 Summary:
-- VSM visualizes each task involved in creating a product or service and helps identify waste, bottlenecks, and inefficiencies.
-- To create a VSM, tools such as whiteboards, flip chart paper, or VSM software can be utilized for visualization.
-- To develop a leaner process that eliminates or reduces waste and enhances flow, we must analyze the current state map.
+- VSM visualizes each task involved in creating a product or service and helps identify waste, bottlenecks, and inefficiencies;
+- To create a VSM, tools such as whiteboards, flip chart paper, or VSM software can be utilized for visualization;
+- To develop a leaner process that eliminates or reduces waste and enhances flow, we must analyze the current state map;
 - Improvements, including modifications to process steps, material and information flows, and other key metrics, will be documented in the future state map.
 
 >- [1] [Value Stream Mapping to Add Value and Eliminate Muda](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
