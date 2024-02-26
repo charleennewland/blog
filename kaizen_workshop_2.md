@@ -104,7 +104,7 @@ In the future state map, there is an improvement in both cycle time and process 
 These improvements suggest that the process has become more efficient, with calls being completed more quickly and with less waiting time or delays. The future state map aims to visually represent the optimized process flow, highlighting improvements and efficiencies gained from the changes made to process steps. Here is the future state map for the call center:
 
 <p align="center">
-  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/8c805b5c-2765-47df-80c3-2f86e7b0640b/600/300"> 
+  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/f5b2bff6-9d1b-45a1-9425-ac6bf27ede02/600/300"> 
 </p>
 </p>
 <h5 align="center"> Future State Map</h1>  
