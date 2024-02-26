@@ -111,13 +111,13 @@ Successfully implementing these changes will lead to the following quantifiable 
 
 Currently, each call center representative (CCR) handles an average of 21.82 calls per day. After implementing the proposed changes, this figure will increase to 35.56 calls per day per CCR, marking an increase of 62.97%. Additionally, with the suggested automation and streamlining improvements, the potential increase in output for this call center could be even more significant.
 
-Alongside these improvements, there are also non-tangible benefits. These include an increase in employee satisfaction due to the standardization and simplification of process steps, as well as an increase in customer satisfaction (CSAT) due to the reduction in waiting time.
+Alongside these improvements, there are also non-tangible benefits. These include an increase in employee satisfaction due to the standardization and simplification of process steps, as well as employee retention more efficient and satisfying work environment can lead to higher employee retention rates
 
 **Brown Paper Sessions**
 
 Many improvement professionals conduct a brown paper session before creating a value stream map. Others prefer to use the brown paper session as part of the value stream mapping process. To each their own. A 'brown paper session' is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises. Participants use markers, sticky notes, or other visual aids for easy sharing and collaboration. The term originates from the use of brown paper as the canvas for capturing ideas. Below is an image illustrating what a brown paper session looks like.
 <p align="center">
-  <img width="900" height="400" src="https://github.com/charleennewland/blog/assets/138404574/2242d678-1032-413a-93f6-0e23012b11c2/600/300"> 
+  <img width="600" height="400" src="https://github.com/charleennewland/blog/assets/138404574/2242d678-1032-413a-93f6-0e23012b11c2/600/300"> 
 </p>
 </p>
 <h5 align="center"> Brown Paper</h1>  
