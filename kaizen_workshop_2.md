@@ -91,7 +91,7 @@ After drawing the current state map, you will have to:
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows, and other key metrics.
 
-The first focus should be on improving areas with low process efficiency. The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that emerged from the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
+The first focus should be on improving areas with low efficiency. The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that emerged from the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
 
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/c90b458c-5ebd-4af7-afda-db7f7a3e80a5/600/300"> 
@@ -99,9 +99,7 @@ The first focus should be on improving areas with low process efficiency. The ta
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
 
-After incorporating these improvements, including changes to process steps, the goal of the future state map is to visually represent the optimized process flow, highlighting improvements and efficiencies gained from the changes.
-
-
+The future state map aims to visually represent the optimized process flow, highlighting improvements and efficiencies gained from the changes made to process steps. Here is the future state map for the call center:
 
 <p align="center">
   <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/8c805b5c-2765-47df-80c3-2f86e7b0640b/600/300"> 
@@ -109,9 +107,11 @@ After incorporating these improvements, including changes to process steps, the 
 </p>
 <h5 align="center"> Future State Map</h1>  
 
-Succesfully implementing these changes will lead to the following quantifiable improvements:
+Successfully implementing these changes will lead to the following quantifiable improvements:
 
-At present, each call center representative (CCR) handles an average of 21.82 calls per day. After implementing the proposed changes, this figure will increase to 35.56 calls per day per CCR, marking an increase of 62.97%. Additionally, with the suggested automation and streamlining improvements, the potential increase in output for this call center could be even more significant.
+Currently, each call center representative (CCR) handles an average of 21.82 calls per day. After implementing the proposed changes, this figure will increase to 35.56 calls per day per CCR, marking an increase of 62.97%. Additionally, with the suggested automation and streamlining improvements, the potential increase in output for this call center could be even more significant.
+
+Alongside these improvements, there are also non-tangible benefits. These include an increase in employee satisfaction due to the standardization and simplification of process steps, as well as an increase in customer satisfaction (CSAT) due to the reduction in waiting time.
 
 **Brown Paper Sessions**
 
