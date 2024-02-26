@@ -99,9 +99,7 @@ The first focus should be on improving areas with low efficiency. The table belo
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
 
-The future state map envisions the ideal process after all improvements and guides the implementation of changes from the current to the desired future state. In the following future state map, there is an improvement in both cycle time and process time compared to the current state. The cycle time has been reduced from 17 minutes to 11 minutes, indicating that the overall time it takes for a call to move through the process has decreased. Similarly, the process time has been reduced from 10 minutes to 8 minutes, indicating that the time spent actively working on the call has also decreased.
-
-These improvements suggest that the process has become more efficient, with calls being completed more quickly and with less waiting time or delays. The future state map aims to visually represent the optimized process flow, highlighting improvements and efficiencies gained from the changes made to process steps. Here is the future state map for the call center:
+The future state map envisions the ideal process after all improvements and guides the implementation of changes from the current to the desired future state. In our example future state map, there is an improvement in both cycle time, process time, and total time compared to the current state. In the current state, the cycle time is 17 minutes, the value-added time is 10 minutes, and the total time is 33 minutes. In contrast, the future state targets a cycle time of 11 minutes, a value-added time of 8 minutes, and a total time of 14 minutes. These improvements indicate a significant reduction in cycle and total times and a streamlining of both value-added and non-value-added activities, as visible in the future state map below:
 
 <p align="center">
   <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/cde449dc-990f-46c5-b5ac-a56203528ef6/600/300"> 
