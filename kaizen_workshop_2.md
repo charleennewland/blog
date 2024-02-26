@@ -115,9 +115,15 @@ Alongside these improvements, there are also non-tangible benefits. These includ
 
 **Brown Paper Sessions**
 
-Many improvement professionals conduct a brown paper session before creating a value stream map. Others prefer to use the brown paper session as part of the value stream mapping process. To each their own. A 'brown paper session' is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises. Participants use markers, sticky notes, or other visual aids for easy sharing and collaboration. The term originates from the use of brown paper as the canvas for capturing ideas. Below is an image illustrating what a brown paper session looks like.
+Brown paper sessions are not the same as value stream mapping, but they are often used in conjunction with each other as part of a process improvement initiative.
+
+A brown paper session is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises, with participants using markers, sticky notes, or other visual aids for easy sharing and collaboration.
+
+Brown paper sessions can be used as part of the value stream mapping process to brainstorm ideas, gather input from team members, and visually represent the current state and future state of a process. I personally prefer this but minitab workspace
+Below is an image illustrating what a brown paper session looks like.
+
 <p align="center">
-  <img width="600" height="300" src="https://github.com/charleennewland/blog/assets/138404574/2242d678-1032-413a-93f6-0e23012b11c2/600/300"> 
+  <img width="600" height="400" src="https://github.com/charleennewland/blog/assets/138404574/2242d678-1032-413a-93f6-0e23012b11c2/600/300"> 
 </p>
 </p>
 <h5 align="center"> Brown Paper</h1>  
