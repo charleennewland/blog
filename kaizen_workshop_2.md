@@ -94,7 +94,7 @@ The 7-minute difference between the cycle time and the process time suggests a s
 The first focus should be on improving areas with low efficiency. The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that emerged from the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
 
 <p align="center">
-  <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/cba2d310-0fad-4867-be20-58f5fea572a9/600/300"> 
+  <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/07756a15-0315-4d01-81ce-418d5af8d263/600/300"> 
 </p>
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
