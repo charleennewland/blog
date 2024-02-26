@@ -18,9 +18,9 @@ In my previous blog post, we were introduced to the concept of Kaizen, which led
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/60813d00-e54a-477e-bf63-0c12142b64fb/460/300">
 </p>
 
-While researching value stream mapping, I realized that the topic deserves its own article. There's so much valuable information about it, and I've included some of it in this standalone piece.
+While researching value stream mapping, I realized that the topic deserves its own article due to the amount of information available. This is why I decided to create a standalone piece for value stream mapping.
 
-In case you missed it, here's your high-level guide to rocking a Kaizen event:
+In case you missed it, here's your high-level guide to rocking a kaizen event:
 
 First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of kaizen activities. Remember, not every problem needs a kaizen event or workshop.
 
@@ -37,7 +37,7 @@ First, make sure that team members are trained in or are familiar with Lean prin
 11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
 12. **Document the entire kaizen event** for future reference and follow-up. 
 
-We've covered steps 1, 2, and 3 in the previous post. In this blog post, we will examine **step 4, which involves creating a Value Stream Map**.
+We've covered steps 1, 2, and 3 in the [previous post](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md). In this blog post, we will examine **step 4, which involves creating a Value Stream Map**.
 
 **What does academic literature say about Value Stream Mapping?**
 
