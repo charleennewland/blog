@@ -111,7 +111,7 @@ Successfully implementing these changes will lead to the following quantifiable 
 
 Currently, each call center representative (CCR) handles an average of 21.82 calls per day. After implementing the proposed changes, this figure will increase to 35.56 calls per day per CCR, marking an increase of 62.97%. Additionally, with the suggested automation and streamlining improvements, the potential increase in output for this call center could be even more significant.
 
-Alongside these improvements, there are also non-tangible benefits. These include an increase in employee satisfaction due to the standardization and simplification of process steps, as well as employee retention more efficient and satisfying work environment can lead to higher employee retention rates
+Alongside these improvements, there are also non-tangible benefits. These include an increase in employee satisfaction because of the standardization and simplification of process steps, which can also lead to higher employee retention rates.
 
 **Brown Paper Sessions**
 
