@@ -41,14 +41,14 @@ We've covered steps 1, 2, and 3 in the previous post. In this blog post, we will
 
 **What does academic literature say about Value Stream Mapping?**
 
-Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors [1] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
+Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors in [1] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
 
 According to [2] there are three types of activities that a process consists of. These can be categorized into:
 1. non-value adding (NVA);
 2. necessary but non-value adding (NNVA); and
 3. value-adding (VA).
 
-In process improvement, the goal is to minimize Non-Value Adding (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Adding (NNVA) tasks. The focus lies in improving Value-Adding (VA) activities that directly fulfill customer needs. All of theses are aimed at reducing inefficiencies and increasing productivity, and ultimately improving the overall effectiveness of the process.
+In process improvement, the goal is to minimize Non-Value Adding (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Adding (NNVA) tasks. The focus lies in improving Value-Adding (VA) activities that directly fulfill customer needs. All of theses are aimed at reducing inefficiencies, increasing productivity, and ultimately improving the overall effectiveness of the process.
 
 In one of my earlier blog posts on [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the eight types of waste the lean philosophy knows. The acronym DOWNTIME is an easy way to remember the eight wastes:
 
