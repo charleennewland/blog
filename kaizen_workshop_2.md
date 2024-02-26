@@ -86,6 +86,8 @@ After following the above mentioned steps, we end up with the following image, w
 </p>
 <h5 align="center"> Current State Map</h1>  
 
+The current state map serves as a baseline for comparison when designing a future state map.
+
 After drawing the current state map, you will have to:
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
