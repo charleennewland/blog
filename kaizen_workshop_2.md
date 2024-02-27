@@ -90,7 +90,7 @@ In the current state map, we find that the cycle time (C/T), which is how long i
 
 While analyzing the value stream map, I've chosen not to highlight waste types to keep the visual clear and easy to understand. The focus has been on identifying process flows, bottlenecks, and improvement opportunities. 
 
-The current state map provides a baseline for comparison when designing a future state map. To create the future state map, follow these step:
+The current state map provides a baseline for comparison when designing a future state map. To create the future state map, follow these steps:
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows. Clearly define the goals for the future state, including target metrics (e.g., cycle time, productivity).
