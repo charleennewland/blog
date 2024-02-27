@@ -44,11 +44,11 @@ We've covered steps 1, 2, and 3 in the [previous post](https://github.com/charle
 Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors in [1] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
 
 According to [2] there are three types of activities that a process consists of. These can be categorized into:
-1. non-value adding (NVA);
-2. necessary but non-value adding (NNVA); and
-3. value-adding (VA).
+1. non-value added (NVA);
+2. necessary but non-value added (NNVA); and
+3. value-added (VA).
 
-In process improvement, the goal is to minimize Non-Value Adding (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Adding (NNVA) tasks. The focus lies in improving Value-Adding (VA) activities that directly fulfill customer needs. All of theses are aimed at reducing inefficiencies/waste, increasing productivity, and ultimately improving the overall effectiveness of the process.
+In process improvement, the goal is to minimize Non-Value Added (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Added (NNVA) tasks. The focus lies in improving Value-Added (VA) activities that directly fulfill customer needs. All of theses are aimed at reducing inefficiencies/waste, increasing productivity, and ultimately improving the overall effectiveness of the process.
 
 **Types of waste**
 
@@ -74,7 +74,7 @@ Here are the steps you need to take:
 
 - **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream;
 - **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows;
-- **Capture metrics:** Collect data by gathering information on the time required to complete each step in the process. This can be achieved through observation, the use of time tracking software, or by seeking input from employees. Document key performance indicators (KPIs) such as cycle time, process time, total time and process efficiency for each process step;
+- **Capture metrics:** Collect data by gathering information on the time required to complete each step in the process. This can be achieved through observation, the use of time tracking software, or by seeking input from employees. Document key performance indicators (KPIs) such as cycle time, processing time, total time and process efficiency for each process step;
 - **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing;
 - **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies;
 - **Evaluate flow:** Assess the smoothness and continuity of material and information flow throughout the value stream.
@@ -103,7 +103,7 @@ The first priority should be to improve areas with low efficiency. The table bel
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
 
-The future state map envisions the ideal process after all improvements and guides the implementation of changes from the current to the desired future state. In our example future state map, there is an improvement in both cycle time, process time, and total time compared to the current state. In the current state, the cycle time is 17 minutes, the value-added time is 10 minutes, and the total time is 33 minutes. In contrast, the future state targets a cycle time of 11 minutes, a value-added time of 8 minutes, and a total time of 14 minutes. These improvements indicate a significant reduction in cycle and total times and a streamlining of both value-added and non-value-added activities, as visible in the future state map below:
+The future state map envisions the ideal process after all improvements and guides the implementation of changes from the current to the desired future state. In our example future state map, there is an improvement in both cycle time, processing time, and total time compared to the current state. In the current state, the cycle time is 17 minutes, the value-added time is 10 minutes, and the total time is 33 minutes. In contrast, the future state targets a cycle time of 11 minutes, a value-added time of 8 minutes, and a total time of 14 minutes. These improvements indicate a significant reduction in cycle and total times and a streamlining of both value-added and non-value-added activities, as visible in the future state map below:
 
 <p align="center">
   <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/cde449dc-990f-46c5-b5ac-a56203528ef6/600/300"> 
