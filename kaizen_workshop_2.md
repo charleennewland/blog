@@ -95,7 +95,7 @@ The current state map provides a baseline for comparison when designing a future
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows. Clearly define the goals for the future state, including target metrics (e.g., cycle time, productivity).
   
-The first focus should be on improving areas with low efficiency. The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that came out of the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
+The first priority should be to improve areas with low efficiency. The table below outlines the various activities in the customer call process, including their processing times, cycle times, value-added times, total times, process step efficiencies, and suggested improvements/solutions that came out of the root cause analysis and brainstorming (steps 5, 6, and 7). We will take a closer look at these steps in future posts.
 
 <p align="center">
   <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/07756a15-0315-4d01-81ce-418d5af8d263/600/300"> 
