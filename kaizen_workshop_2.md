@@ -120,7 +120,7 @@ Brown paper sessions are not the same as value stream mapping, but they are ofte
 
 A brown paper session is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises, with participants using markers, sticky notes, or other visual aids for easy sharing and collaboration.
 
-Brown paper sessions can be used as part of the value stream mapping process to brainstorm ideas, gather input from team members, and visually represent the current state and future state of a process. While I personally prefer the brown paper approach, Minitab Workspace and Miro are great alternatives for VSM with remote teams
+Brown paper sessions can be used as part of the value stream mapping process to brainstorm ideas, gather input from team members, and visually represent the current state and future state of a process. While I prefer the brown paper approach, Minitab Workspace and Miro are great alternatives for VSM with remote teams.
 
 Here is an image illustrating what a brown paper session looks like.
 
