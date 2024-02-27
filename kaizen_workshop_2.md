@@ -48,7 +48,7 @@ According to [2] there are three types of activities that a process consists of.
 2. necessary but non-value added (NNVA); and
 3. value-added (VA).
 
-In process improvement, the goal is to minimize Non-Value Added (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Added (NNVA) tasks. The focus lies in improving Value-Added (VA) activities that directly fulfill customer needs. All of theses are aimed at reducing inefficiencies/waste, increasing productivity, and ultimately improving the overall effectiveness of the process.
+In process improvement, the goal is to minimize Non-Value Added (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Added (NNVA) tasks. The focus lies in improving Value-Added (VA) activities that directly fulfill customer needs. All of these are aimed at reducing inefficiencies/waste, increasing productivity, and ultimately improving the overall effectiveness of the process.
 
 **Types of waste**
 
@@ -65,7 +65,7 @@ In one of my earlier blog posts on [continuous improvement](https://github.com/c
 
 **Navigating the Practical Jungle of Value Stream Mapping**
 
-Now that we've discussed the theoretical background, let's explore the practical steps needed to create a VSM. We'll use a call center with hypothetical figures as our example.
+Now that we've discussed the theoretical background, let's explore the practical steps needed to create a VSM. We'll use a call center with made up figures as our example.
 As the needs of the customers of this call center have developed, the team recognizes the need to improve and elevate the services.
 
 Picture this: with colorful sticky notes, markers, and a whiteboard at hand, you and your team are all set to tackle the task of creating the Value Stream Map. If you find yourselves unsure of the next steps, don't worry — I'm here to help guide you through the process.
