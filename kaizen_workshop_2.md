@@ -87,7 +87,10 @@ After following the above mentioned steps, we end up with the following image, w
 <h5 align="center"> Current State Map</h1>  
 
 In the current state map, we find that the cycle time (C/T), which is how long it takes to finish one unit of work, is 17 minutes. The processing time (P/T) or value-added time (VAT), which is the time spent on tasks that directly add value, is 10 minutes. The total time (T), which includes both value-added and non-value-added tasks, is 33 minutes. This shows that non-value-added tasks or delays are causing the total time to be longer than the value-added time. 
-While analyzing the value stream map, I've chosen not to highlight waste types to keep the visual clear and easy to understand. The focus has been on identifying process flows, bottlenecks, and improvement opportunities. The current state map provides a baseline for comparison when designing a future state map, which you will need to create by following these steps:
+
+While analyzing the value stream map, I've chosen not to highlight waste types to keep the visual clear and easy to understand. The focus has been on identifying process flows, bottlenecks, and improvement opportunities. 
+
+The current state map provides a baseline for comparison when designing a future state map, which you will need to create by following these steps:
 
 - **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
 - **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows. Clearly define the goals for the future state, including target metrics (e.g., cycle time, productivity).
