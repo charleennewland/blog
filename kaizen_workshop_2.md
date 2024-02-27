@@ -103,8 +103,7 @@ Below is a table outlining the activities in the customer call process, detailin
 </p>
 <h5 align="center"> Process Data and Improvements</h1>  
 
-The future state map envisions the ideal process after all improvements and guides the implementation of changes from the current to the desired future state. In our example future state map, there is an improvement in both cycle time, processing time, and total time compared to the current state. In the current state, the cycle time is 17 minutes, the value-added time is 10 minutes, and the total time is 33 minutes. In contrast, the future state targets a cycle time of 11 minutes, a value-added time of 8 minutes, and a total time of 14 minutes. These improvements indicate a significant reduction in cycle and total times and a streamlining of both value-added and non-value-added activities, as visible in the future state map below:
-
+The future state map illustrates the ideal process post-improvements, guiding the transition from the current state. In our example, there are improvements in cycle time, processing time, and total time. Currently, cycle time is 17 minutes, value-added time is 10 minutes, and total time is 33 minutes. In contrast, the future state targets a cycle time of 11 minutes, a value-added time of 8 minutes, and a total time of 14 minutes. These improvements represent a significant reduction in cycle and total times, requiring considerable effort to implement and sustain. Below you will find the future state map:
 <p align="center">
   <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/cde449dc-990f-46c5-b5ac-a56203528ef6/600/300"> 
 </p>
