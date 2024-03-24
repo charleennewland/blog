@@ -1,5 +1,5 @@
 # Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops
-## Part II. Building a Culture of Continuous Improvement - Value Stream Mapping
+## Part III. Building a Culture of Continuous Improvement - Root Cause Analysis
 
 
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
@@ -11,7 +11,7 @@
   <img width=400" height="400" src="https://github.com/charleennewland/blog/assets/138404574/1a3f6785-8949-4097-9519-1e83311f44c9/600/300"> 
 </p>
 
-In my previous blog post, we were introduced to the concept of Kaizen, which led us to kaizen events and how to conduct one. A kaizen event, in case you missed it, is a week-long event, usually organized when the organization aims to address urgent business risks, tackle root causes, overcome cross-functional challenges, or sustain continuous improvement practices. We covered the first three steps of the 12-step guide to conducting a kaizen event in the previous post on [kaizen workshops](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md). In this post, we'll delve into value stream mapping. Exciting stuff! 🙂
+In one of my earlier blog posts, we introduced Kaizen, leading to discussions on Kaizen events and their execution. A Kaizen event, for those who might have missed it, is typically a week-long session organized to address urgent business risks, address root causes, tackle cross-functional challenges, or uphold continuous improvement practices. We have already covered the first four steps of conducting a Kaizen event in previous posts, starting with [Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md) (steps 1, 2, and 3 in our 12-step guide), followed by [Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md) (step 4 of our guide). Now, moving on to step 5, we will have a look into Root Cause Analysis (RCA).
 
 <p align="center">
 <img width="55
