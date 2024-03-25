@@ -20,7 +20,7 @@ In one of my earlier blog posts, we introduced Kaizen, leading to discussions on
 
 Both in our professional and personal lives, we spend a lot of time trying to solve problems. Often, we end up dealing with the symptoms rather than the actual root causes of the problems we deal with. Addressing only the symptoms, rather than the root cause, is like repeatedly inflating a flat tyre without fixing the puncture. Instead of constantly searching for the nearest air pump, it's essential to inspect the tyre, locate the real leak, and repair it to prevent the issue from recurring, even if it seems time-consuming in the short term. It sounds simple, but identifying the true cause requires accuracy, and fortunately, there are specialised tools designed for this, known as root cause analysis (RCA) tools. Let's get into the literature to understand more about RCA. 
 
-**What is Root Cause Analysis?**
+### **What is Root Cause Analysis?**
 
 Root Cause Analysis (RCA) is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a methodical approach to leading to long-term solutions. 
 
