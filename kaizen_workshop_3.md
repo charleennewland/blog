@@ -29,7 +29,7 @@ By integrating RCA into regular operations, companies can not only fix recurring
 
 The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and organizational (systemic flaws within the organization). Fixing these issues takes more than quick fixes; real problem-solving means making big changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
 
-#### **Here are the basic steps to follow when conducting a root cause analysis:**
+#### - **Here are the basic steps to follow when conducting a root cause analysis:**
 
 1. **Data Collection:** Gather all relevant information about the issue.
 2. **Define the Problem:** Clearly describe the problem and its impact.
@@ -41,7 +41,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
   Interesting, right? But we're here to learn about the methods.
   Now, let's move on to exploring the RCA methods, which will help us tackle complex problems.
   
-#### **The various, commonly known tools used for Root Cause Analysis are:**
+#### - **The various, commonly known tools used for Root Cause Analysis are:**
 - *Cause-and-effect Diagram (CED)* - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
 - *Interrelationship Diagram (ID)* - This helps clarify complex relationships among multiple factors, helping in identifying, analyzing, and classifying cause-and-effect relationships, but it may not explicitly point out root causes. [3]
 - *Current Reality Tree (CRT)* - Focuses on pinpointing root causes and identifying how different causes are connected by linking multiple factors to core problems. It's detailed but can be complicated and slow to build.[3]
@@ -54,7 +54,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
 
 These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences. Now, let's take a look at one of these RCA methods.
 
-**A simple example of applying the 5 Whys technique to a problem looks like this:**
+#### - **A simple example of applying the 5 Whys technique to a problem looks like this:**
 
 **Problem: Product shipment is consistently delayed.**
 - [x] **First Why** - Why was the product shipment delayed?
@@ -103,7 +103,7 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 - Understanding Problem Layers: Addressing problems requires more than just superficial fixes. By delving deeper into the root causes, whether they're physical, human, or latent, organizations can implement more effective and long-lasting solutions.
 - RCA Tools and Techniques: A variety of tools, from the 5 Whys technique to Fishbone Diagrams and Failure Modes and Effects Analysis, can help systematically uncover the underlying causes of issues, guiding towards better decision-making and preventive measures.
 - Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements.
-
+***
 > Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."
 
 > Problem: An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
@@ -127,8 +127,7 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 > Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
 
 >The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.
-
-
+***
 
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Root_Cause_Analysis.html?id=Kyl3U9wUoO8C&redir_esc=y)<br>
 >- [2] [Techniques for Root Cause Analysis](https://www.tandfonline.com/doi/pdf/10.1080/08998280.2001.11927753)<br>
