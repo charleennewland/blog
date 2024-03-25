@@ -133,10 +133,10 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Root_Cause_Analysis.html?id=Kyl3U9wUoO8C&redir_esc=y)<br>
 >- [2] [Techniques for Root Cause Analysis](https://www.tandfonline.com/doi/pdf/10.1080/08998280.2001.11927753)<br>
 >- [3] [Root Cause Analysis: A Framework for Tool Selection](https://www.tandfonline.com/doi/abs/10.1080/10686967.2005.11919269)<br>
->- [4] [JURAN’S QUALITY HANDBOOK](https://d1wqtxts1xzle7.cloudfront.net/38161019/juran.pdf?1436648995=&response-content-disposition=inline%3B+filename%3DJuran.pdf&Expires=1711403810&Signature=UijFx2FfiwOaqh83xDdMJKi8xnLrHMhmzH-x-qnG6fpAjJyj1E0HVnrZfKsAKSrAynPfzhvnn2PSHn6Y3NuqIiKLF340b~W9p6HiIFujLEN5bim2NY6qy477Q3w0qDHHoZf1xr3L68rrLIC7SKFYE3CnztU28GnCfloJijPEHGmVDlvcg-cC-WGZusmkx5LiLQZBwFRUtFmG6WSwGSUEU~CkW-Z1TgYCUXB~rpVo6zRpMzQF--ypqIJQb6GFxtPtNPyaouhpLr3-jtYPmBtNY6Q2Zaz~Ssoc6dX~hoYVNJHAbKm0jWL9tuDA3wYww1q0~M0njr-w3TNaMSIPX~DwTQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)<br>
->- [5] [Kabir, S. (2017). An overview of fault tree analysis and its application in model based dependability analysis. Expert Systems with Applications, 77, 114-135.](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [4] [Juran's Quality Handbook](https://d1wqtxts1xzle7.cloudfront.net/38161019/juran.pdf?1436648995=&response-content-disposition=inline%3B+filename%3DJuran.pdf&Expires=1711403810&Signature=UijFx2FfiwOaqh83xDdMJKi8xnLrHMhmzH-x-qnG6fpAjJyj1E0HVnrZfKsAKSrAynPfzhvnn2PSHn6Y3NuqIiKLF340b~W9p6HiIFujLEN5bim2NY6qy477Q3w0qDHHoZf1xr3L68rrLIC7SKFYE3CnztU28GnCfloJijPEHGmVDlvcg-cC-WGZusmkx5LiLQZBwFRUtFmG6WSwGSUEU~CkW-Z1TgYCUXB~rpVo6zRpMzQF--ypqIJQb6GFxtPtNPyaouhpLr3-jtYPmBtNY6Q2Zaz~Ssoc6dX~hoYVNJHAbKm0jWL9tuDA3wYww1q0~M0njr-w3TNaMSIPX~DwTQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)<br>
+>- [5] [An overview of fault tree analysis and its application in model based dependability analysis](https://www.sciencedirect.com/science/article/abs/pii/S0957417417300714)<br>
 >- [6] [MIL-STD 1629A](https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf)<br>
->- [7] [from The Problem with Root Cause Analysis" by Mohammad Farhad Peerally, Susan Carr, Justin Waring, and Mary Dixon-Woods](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [7] [The Problem with Root Cause Analysis](https://qualitysafety.bmj.com/content/26/5/417.short)<br>
 
 
 >Related content:
