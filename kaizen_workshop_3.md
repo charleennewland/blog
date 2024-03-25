@@ -15,7 +15,7 @@ In one of my earlier blog posts, we introduced Kaizen, leading to discussions on
 
 <p align="center">
 <img width="55
-  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/60813d00-e54a-477e-bf63-0c12142b64fb/460/300">
+  0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/1934641e-45bc-4153-91b9-1116c86c81f8/460/300">
 </p>
 
 While researching value stream mapping, I realized that the topic deserves its own article due to the amount of information available. This is why I decided to create a standalone piece for value stream mapping.
