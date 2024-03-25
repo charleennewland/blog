@@ -18,50 +18,39 @@ In one of my earlier blog posts, we introduced Kaizen, leading to discussions on
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/1934641e-45bc-4153-91b9-1116c86c81f8/460/300">
 </p>
 
-While researching value stream mapping, I realized that the topic deserves its own article due to the amount of information available. This is why I decided to create a standalone piece for value stream mapping.
+In our daily lives, we spend a lot of time trying to solve problems, both in our professional and personal lives. Often, we end up dealing with the symptoms rather than the actual root causes of the problems we've identified. Addressing only the symptoms, rather than the root cause, is like repeatedly inflating a flat tyre without fixing the puncture. Instead of constantly searching for the nearest air pump, it's essential to inspect the tyre, locate the real leak, and repair it to prevent the issue from recurring, even if it seems time-consuming in the short term. It sounds simple, but identifying the true cause requires accuracy, and fortunately, there are specialised tools designed for this, known as root cause analysis (RCA) tools. Let's get into the literature to understand more about RCA. 
 
-In case you missed it, here's your high-level guide to rocking a kaizen event:
+**What is Root Cause Analysis?**
 
-First, make sure that team members are trained in or are familiar with Lean principles, as these often are the basis of kaizen activities. Remember, not every problem needs a kaizen event or workshop.
+Root Cause Analysis (RCA) is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a methodical approach to identifying long-term solutions. 
 
-1. **Form a cross-functional team**, including members associated with the process;
-2. **Define goals and objectives** for the kaizen event;
-3. **Conduct a Gemba walk** in the actual workplace;
-4. **Create a Value Stream Map (VSM)** to identify opportunities for improvements in the process;
-5. **Analyze the root causes** of the identified issues;
-6. **Facilitate brainstorming sessions** to share ideas for improvement;
-7. **Develop potential solutions** to address the identified issues;
-8. **Create a detailed plan** for implementing proposed solutions, defining responsibilities, timelines, and key performance indicators (KPIs);
-9. **Run a pilot** to test and refine potential solutions;
-10. **Implement planned changes**, adjusting processes and workflows;
-11. **Monitor these changes** and evaluate their impact on the process using metrics and KPIs;
-12. **Document the entire kaizen event** for future reference and follow-up. 
+Root Cause Analysis (RCA) in [1] is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. 
+By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success. Root Cause Analysis Improving Performance for Bottom-Line Results
 
-We've covered steps 1, 2, and 3 in the [previous post](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md). In this blog post, we will examine **step 4, which involves creating a Value Stream Map**.
+**The research in [2] (Techniques for Root Cause Analysis" by Patricia M. Williams) describes 3 types of root causes:**
 
-**What does academic literature say about Value Stream Mapping?**
+- **Physical Root Causes** - include tangible, identifiable faults such as broken machine parts or software malfunctions, representing the most immediate symptoms of deeper issues.
+Fixing these physical elements may solve the immediate problem but does not prevent future incidents without addressing the underlying causes.
 
-Value Stream Mapping (VSM) is a lean-management tool that originated from the Toyota Production System, developed in the late 1940s and 1950s. The authors in [1] who popularized VSM attribute its principles, such as focusing on value-added activities and eliminating waste, to the lean manufacturing methods developed within the Toyota Production System, primarily by Taiichi Ohno. At its most basic level, it visualises each task in the creation of a service or product, helping us pinpoint waste, bottlenecks, and inefficiencies, all geared towards process optimization. This visualization helps us understand the time each step takes and the distinction between value-added and non-value-added steps within the process. 
+- **Human Root Causes** - human root causes stem from errors or poor decisions influenced by factors like inadequate training, unclear instructions, or fatigue.
+Addressing human root causes involves creating an environment that encourages learning from errors rather than assigning blame.
 
-According to [2] there are three types of activities that a process consists of. These can be categorized as:
-1. non-value added (NVA);
-2. necessary but non-value added (NNVA); and
-3. value-added (VA).
+- **Latent Root Causes** - latent root causes are systemic and organisational flaws such as poor design, inadequate maintenance schedules, or a non-supportive culture.
+Latent causes are challenging to identify and address because they need substantial organisational changes to prevent recurrence. Solving these issues is vital for long-term improvement, requiring modifications to the underlying systems, processes, or cultures that allow errors.
 
-In process improvement, the goal is to minimize Non-Value Added (NVA) activities, which do not contribute to customer value, while optimizing Necessary but Non-Value Added (NNVA) tasks. The focus lies in improving Value-Added (VA) activities that directly fulfill customer needs. All of these are aimed at reducing inefficiencies/waste, increasing productivity, and ultimately improving the overall effectiveness of the process.
+The main takeaway here is that effective problem-solving requires addressing the deeper systemic and human factors beyond just the immediate physical causes. 
 
-**Types of waste**
+**A RCA process involves the following key steps:**
 
-In one of my earlier blog posts on [continuous improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md), I mentioned the eight types of waste the lean philosophy knows. The acronym DOWNTIME is an easy way to remember the eight wastes:
+- **Data Collection:** Gather all relevant information about the issue.
+- **Define the Problem:** Clearly describe the problem and its impact.
+- **Identify Possible Causal Factors:** List all potential reasons that could have led to the issue.
+- **Identify the Root Cause:** Use RCA methods to drill down to the underlying cause.
+- **Recommend and Implement Solutions:** Propose solutions to address the root cause and put them into action.
+- **Monitor and Review:** Ensure the solutions are effective and prevent the recurrence of the issue.
 
-- Defects - products or services that do not meet customers' specifications and require resources to rectify;
-- Overproduction - producing products in excess before they are truly needed;
-- Waiting - wasting time awaiting a preceding process to finish before moving forward;
-- Non-utilized talent - losing time, ideas, skills, and improvements when not involving employees;
-- Transportation - excessive movement of resources or information not essential to the product or service;
-- Inventory - quantities of products, materials, and information beyond what is immediately necessary;
-- Motion - unnecessary movement by people or movement that does not add value to the product or service;
-- Extra-processing - an activity that is not required to produce the product or service.
+  In the next section, we'll explore the various tools available for conducting proper root cause analysis.
+
 
 **Navigating the Practical Jungle of Value Stream Mapping**
 
