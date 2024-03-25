@@ -84,62 +84,31 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 >*To become familiar with RCA, try out my Excel-based root cause analysis template.Root Cause Analysis Template: 5 Whys Approach*
 
-After following the above mentioned steps, we end up with the following image, which is the current state map:
-<p align="center">
-  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/3a5f9d47-780d-48b5-a899-a2e4d41c6cab/600/300"> 
-</p>
-</p>
-<h5 align="center"> Current State Map</h1>  
+**Complexities and Challenges of RCA:**
+While a well-executed Root Cause Analysis can lead to real long-term solutions, there are still some limitations and challenges associated with it. 
 
-In the current state map, we find that the cycle time (C/T), which is how long it takes to finish one unit of work, is 17 minutes. The processing time (P/T) or value-added time (VAT), which is the time spent on tasks that directly add value, is 10 minutes. The total time (T), which includes both value-added and non-value-added tasks, is 33 minutes. This shows that non-value-added tasks or delays are causing the total time to be longer than the value-added time. 
+An RCA study in healthcare [7] lists several important points to be mindful of:
+- **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause. This belief can lead to an overly simplistic view. Avoid these by adopting a systems thinking approach and promoting collaborative problem-solving.
+- **Focus on Solutions:** Often, RCAs result in solutions that emphasize quick administrative fixes over deeper, systemic changes, leading to risk controls that might not fully address the underlying problems. Avoid these by developing action plans and evaluating the effectiveness of the solution.
+- **Scope of Analysis:** Many RCAs examine incidents in isolation, within the limits of one department or organization, missing out on broader lessons that could lead to systemic changes. Avoid this by using thorough data collection and involving team members from different areas.
+(from The Problem with Root Cause Analysis" by Mohammad Farhad Peerally, Susan Carr, Justin Waring, and Mary Dixon-Woods)
 
-While analyzing the value stream map, I've chosen not to highlight waste types to keep the visual clear and easy to understand. The focus has been on identifying process flows, bottlenecks, and improvement opportunities. 
+**Cultivating Continuity**
+After an RCA journey, it's crucial to not just applaud and move on but to lay down the tracks for continuous growth. This involves setting clear, actionable follow-up tasks, assigning caretakers for these tasks, and setting milestones to ensure they’re not just completed but integrated smoothly into the daily routines. Celebrate the wins, no matter how small, and use any setbacks as learning steps, not stumbling blocks.
 
-The current state map provides a baseline for comparison when designing a future state map. To create the future state map, follow these steps:
+**RCA Software**
+There are several Root Cause Analysis (RCA) software options out there that can help streamline the RCA process. Some of the best ones are SafetyCulture (used to be called iAuditor), TapRooT, Causelink, EHS Insight, Weever, EasyRCA by Reliability, and ThinkReliability. They come with stuff like digital checklists for RCA, data analysis, managing incidents, and ways for teams to collaborate on figuring things out.
 
-- **Create a leaner process** that eliminates or reduces waste, improves flow, and better aligns production with customer demand, based on the analysis of the current state;
-- **Develop a future state map** that reflects these improvements, including changes to process steps, material and information flows. Clearly define the goals for the future state, including target metrics (e.g., cycle time, productivity).
-  
-Below is a table outlining the activities in the customer call process, detailing their processing times or value-added times, cycle times, total times, process step efficiencies, and suggested improvements/solutions resulting from root cause analysis and brainstorming (steps 5, 6, and 7 of our Kaizen guide). We'll delve deeper into these steps in future posts. When initiating improvements, focus first on areas with low efficiency.
+In my next blog post, we will proceed with step six in our 12-step Kaizen guide. 
 
-<p align="center">
-  <img width="1200" height="500" src="https://github.com/charleennewland/blog/assets/138404574/07756a15-0315-4d01-81ce-418d5af8d263/600/300"> 
-</p>
-</p>
-<h5 align="center"> Process Data and Improvements</h1>  
+So, to summarize:
 
-The future state map illustrates the ideal process post-improvements, guiding the transition from the current state. In our example, there are improvements in cycle time, processing time, and total time. Currently, cycle time is 17 minutes, value-added time is 10 minutes, and total time is 33 minutes. In contrast, the future state targets a cycle time of 11 minutes, a value-added time of 8 minutes, and a total time of 14 minutes. These improvements represent a significant reduction in cycle and total times, requiring considerable effort to implement and sustain. Below you will find the future state map:
-<p align="center">
-  <img width="1800" height="500" src="https://github.com/charleennewland/blog/assets/138404574/cde449dc-990f-46c5-b5ac-a56203528ef6/600/300"> 
-</p>
-</p>
-<h5 align="center"> Future State Map</h1>  
+- Root Cause Analysis (RCA) as a Crucial Element: RCA is essential in identifying the fundamental reasons behind issues, moving beyond temporary fixes to achieve sustainable solutions and fostering a culture of continuous improvement in line with Kaizen principles.
+- Understanding Problem Layers: Addressing problems requires more than just superficial fixes. By delving deeper into the root causes, whether they're physical, human, or latent, organizations can implement more effective and long-lasting solutions.
+- RCA Tools and Techniques: A variety of tools, from the 5 Whys technique to Fishbone Diagrams and Failure Modes and Effects Analysis, can help systematically uncover the underlying causes of issues, guiding towards better decision-making and preventive measures.
+- Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements. 
 
-Successfully implementing these changes will lead to the following quantifiable improvements:
 
-Currently, each call center representative (CCR) handles an average of 28.24 calls per day. After successfully implementing the proposed changes, this figure will increase to 43.64 calls per day per CCR, marking an increase of 54.55%. Alongside this increase, there are also intangible benefits. These include an increase in employee satisfaction due to the standardization and simplification of process steps, which can also lead to higher employee retention rates.
-
-**Brown Paper Sessions**
-
-Brown paper sessions are not the same as value stream mapping, but they are often used in conjunction with each other as part of a process improvement initiative.
-
-A brown paper session is an interactive meeting where participants use large sheets of brown paper to visually represent ideas, processes, or plans. These sessions are common in brainstorming and process improvement exercises, with participants using markers, sticky notes, or other visual aids for easy sharing and collaboration.
-
-Brown paper sessions can be used as part of the value stream mapping process to brainstorm ideas, gather input from team members, and visually represent the current state and future state of a process. While I prefer the brown paper approach, Minitab Workspace and Miro are great alternatives for VSM with remote teams.
-
-Here is an image illustrating what a brown paper session looks like.
-
-<p align="center">
-  <img width="600" height="400" src="https://github.com/charleennewland/blog/assets/138404574/2242d678-1032-413a-93f6-0e23012b11c2/600/300"> 
-</p>
-</p>
-<h5 align="center"> Brown Paper</h1>  
-
-Summary:
-- VSM visualizes each task involved in creating a product or service and helps identify waste, bottlenecks, and inefficiencies;
-- To create a VSM, tools such as whiteboards, flip chart paper, or VSM software can be utilized for visualization;
-- To develop a leaner process that eliminates or reduces waste and enhances flow, we must analyze the current state map;
-- Improvements, including modifications to process steps, material and information flows, and other key metrics, will be documented in the future state map.
 
 >- [1] [Value Stream Mapping to Add Value and Eliminate Muda](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [2] [Toyota Production System: An Integrated Approach to Just-in-Time](https://books.google.nl/books?hl=en&lr=&id=M73MBQAAQBAJ&oi=fnd&pg=PP1&dq=Toyota+Production+System:+An+Integrated+Approach+to+Just-in-Time,+&ots=hbMwpK7UNb&sig=1MB3BNKkCjQ_HvMUhcuiX4FGEYw&redir_esc=y#v=onepage&q=Toyota%20Production%20System%3A%20An%20Integrated%20Approach%20to%20Just-in-Time%2C&f=false)<br>
