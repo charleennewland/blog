@@ -68,15 +68,15 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 **Here is a simple example of the 5 Whys technique applied to a problem:**
 
 **Problem: Product shipment is consistently delayed.**
-- **First Why** - Why was the product shipment delayed?
+[x] **First Why** - Why was the product shipment delayed?
 >The packaging process took longer than expected.
-- **Second Why** - Why did the packaging process take longer than expected?
+[x] **Second Why** - Why did the packaging process take longer than expected?
 >The packaging instructions were unclear.
-- **Third Why** - Why were the packaging instructions unclear?
+[x] **Third Why** - Why were the packaging instructions unclear?
 >They hadn't been updated to reflect changes in the product design.
-- **Fourth Why** - Why hadn't the packaging instructions been updated?
+[x] **Fourth Why** - Why hadn't the packaging instructions been updated?
 >The process to regularly review and update procedures was not followed and there was no mechanism for identifying outdated procedures.
-- **Fifth Why** - Why wasn't the process followed and why was there no mechanism for identifying outdated procedures?
+[x] **Fifth Why** - Why wasn't the process followed and why was there no mechanism for identifying outdated procedures?
 >There was no systematic adherence control mechanism in place.
 
 **Root Cause:** The root cause of the shipment delays is the lack of a structured process for reviewing, updating, and adhering to procedures.
@@ -96,9 +96,11 @@ An RCA study in healthcare [7] lists several important points to be mindful of:
 (from The Problem with Root Cause Analysis" by Mohammad Farhad Peerally, Susan Carr, Justin Waring, and Mary Dixon-Woods)
 
 **Cultivating Continuity**
+
 After an RCA journey, it's crucial to not just applaud and move on but to lay down the tracks for continuous growth. This involves setting clear, actionable follow-up tasks, assigning caretakers for these tasks, and setting milestones to ensure they’re not just completed but integrated smoothly into the daily routines. Celebrate the wins, no matter how small, and use any setbacks as learning steps, not stumbling blocks.
 
 **RCA Software**
+
 There are several Root Cause Analysis (RCA) software options out there that can help streamline the RCA process. Some of the best ones are SafetyCulture (used to be called iAuditor), TapRooT, Causelink, EHS Insight, Weever, EasyRCA by Reliability, and ThinkReliability. They come with stuff like digital checklists for RCA, data analysis, managing incidents, and ways for teams to collaborate on figuring things out.
 
 In my next blog post, we will proceed with step six in our 12-step Kaizen guide. 
