@@ -106,26 +106,20 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 ***
 > Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."
 
-> Problem: An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
+ Problem: An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
 
-> Root Cause Findings:
+Root Cause Findings:
 
-> Miscommunication Among Staff: Two flights departing simultaneously from the same gate led to confusion and miscommunication, resulting in the child being placed on the incorrect flight.
+Miscommunication Among Staff: Two flights departing simultaneously from the same gate led to confusion and miscommunication, resulting in the child being placed on the incorrect flight.
+Ineffective Verification Process: The current process for verifying that minors are boarded onto the correct flights was found to be ineffective.
+Count Ineffective: The flight attendant’s passenger count did not catch the error; on the "wrong" aircraft, the count was one more than expected, and on the "correct" aircraft, it was one less than expected.
+Process Breakdowns: There were multiple breakdowns within the work processes, particularly in escorting the child to the plane, verifying the child’s boarding process, and counting passengers accurately.
 
-> Ineffective Verification Process: The current process for verifying that minors are boarded onto the correct flights was found to be ineffective.
+ Outcomes/Solutions:
 
-> Count Ineffective: The flight attendant’s passenger count did not catch the error; on the "wrong" aircraft, the count was one more than expected, and on the "correct" aircraft, it was one less than expected.
-
-> Process Breakdowns: There were multiple breakdowns within the work processes, particularly in escorting the child to the plane, verifying the child’s boarding process, and counting passengers accurately.
-
-> Outcomes/Solutions:
-
->Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
-
-> Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the passenger counting process.
-
-> Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
-
+Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
+Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the passenger counting process.
+Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
 >The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.
 ***
 
