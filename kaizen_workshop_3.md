@@ -9,14 +9,14 @@
 
 <p align="center"
   <img width="450" height="450" src="https://github.com/charleennewland/blog/assets/138404574/1a3f6785-8949-4097-9519-1e83311f44c9/600/300" 
-</p
+  </p>
 
 In one of my earlier blog posts, we introduced Kaizen, leading to discussions on Kaizen events and their execution. A Kaizen event, for those who might have missed it, is typically a week-long session organized to address urgent business risks, address root causes, tackle cross-functional challenges, or uphold continuous improvement practices. We have already covered the first four steps of conducting a Kaizen event in previous posts, starting with [Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md) (steps 1, 2, and 3 in our 12-step guide), followed by [Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md) (step 4 of our guide). Now, moving on to step 5, Root Cause Analysis (RCA), we'll get into the nitty-gritty—kind of like finally figuring out where all those missing socks go in the laundry. Spoiler alert: We might not solve the mystery of the single socks, but at least we'll improve our processes!
 
 <p align="center"
 <img width="55
   0" height="300" src="https://github.com/charleennewland/blog/assets/138404574/1934641e-45bc-4153-91b9-1116c86c81f8/460/300"
-</p
+  </p>
 
 Both in our professional and personal lives, we spend a lot of time trying to solve problems. Often, we end up dealing with the symptoms rather than the actual root causes of the problems we deal with. Addressing only the symptoms, rather than the root cause, is like repeatedly inflating a flat tyre without fixing the puncture. Instead of constantly searching for the nearest air pump, it's essential to inspect the tyre, locate the real leak, and repair it to prevent the issue from recurring, even if it seems time-consuming in the short term. It sounds simple, but identifying the true cause requires accuracy, and fortunately, there are specialised tools designed for this, known as root cause analysis (RCA) tools. Let's get into the literature to understand more about RCA. 
 
