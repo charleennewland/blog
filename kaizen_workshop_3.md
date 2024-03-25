@@ -67,18 +67,19 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 **Here is a simple example of the 5 Whys technique applied to a problem:**
 **Problem: Product shipment is consistently delayed.**
-**First Why** - Why was the product shipment delayed?
+- **First Why** - Why was the product shipment delayed?
 The packaging process took longer than expected.
-**Second Why** - Why did the packaging process take longer than expected?
+- **Second Why** - Why did the packaging process take longer than expected?
 The packaging instructions were unclear.
-**Third Why** - Why were the packaging instructions unclear?
+- **Third Why** - Why were the packaging instructions unclear?
 They hadn't been updated to reflect changes in the product design.
-**Fourth Why** - Why hadn't the packaging instructions been updated?
+- **Fourth Why** - Why hadn't the packaging instructions been updated?
 The process to regularly review and update procedures was not followed and there was no mechanism for identifying outdated procedures.
-**Fifth Why** - Why wasn't the process followed and why was there no mechanism for identifying outdated procedures?
+- **Fifth Why** - Why wasn't the process followed and why was there no mechanism for identifying outdated procedures?
 There was no systematic adherence control mechanism in place.
 
-**Root Cause:** The root cause of the shipment delays is the lack of a structured process for reviewing, updating, and adhering to procedures. 
+**Root Cause:** The root cause of the shipment delays is the lack of a structured process for reviewing, updating, and adhering to procedures.
+
 **Solution:** Implementing a clear process for updates, assigning responsibility, and establishing adherence control mechanisms such as routine audits, feedback loops, training sessions, responsibility assignments, and performance metrics can help prevent future shipment delays.
 
 >*To become familiar with RCA, try out my Excel-based root cause analysis template.Root Cause Analysis Template: 5 Whys Approach*
