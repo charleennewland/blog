@@ -54,7 +54,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
 
 These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences. Now, let's take a look at one of these RCA methods.
 
-**A simple example of applying the 5 Whys technique to a problem looks like this::**
+**A simple example of applying the 5 Whys technique to a problem looks like this:** :nerd_face:
 
 **Problem: Product shipment is consistently delayed.**
 - [x] **First Why** - Why was the product shipment delayed?
@@ -94,7 +94,7 @@ There are several Root Cause Analysis (RCA) software options out there that can 
 
 In my next blog post, we will proceed with step six in our 12-step Kaizen guide. 
 
-**So, to summarize**:
+**So, to summarize**: :monocle_face:
 
 - Root Cause Analysis (RCA) as a Crucial Element: RCA is essential in identifying the fundamental reasons behind issues, moving beyond temporary fixes to achieve sustainable solutions and fostering a culture of continuous improvement in line with Kaizen principles.
 - Understanding Problem Layers: Addressing problems requires more than just superficial fixes. By delving deeper into the root causes, whether they're physical, human, or latent, organizations can implement more effective and long-lasting solutions.
