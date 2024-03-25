@@ -25,7 +25,7 @@ In our daily lives, we spend a lot of time trying to solve problems, both in our
 Root Cause Analysis (RCA) is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a methodical approach to identifying long-term solutions. 
 
 Root Cause Analysis (RCA) in [1] is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. 
-By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success. Root Cause Analysis Improving Performance for Bottom-Line Results
+By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success. 
 
 **The research in [2] (Techniques for Root Cause Analysis" by Patricia M. Williams) describes 3 types of root causes:**
 
@@ -112,9 +112,14 @@ So, to summarize:
 - Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements. 
 
 
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [2] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 
->- [1] [Value Stream Mapping to Add Value and Eliminate Muda](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
->- [2] [Toyota Production System: An Integrated Approach to Just-in-Time](https://books.google.nl/books?hl=en&lr=&id=M73MBQAAQBAJ&oi=fnd&pg=PP1&dq=Toyota+Production+System:+An+Integrated+Approach+to+Just-in-Time,+&ots=hbMwpK7UNb&sig=1MB3BNKkCjQ_HvMUhcuiX4FGEYw&redir_esc=y#v=onepage&q=Toyota%20Production%20System%3A%20An%20Integrated%20Approach%20to%20Just-in-Time%2C&f=false)<br>
 
 >Related content:
 >- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
