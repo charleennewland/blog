@@ -42,19 +42,19 @@ The research in [2] outlines three types of root causes: physical (tangible issu
   Now, let's move on to exploring the SCA methods, which will help us tackle complex problems.
   
 **The various, commonly known tools used for Root Cause Analysis are:**
-- Cause-and-effect Diagram (CED) - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
-- Interrelationship Diagram (ID) - This helps clarify complex relationships among multiple factors, helping in identifying, analyzing, and classifying cause-and-effect relationships, but it may not explicitly point out root causes. [3]
-- Current Reality Tree (CRT) - Focuses on pinpointing root causes and identifying how different causes are connected by linking multiple factors to core problems. It's detailed but can be complicated and slow to build.[3]
-- "Ask Why 5 Times" Technique - Involves asking "why" multiple times (typically five) to delve deeper into the cause of a problem. [2]
-- Causal Tree - Places the main event at the top and then goes backwards to find the causes and their interrelations, showing how different reasons are connected and finding ways to prevent errors from happening. [2]
-- Decision Table - Assesses actions by how serious they are, how likely they are to happen again, and detectability, helping in informed decision-making instead of knee-jerk reactions. [2]
-- Fishbone Diagrams (Ishikawa) - Helps identify multiple potential causes of a problem and categorise them. This tool is used to systematically break down factors leading to specific issues. [4] Juran, J. M. (1999). Juran's Quality Handbook (5th Edition). McGraw-Hill. 
-- Fault Tree Analysis (FTA) - Used primarily in technical or complex scenarios like airline mechanical failures. FTA helps trace back issues through a logical sequence to identify potential design flaws or system failures. [5] Kabir, S. (2017). An overview of fault tree analysis and its application in model based dependability analysis. Expert Systems with Applications, 77, 114-135.
-- Failure Modes and Effects Analysis (FMEA) - Is a systematic method for identifying potential failure modes within a process, product, or system, assessing their potential effects, and prioritizing actions to prevent them. Used not only for identifying potential product or process failures but also for risk management, quality improvement, safety analysis, cost reduction, design optimization, regulatory compliance, and supply chain management. [6] MIL-STD 1629A https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf
+- *Cause-and-effect Diagram (CED)* - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
+- *Interrelationship Diagram (ID)* - This helps clarify complex relationships among multiple factors, helping in identifying, analyzing, and classifying cause-and-effect relationships, but it may not explicitly point out root causes. [3]
+- *Current Reality Tree (CRT)* - Focuses on pinpointing root causes and identifying how different causes are connected by linking multiple factors to core problems. It's detailed but can be complicated and slow to build.[3]
+- *"Ask Why 5 Times" Technique* - Involves asking "why" multiple times (typically five) to delve deeper into the cause of a problem. [2]
+- *Causal Tree* - Places the main event at the top and then goes backwards to find the causes and their interrelations, showing how different reasons are connected and finding ways to prevent errors from happening. [2]
+- *Decision Table* - Assesses actions by how serious they are, how likely they are to happen again, and detectability, helping in informed decision-making instead of knee-jerk reactions. [2]
+- *Fishbone Diagrams (Ishikawa)* - Helps identify multiple potential causes of a problem and categorise them. This tool is used to systematically break down factors leading to specific issues. [4] Juran, J. M. (1999). Juran's Quality Handbook (5th Edition). McGraw-Hill. 
+- *Fault Tree Analysis (FTA)* - Used primarily in technical or complex scenarios like airline mechanical failures. FTA helps trace back issues through a logical sequence to identify potential design flaws or system failures. [5] Kabir, S. (2017). An overview of fault tree analysis and its application in model based dependability analysis. Expert Systems with Applications, 77, 114-135.
+- *Failure Modes and Effects Analysis (FMEA)* - Is a systematic method for identifying potential failure modes within a process, product, or system, assessing their potential effects, and prioritizing actions to prevent them. Used not only for identifying potential product or process failures but also for risk management, quality improvement, safety analysis, cost reduction, design optimization, regulatory compliance, and supply chain management. [6] MIL-STD 1629A https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf
 
-These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences.
+These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences. Now, let's take a look at one of these RCA methods.
 
-**Here is a simple example of the 5 Whys technique applied to a problem:**
+**A simple example of applying the 5 Whys technique to a problem looks like this::**
 
 **Problem: Product shipment is consistently delayed.**
 - [x] **First Why** - Why was the product shipment delayed?
@@ -104,7 +104,7 @@ So, to summarize:
 
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [2] [Techniques for Root Cause Analysis" by Patricia M. Williams](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
->- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [3] [xx xx xx](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
