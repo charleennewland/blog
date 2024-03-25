@@ -116,7 +116,7 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 > - Count Ineffective: The flight attendant’s passenger count did not catch the error; on the "wrong" aircraft, the count was one more than expected, and on the "correct" aircraft, it was one less than expected.
 > - Process Breakdowns: There were multiple breakdowns within the work processes, particularly in escorting the child to the plane, verifying the child’s boarding process, and counting passengers accurately.
 
-> - **Outcomes/Solutions:**
+> **Outcomes/Solutions:**
 
 > - Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
 > - Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the >passenger counting process.
