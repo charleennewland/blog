@@ -104,45 +104,45 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 - RCA Tools and Techniques: A variety of tools, from the 5 Whys technique to Fishbone Diagrams and Failure Modes and Effects Analysis, can help systematically uncover the underlying causes of issues, guiding towards better decision-making and preventive measures.
 - Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements.
 ***
-> ### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
+### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
 
 >  **Problem:** An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
 
 >  **Root Cause Findings:**
 
-> **Miscommunication Among Staff:**
-> - Two flights departing simultaneously from the same gate led to confusion and miscommunication, resulting in the child being placed on the incorrect flight.
-> - Ineffective Verification Process: The current process for verifying that minors are boarded onto the correct flights was found to be ineffective.
-> - Count Ineffective: The flight attendant’s passenger count did not catch the error; on the "wrong" aircraft, the count was one more than expected, and on the "correct" aircraft, it was one less than expected.
-> - Process Breakdowns: There were multiple breakdowns within the work processes, particularly in escorting the child to the plane, verifying the child’s boarding process, and counting passengers accurately.
+**Miscommunication Among Staff:**
+- Two flights departing simultaneously from the same gate led to confusion and miscommunication, resulting in the child being placed on the incorrect flight.
+- Ineffective Verification Process: The current process for verifying that minors are boarded onto the correct flights was found to be ineffective.
+- Count Ineffective: The flight attendant’s passenger count did not catch the error; on the "wrong" aircraft, the count was one more than expected, and on the "correct" aircraft, it was one less than expected.
+- Process Breakdowns: There were multiple breakdowns within the work processes, particularly in escorting the child to the plane, verifying the child’s boarding process, and counting passengers accurately.
 
-> **Outcomes/Solutions:**
+**Outcomes/Solutions:**
 
-> - Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
-> - Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the >passenger counting process.
-> - Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
-> - The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.
+- Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
+- Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the >passenger counting process.
+- Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
+- The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.
 ***
 
->- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Root_Cause_Analysis.html?id=Kyl3U9wUoO8C&redir_esc=y)<br>
->- [2] [Techniques for Root Cause Analysis](https://www.tandfonline.com/doi/pdf/10.1080/08998280.2001.11927753)<br>
->- [3] [Root Cause Analysis: A Framework for Tool Selection](https://www.tandfonline.com/doi/abs/10.1080/10686967.2005.11919269)<br>
->- [4] [Juran's Quality Handbook](https://d1wqtxts1xzle7.cloudfront.net/38161019/juran.pdf?1436648995=&response-content-disposition=inline%3B+filename%3DJuran.pdf&Expires=1711403810&Signature=UijFx2FfiwOaqh83xDdMJKi8xnLrHMhmzH-x-qnG6fpAjJyj1E0HVnrZfKsAKSrAynPfzhvnn2PSHn6Y3NuqIiKLF340b~W9p6HiIFujLEN5bim2NY6qy477Q3w0qDHHoZf1xr3L68rrLIC7SKFYE3CnztU28GnCfloJijPEHGmVDlvcg-cC-WGZusmkx5LiLQZBwFRUtFmG6WSwGSUEU~CkW-Z1TgYCUXB~rpVo6zRpMzQF--ypqIJQb6GFxtPtNPyaouhpLr3-jtYPmBtNY6Q2Zaz~Ssoc6dX~hoYVNJHAbKm0jWL9tuDA3wYww1q0~M0njr-w3TNaMSIPX~DwTQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)<br>
->- [5] [An overview of fault tree analysis and its application in model based dependability analysis](https://www.sciencedirect.com/science/article/abs/pii/S0957417417300714)<br>
->- [6] [MIL-STD 1629A](https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf)<br>
->- [7] [The Problem with Root Cause Analysis](https://qualitysafety.bmj.com/content/26/5/417.short)<br>
+- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Root_Cause_Analysis.html?id=Kyl3U9wUoO8C&redir_esc=y)<br>
+- [2] [Techniques for Root Cause Analysis](https://www.tandfonline.com/doi/pdf/10.1080/08998280.2001.11927753)<br>
+- [3] [Root Cause Analysis: A Framework for Tool Selection](https://www.tandfonline.com/doi/abs/10.1080/10686967.2005.11919269)<br>
+- [4] [Juran's Quality Handbook](https://d1wqtxts1xzle7.cloudfront.net/38161019/juran.pdf?1436648995=&response-content-disposition=inline%3B+filename%3DJuran.pdf&Expires=1711403810&Signature=UijFx2FfiwOaqh83xDdMJKi8xnLrHMhmzH-x-qnG6fpAjJyj1E0HVnrZfKsAKSrAynPfzhvnn2PSHn6Y3NuqIiKLF340b~W9p6HiIFujLEN5bim2NY6qy477Q3w0qDHHoZf1xr3L68rrLIC7SKFYE3CnztU28GnCfloJijPEHGmVDlvcg-cC-WGZusmkx5LiLQZBwFRUtFmG6WSwGSUEU~CkW-Z1TgYCUXB~rpVo6zRpMzQF--ypqIJQb6GFxtPtNPyaouhpLr3-jtYPmBtNY6Q2Zaz~Ssoc6dX~hoYVNJHAbKm0jWL9tuDA3wYww1q0~M0njr-w3TNaMSIPX~DwTQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)<br>
+- [5] [An overview of fault tree analysis and its application in model based dependability analysis](https://www.sciencedirect.com/science/article/abs/pii/S0957417417300714)<br>
+- [6] [MIL-STD 1629A](https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf)<br>
+- [7] [The Problem with Root Cause Analysis](https://qualitysafety.bmj.com/content/26/5/417.short)<br>
 
-
->Related content:
->- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
->- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
->- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)
->- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)
->- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)
->- [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part I. Building a Culture of Continuous Improvement - Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)
->- [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part II. Building a Culture of Continuous Improvement - Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md#part-ii-building-a-culture-of-continuous-improvement---value-stream-mapping)       
+```
+Related content:
+- [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
+- [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
+- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)
+- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)
+- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)
+- [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part I. Building a Culture of Continuous Improvement - Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)
+- [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part II. Building a Culture of Continuous Improvement - Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md#part-ii-building-a-culture-of-continuous-improvement---value-stream-mapping)       
        
-
+```
 
 
 
