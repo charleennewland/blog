@@ -76,7 +76,7 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 *To become familiar with RCA, try out my [Root Cause Analysis Template: 5 Whys Approach](https://docs.google.com/spreadsheets/d/1YOQSUFnCbzpQawSjM1Nwg007l9ATHgYJ1JzIpo6jg-o/edit?usp=sharing).*
 
-**Complexities and Challenges of RCA**
+### **Complexities and Challenges of RCA**
 
 While a well-executed RCA can lead to real long-term solutions, there are still some limitations and challenges associated with it. 
 
@@ -87,17 +87,17 @@ An RCA study in healthcare [7] lists several important points to be mindful of:
 - **Scope of Analysis:** Many RCAs examine incidents in isolation, within the limits of one department or organization, missing out on broader lessons that could lead to systemic changes. Avoid this by using thorough data collection and involving team members from different areas.
 
 
-**Cultivating Continuity**
+### **Cultivating Continuity**
 
 After an RCA journey, it's crucial to not just applaud and move on but to lay down the tracks for continuous growth. This involves setting clear, actionable follow-up tasks, assigning caretakers for these tasks, and setting milestones to ensure they’re not just completed but integrated smoothly into the daily routines. Celebrate the wins, no matter how small, and use any setbacks as learning steps, not stumbling blocks.
 
-**RCA Software**
+### **RCA Software**
 
 There are several RCA software options out there that can help streamline the RCA process. Some of the best ones are SafetyCulture (used to be called iAuditor), TapRooT, Causelink, EHS Insight, Weever, EasyRCA by Reliability, and ThinkReliability. They come with stuff like digital checklists for RCA, data analysis, managing incidents, and ways for teams to collaborate on figuring things out.
 
 In my next blog post, we will proceed with step six in our 12-step Kaizen guide. 
 
-**So, to summarize**: :monocle_face:
+### **So, to summarize**: :monocle_face:
 
 - Root cause analysis as a Crucial Element: RCA is essential in identifying the fundamental reasons behind issues, moving beyond temporary fixes to achieve sustainable solutions and fostering a culture of continuous improvement in line with Kaizen principles.
 - Understanding Problem Layers: Addressing problems requires more than just superficial fixes. By delving deeper into the root causes, whether they're physical, human, or latent, organizations can implement more effective and long-lasting solutions.
