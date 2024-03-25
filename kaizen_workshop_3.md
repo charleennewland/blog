@@ -54,7 +54,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
 
 These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences. Now, let's take a look at one of these RCA methods.
 
-**A simple example of applying the 5 Whys technique to a problem looks like this:** :nerd_face:
+**A simple example of applying the 5 Whys technique to a problem looks like this:**
 
 **Problem: Product shipment is consistently delayed.**
 - [x] **First Why** - Why was the product shipment delayed?
