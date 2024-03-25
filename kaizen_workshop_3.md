@@ -66,6 +66,7 @@ The main takeaway here is that effective problem-solving requires addressing the
 These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences.
 
 **Here is a simple example of the 5 Whys technique applied to a problem:**
+
 **Problem: Product shipment is consistently delayed.**
 - **First Why** - Why was the product shipment delayed?
 >The packaging process took longer than expected.
