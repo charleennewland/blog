@@ -84,7 +84,8 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 >*To become familiar with RCA, try out my Excel-based root cause analysis template.Root Cause Analysis Template: 5 Whys Approach*
 
-**Complexities and Challenges of RCA:**
+**Complexities and Challenges of RCA**
+
 While a well-executed Root Cause Analysis can lead to real long-term solutions, there are still some limitations and challenges associated with it. 
 
 An RCA study in healthcare [7] lists several important points to be mindful of:
