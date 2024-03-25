@@ -27,7 +27,7 @@ Root Cause Analysis (RCA) is a key part of managing risks and is used in many ar
 Root Cause Analysis (RCA) in [1] is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. 
 By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success.
 
-The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and latent (systemic flaws within the organization). Addressing these requires more than just immediate fixes; effective problem-solving involves making substantial changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
+The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and latent (systemic flaws within the organization). Fixing these issues takes more than quick fixes; real problem-solving means making big changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
 
 **Here are the basic steps to follow when conducting a root cause analysis:**
 
