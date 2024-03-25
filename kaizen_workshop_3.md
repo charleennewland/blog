@@ -58,15 +58,15 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 **Problem: Product shipment is consistently delayed.**
 - [x] **First Why** - Why was the product shipment delayed?
->The packaging process took longer than expected.
+* The packaging process took longer than expected.
 - [x] **Second Why** - Why did the packaging process take longer than expected?
->The packaging instructions were unclear.
+* The packaging instructions were unclear.
 - [x] **Third Why** - Why were the packaging instructions unclear?
->They hadn't been updated to reflect changes in the product design.
+* They hadn't been updated to reflect changes in the product design.
 - [x] **Fourth Why** - Why hadn't the packaging instructions been updated?
->The process to regularly review and update procedures was not followed and there was no mechanism for identifying outdated procedures.
+* The process to regularly review and update procedures was not followed and there was no mechanism for identifying outdated procedures.
 - [x] **Fifth Why** - Why wasn't the process followed and why was there no mechanism for identifying outdated procedures?
->There was no systematic adherence control mechanism in place.
+* There was no systematic adherence control mechanism in place.
 
 **Root Cause:** The root cause of the shipment delays is the lack of a structured process for reviewing, updating, and adhering to procedures.
 
@@ -82,7 +82,7 @@ While a well-executed RCA can lead to real long-term solutions, there are still 
 
 An RCA study in healthcare [7] lists several important points to be mindful of:
 - **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause. This belief can lead to an overly simplistic view. Adopting a systems thinking approach and encouraging collaborative problem-solving can help avoid oversimplification and ensure comprehensive solutions.
-  > While the idea that every problem has a single root cause is a common belief in root cause analysis (RCA), not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
+  * >While the idea that every problem has a single root cause is a common belief in root cause analysis (RCA), not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
 - **Focus on Solutions:** Often, RCAs result in solutions that emphasize quick administrative fixes over deeper, systemic changes, leading to risk controls that might not fully address the underlying problems. Avoid these by developing action plans and evaluating the effectiveness of the solution.
 - **Scope of Analysis:** Many RCAs examine incidents in isolation, within the limits of one department or organization, missing out on broader lessons that could lead to systemic changes. Avoid this by using thorough data collection and involving team members from different areas.
 
@@ -104,11 +104,11 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 - RCA Tools and Techniques: A variety of tools, from the 5 Whys technique to Fishbone Diagrams and Failure Modes and Effects Analysis, can help systematically uncover the underlying causes of issues, guiding towards better decision-making and preventive measures.
 - Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements.
 ***
-### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
+### Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."
 
->  **Problem:** An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
+**Problem:** An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
 
->  **Root Cause Findings:**
+**Root Cause Findings:**
 
 **Miscommunication Among Staff:**
 - Two flights departing simultaneously from the same gate led to confusion and miscommunication, resulting in the child being placed on the incorrect flight.
@@ -132,7 +132,6 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 - [6] [MIL-STD 1629A](https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf)<br>
 - [7] [The Problem with Root Cause Analysis](https://qualitysafety.bmj.com/content/26/5/417.short)<br>
 
-```
 Related content:
 - [Learning from mistakes: Reasons behind improvement project failures](https://github.com/charleennewland/blog/blob/post02/process_improvement_failures.md)
 - [Part I. Understanding the Basics: Continuous Improvement](https://github.com/charleennewland/blog/blob/main/operational_excellence_pt1.md)
@@ -141,8 +140,7 @@ Related content:
 - [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)
 - [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part I. Building a Culture of Continuous Improvement - Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)
 - [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part II. Building a Culture of Continuous Improvement - Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md#part-ii-building-a-culture-of-continuous-improvement---value-stream-mapping)       
-       
-```
+
 
 
 
