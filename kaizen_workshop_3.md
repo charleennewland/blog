@@ -8,7 +8,7 @@
 >*Reading Time: 5 min*
 >
 <p align="center">
-  <img width=500" height="500" src="https://github.com/charleennewland/blog/assets/138404574/1a3f6785-8949-4097-9519-1e83311f44c9/600/300"> 
+  <img width="450" height="450" src="https://github.com/charleennewland/blog/assets/138404574/1a3f6785-8949-4097-9519-1e83311f44c9/600/300"> 
 </p>
 
 In one of my earlier blog posts, we introduced Kaizen, leading to discussions on Kaizen events and their execution. A Kaizen event, for those who might have missed it, is typically a week-long session organized to address urgent business risks, address root causes, tackle cross-functional challenges, or uphold continuous improvement practices. We have already covered the first four steps of conducting a Kaizen event in previous posts, starting with [Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md) (steps 1, 2, and 3 in our 12-step guide), followed by [Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md) (step 4 of our guide). Now, moving on to step 5, Root Cause Analysis (RCA), we'll get into the nitty-gritty—kind of like finally figuring out where all those missing socks go in the laundry. Spoiler alert: We might not solve the mystery of the single socks, but at least we'll improve our processes!
