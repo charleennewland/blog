@@ -29,7 +29,7 @@ By integrating RCA into regular operations, companies can not only fix recurring
 
 The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and organizational (systemic flaws within the organization). Fixing these issues takes more than quick fixes; real problem-solving means making big changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
 
-**Here are the basic steps to follow when conducting a root cause analysis:**
+#### **Here are the basic steps to follow when conducting a root cause analysis:**
 
 1. **Data Collection:** Gather all relevant information about the issue.
 2. **Define the Problem:** Clearly describe the problem and its impact.
@@ -41,7 +41,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
   Interesting, right? But we're here to learn about the methods.
   Now, let's move on to exploring the RCA methods, which will help us tackle complex problems.
   
-**The various, commonly known tools used for Root Cause Analysis are:**
+#### **The various, commonly known tools used for Root Cause Analysis are:**
 - *Cause-and-effect Diagram (CED)* - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
 - *Interrelationship Diagram (ID)* - This helps clarify complex relationships among multiple factors, helping in identifying, analyzing, and classifying cause-and-effect relationships, but it may not explicitly point out root causes. [3]
 - *Current Reality Tree (CRT)* - Focuses on pinpointing root causes and identifying how different causes are connected by linking multiple factors to core problems. It's detailed but can be complicated and slow to build.[3]
