@@ -25,22 +25,9 @@ In our daily lives, we spend a lot of time trying to solve problems, both in our
 Root Cause Analysis (RCA) is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a methodical approach to identifying long-term solutions. 
 
 Root Cause Analysis (RCA) in [1] is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. 
-By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success. 
+By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success. The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and latent (systemic flaws within the organization). Addressing these requires more than just immediate fixes; effective problem-solving involves making substantial changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
 
-**The research in [2] (Techniques for Root Cause Analysis" by Patricia M. Williams) describes 3 types of root causes:**
-
-- **Physical Root Causes** - include tangible, identifiable faults such as broken machine parts or software malfunctions, representing the most immediate symptoms of deeper issues.
-Fixing these physical elements may solve the immediate problem but does not prevent future incidents without addressing the underlying causes.
-
-- **Human Root Causes** - human root causes stem from errors or poor decisions influenced by factors like inadequate training, unclear instructions, or fatigue.
-Addressing human root causes involves creating an environment that encourages learning from errors rather than assigning blame.
-
-- **Latent Root Causes** - latent root causes are systemic and organisational flaws such as poor design, inadequate maintenance schedules, or a non-supportive culture.
-Latent causes are challenging to identify and address because they need substantial organisational changes to prevent recurrence. Solving these issues is vital for long-term improvement, requiring modifications to the underlying systems, processes, or cultures that allow errors.
-
-The main takeaway here is that effective problem-solving requires addressing the deeper systemic and human factors beyond just the immediate physical causes. 
-
-**At its simplest, here are the steps to follow when conducting a root cause analysis:**
+**Here are the basic steps to follow when conducting a root cause analysis:**
 
 1. **Data Collection:** Gather all relevant information about the issue.
 2. **Define the Problem:** Clearly describe the problem and its impact.
@@ -113,7 +100,7 @@ So, to summarize:
 
 
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
->- [2] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [2] [Techniques for Root Cause Analysis" by Patricia M. Williams](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
