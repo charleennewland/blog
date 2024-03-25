@@ -130,8 +130,8 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 
 
 
->- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
->- [2] [Techniques for Root Cause Analysis" by Patricia M. Williams](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Root_Cause_Analysis.html?id=Kyl3U9wUoO8C&redir_esc=y)<br>
+>- [2] [Techniques for Root Cause Analysis" by Patricia M. Williams](https://www.tandfonline.com/doi/pdf/10.1080/08998280.2001.11927753)<br>
 >- [3] [Root Cause Analysis: A Framework for Tool Selection](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [4] [Juran, J. M. (1999). Juran's Quality Handbook (5th Edition). McGraw-Hill. ](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [5] [Kabir, S. (2017). An overview of fault tree analysis and its application in model based dependability analysis. Expert Systems with Applications, 77, 114-135.](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
