@@ -40,18 +40,17 @@ Latent causes are challenging to identify and address because they need substant
 
 The main takeaway here is that effective problem-solving requires addressing the deeper systemic and human factors beyond just the immediate physical causes. 
 
-**A RCA process involves the following key steps:**
+**At its simplest, here are the steps to follow when conducting a root cause analysis:**
 
-- **Data Collection:** Gather all relevant information about the issue.
-- **Define the Problem:** Clearly describe the problem and its impact.
-- **Identify Possible Causal Factors:** List all potential reasons that could have led to the issue.
-- **Identify the Root Cause:** Use RCA methods to drill down to the underlying cause.
-- **Recommend and Implement Solutions:** Propose solutions to address the root cause and put them into action.
-- **Monitor and Review:** Ensure the solutions are effective and prevent the recurrence of the issue.
+1. **Data Collection:** Gather all relevant information about the issue.
+2. **Define the Problem:** Clearly describe the problem and its impact.
+3. **Identify Possible Causal Factors:** List all potential reasons that could have led to the issue.
+4. **Identify the Root Cause:** Use RCA methods to drill down to the underlying cause.
+5. **Recommend and Implement Solutions:** Propose solutions to address the root cause and put them into action.
+6. **Monitor and Review:** Ensure the solutions are effective and prevent the recurrence of the issue.
 
-  In the next section, we'll explore the various tools available for conducting proper root cause analysis.
+  Now, let's have a look at the various tools available for conducting proper root cause analysis.
   
-
 **The various, commonly known tools used for Root Cause Analysis are:**
 - Cause-and-effect Diagram (CED) - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
 - Interrelationship Diagram (ID) - This helps clarify complex relationships among multiple factors, helping in identifying, analyzing, and classifying cause-and-effect relationships, but it may not explicitly point out root causes. [3]
