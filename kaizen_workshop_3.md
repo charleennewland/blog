@@ -50,23 +50,38 @@ The main takeaway here is that effective problem-solving requires addressing the
 - **Monitor and Review:** Ensure the solutions are effective and prevent the recurrence of the issue.
 
   In the next section, we'll explore the various tools available for conducting proper root cause analysis.
+  
 
+**The various, commonly known tools used for Root Cause Analysis are:**
+- Cause-and-effect Diagram (CED) - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
+- Interrelationship Diagram (ID) - This helps clarify complex relationships among multiple factors, helping in identifying, analyzing, and classifying cause-and-effect relationships, but it may not explicitly point out root causes. [3]
+- Current Reality Tree (CRT) - Focuses on pinpointing root causes and identifying how different causes are connected by linking multiple factors to core problems. It's detailed but can be complicated and slow to build.[3]
+- "Ask Why 5 Times" Technique - Involves asking "why" multiple times (typically five) to delve deeper into the cause of a problem. [2]
+- Causal Tree - Places the main event at the top and then goes backwards to find the causes and their interrelations, showing how different reasons are connected and finding ways to prevent errors from happening. [2]
+- Decision Table - Assesses actions by how serious they are, how likely they are to happen again, and detectability, helping in informed decision-making instead of knee-jerk reactions. [2]
+- Fishbone Diagrams (Ishikawa) - Helps identify multiple potential causes of a problem and categorise them. This tool is used to systematically break down factors leading to specific issues. [4] Juran, J. M. (1999). Juran's Quality Handbook (5th Edition). McGraw-Hill. 
+- Fault Tree Analysis (FTA) - Used primarily in technical or complex scenarios like airline mechanical failures. FTA helps trace back issues through a logical sequence to identify potential design flaws or system failures. [5] Kabir, S. (2017). An overview of fault tree analysis and its application in model based dependability analysis. Expert Systems with Applications, 77, 114-135.
+- Failure Modes and Effects Analysis (FMEA) - Is a systematic method for identifying potential failure modes within a process, product, or system, assessing their potential effects, and prioritizing actions to prevent them. Used not only for identifying potential product or process failures but also for risk management, quality improvement, safety analysis, cost reduction, design optimization, regulatory compliance, and supply chain management. [6] MIL-STD 1629A https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf
+- 
+These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences.
 
-**Navigating the Practical Jungle of Value Stream Mapping**
+**Here is a simple example of the 5 Whys technique applied to a problem:**
+**Problem: Product shipment is consistently delayed.**
+**First Why** - Why was the product shipment delayed?
+The packaging process took longer than expected.
+**Second Why** - Why did the packaging process take longer than expected?
+The packaging instructions were unclear.
+**Third Why** - Why were the packaging instructions unclear?
+They hadn't been updated to reflect changes in the product design.
+**Fourth Why** - Why hadn't the packaging instructions been updated?
+The process to regularly review and update procedures was not followed and there was no mechanism for identifying outdated procedures.
+**Fifth Why** - Why wasn't the process followed and why was there no mechanism for identifying outdated procedures?
+There was no systematic adherence control mechanism in place.
 
-Now that we've discussed the theoretical background, let's explore the practical steps needed to create a VSM. We'll use a call center with made-up figures as our example.
-As the needs of the customers of this call center have developed, the team recognizes the need to improve and elevate the services.
+**Root Cause:** The root cause of the shipment delays is the lack of a structured process for reviewing, updating, and adhering to procedures. 
+**Solution:** Implementing a clear process for updates, assigning responsibility, and establishing adherence control mechanisms such as routine audits, feedback loops, training sessions, responsibility assignments, and performance metrics can help prevent future shipment delays.
 
-Picture this: with colorful sticky notes, markers, and a whiteboard at hand, you and your team are all set to tackle the task of creating the Value Stream Map. If you find yourselves unsure of the next steps, don't worry — I'm here to help guide you through the process.
-
-Here are the steps you need to take:
-
-- **Draw the map:** Use a whiteboard, flip chart paper, or VSM software to create a visual representation of the current state of the value stream;
-- **Identify process steps** Map out the sequence of activities involved in delivering the product or service, including material and information flows;
-- **Capture metrics:** Collect data by gathering information on the time required to complete each step in the process. This can be achieved through observation, the use of time tracking software, or by seeking input from employees. Document key performance indicators (KPIs) such as cycle time, processing time, total time and process efficiency for each process step;
-- **Highlight waste:** Identify and mark areas of waste, including overproduction, waiting time, excess inventory, and unnecessary processing;
-- **Identify bottlenecks:** Determine points in the value stream where work accumulates or slows down, leading to inefficiencies;
-- **Evaluate flow:** Assess the smoothness and continuity of material and information flow throughout the value stream.
+>*To become familiar with RCA, try out my Excel-based root cause analysis template.Root Cause Analysis Template: 5 Whys Approach*
 
 After following the above mentioned steps, we end up with the following image, which is the current state map:
 <p align="center">
