@@ -81,8 +81,9 @@ There was no systematic adherence control mechanism in place.
 While a well-executed RCA can lead to real long-term solutions, there are still some limitations and challenges associated with it. 
 
 An RCA study in healthcare [7] lists several important points to be mindful of:
-- **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause. This belief can lead to an overly simplistic view. Adopting a systems thinking approach and encouraging collaborative problem-solving can help avoid oversimplification and ensure comprehensive solutions.
-   While the idea that every problem has a single root cause is a common belief in root cause analysis (RCA), not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
+- **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause.This belief can lead to an overly simplistic view. Adopting a systems thinking approach and encouraging collaborative problem-solving can help avoid oversimplification and ensure comprehensive solutions.
+
+ > While the idea that every problem has a single root cause is a common belief in root cause analysis (RCA), not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
 - **Focus on Solutions:** Often, RCAs result in solutions that emphasize quick administrative fixes over deeper, systemic changes, leading to risk controls that might not fully address the underlying problems. Avoid these by developing action plans and evaluating the effectiveness of the solution.
 - **Scope of Analysis:** Many RCAs examine incidents in isolation, within the limits of one department or organization, missing out on broader lessons that could lead to systemic changes. Avoid this by using thorough data collection and involving team members from different areas.
 
@@ -104,7 +105,8 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 - RCA Tools and Techniques: A variety of tools, from the 5 Whys technique to Fishbone Diagrams and Failure Modes and Effects Analysis, can help systematically uncover the underlying causes of issues, guiding towards better decision-making and preventive measures.
 - Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements.
 
-''' ### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
+***
+### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
 
   **Problem:** An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
 
@@ -121,7 +123,7 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
  - Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
  - Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the passenger counting process.
  - Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
- - The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.'''
+ - The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.
 ***
 
 - [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Root_Cause_Analysis.html?id=Kyl3U9wUoO8C&redir_esc=y)<br
