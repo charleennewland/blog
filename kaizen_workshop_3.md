@@ -25,7 +25,8 @@ In our daily lives, we spend a lot of time trying to solve problems, both in our
 Root Cause Analysis (RCA) is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a methodical approach to identifying long-term solutions. 
 
 Root Cause Analysis (RCA) in [1] is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. 
-By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success. The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and latent (systemic flaws within the organization). Addressing these requires more than just immediate fixes; effective problem-solving involves making substantial changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
+By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success.
+The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and latent (systemic flaws within the organization). Addressing these requires more than just immediate fixes; effective problem-solving involves making substantial changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
 
 **Here are the basic steps to follow when conducting a root cause analysis:**
 
@@ -36,7 +37,8 @@ By integrating RCA into regular operations, companies can not only fix recurring
 5. **Recommend and Implement Solutions:** Propose solutions to address the root cause and put them into action.
 6. **Monitor and Review:** Ensure the solutions are effective and prevent the recurrence of the issue.
 
-  Now, let's have a look at the various tools available for conducting proper root cause analysis.
+  Interesting, right? But we're here to learn about the methods.
+  Now, let's move on to exploring the SCA methods, which will help us tackle complex problems.
   
 **The various, commonly known tools used for Root Cause Analysis are:**
 - Cause-and-effect Diagram (CED) - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
