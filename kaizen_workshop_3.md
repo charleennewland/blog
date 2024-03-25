@@ -103,8 +103,8 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 - Understanding Problem Layers: Addressing problems requires more than just superficial fixes. By delving deeper into the root causes, whether they're physical, human, or latent, organizations can implement more effective and long-lasting solutions.
 - RCA Tools and Techniques: A variety of tools, from the 5 Whys technique to Fishbone Diagrams and Failure Modes and Effects Analysis, can help systematically uncover the underlying causes of issues, guiding towards better decision-making and preventive measures.
 - Practical Application and Challenges: While RCA offers significant benefits, it comes with challenges such as the misconception of single root causes and the need for a systematic approach to ensure real and long-term improvements.
-'''
- ### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
+
+''' ### **Root cause analysis by ThinkReliability titled "Incident: Unaccompanied Minor Flown to the Wrong City."**
 
   **Problem:** An unaccompanied minor was placed on the wrong flight by a U.S. airline, leading to the child flying to a different city than intended. This incident was not isolated; another similar occurrence happened the next day with the same airline.
 
