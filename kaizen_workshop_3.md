@@ -82,7 +82,7 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 **Solution:** Implementing a clear process for updates, assigning responsibility, and establishing adherence control mechanisms such as routine audits, feedback loops, training sessions, responsibility assignments, and performance metrics can help prevent future shipment delays.
 
->*To become familiar with RCA, try out my Root Cause Analysis Template: 5 Whys Approach
+To become familiar with RCA, try out my Root Cause Analysis Template: 5 Whys Approach.
 
 **Complexities and Challenges of RCA**
 
