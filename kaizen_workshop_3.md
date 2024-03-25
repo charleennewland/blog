@@ -50,7 +50,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
 - *Decision Table* - Assesses actions by how serious they are, how likely they are to happen again, and detectability, helping in informed decision-making instead of knee-jerk reactions. [2]
 - *Fishbone Diagrams (Ishikawa)* - Helps identify multiple potential causes of a problem and categorise them. This tool is used to systematically break down factors leading to specific issues. [4] 
 - *Fault Tree Analysis (FTA)* - Used primarily in technical or complex scenarios like airline mechanical failures. FTA helps trace back issues through a logical sequence to identify potential design flaws or system failures. [5] 
-- *Failure Modes and Effects Analysis (FMEA)* - Is a systematic method for identifying potential failure modes within a process, product, or system, assessing their potential effects, and prioritizing actions to prevent them. Used not only for identifying potential product or process failures but also for risk management, quality improvement, safety analysis, cost reduction, design optimization, regulatory compliance, and supply chain management. [6] MIL-STD 1629A https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf
+- *Failure Modes and Effects Analysis (FMEA)* - Is a systematic method for identifying potential failure modes within a process, product, or system, assessing their potential effects, and prioritizing actions to prevent them. Used not only for identifying potential product or process failures but also for risk management, quality improvement, safety analysis, cost reduction, design optimization, regulatory compliance, and supply chain management. [6] 
 
 These tools help in identifying not just what went wrong, but why it went wrong, helping in developing effective solutions to prevent future occurrences. Now, let's take a look at one of these RCA methods.
 
@@ -82,7 +82,7 @@ An RCA study in healthcare [7] lists several important points to be mindful of:
 - **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause. This belief can lead to an overly simplistic view. Avoid these by adopting a systems thinking approach and promoting collaborative problem-solving.
 - **Focus on Solutions:** Often, RCAs result in solutions that emphasize quick administrative fixes over deeper, systemic changes, leading to risk controls that might not fully address the underlying problems. Avoid these by developing action plans and evaluating the effectiveness of the solution.
 - **Scope of Analysis:** Many RCAs examine incidents in isolation, within the limits of one department or organization, missing out on broader lessons that could lead to systemic changes. Avoid this by using thorough data collection and involving team members from different areas.
-(from The Problem with Root Cause Analysis" by Mohammad Farhad Peerally, Susan Carr, Justin Waring, and Mary Dixon-Woods)
+
 
 **Cultivating Continuity**
 
@@ -94,7 +94,7 @@ There are several Root Cause Analysis (RCA) software options out there that can 
 
 In my next blog post, we will proceed with step six in our 12-step Kaizen guide. 
 
-So, to summarize:
+**So, to summarize**:
 
 - Root Cause Analysis (RCA) as a Crucial Element: RCA is essential in identifying the fundamental reasons behind issues, moving beyond temporary fixes to achieve sustainable solutions and fostering a culture of continuous improvement in line with Kaizen principles.
 - Understanding Problem Layers: Addressing problems requires more than just superficial fixes. By delving deeper into the root causes, whether they're physical, human, or latent, organizations can implement more effective and long-lasting solutions.
@@ -107,8 +107,8 @@ So, to summarize:
 >- [3] [Root Cause Analysis: A Framework for Tool Selection](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [4] [Juran, J. M. (1999). Juran's Quality Handbook (5th Edition). McGraw-Hill. ](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 >- [5] [Kabir, S. (2017). An overview of fault tree analysis and its application in model based dependability analysis. Expert Systems with Applications, 77, 114-135.](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
->- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
->- [1] [Root Cause Analysis Improving Performance for Bottom-Line Results](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
+>- [6] [MIL-STD 1629A](https://www.dsiintl.com/wp-content/uploads/2017/04/mil_std_1629a.pdf)<br>
+>- [7] [from The Problem with Root Cause Analysis" by Mohammad Farhad Peerally, Susan Carr, Justin Waring, and Mary Dixon-Woods](https://books.google.nl/books/about/Learning_to_See.html?id=mrNIH6Oo87wC&redir_esc=y )<br>
 
 
 >Related content:
@@ -117,7 +117,9 @@ So, to summarize:
 >- [Part II. Understanding the Basics: Driving Operational Excellence](https://github.com/charleennewland/blog/blob/post03/operational_excellence_pt2.md)
 >- [Part III. Unlocking the Potential of an Operational Excellence Maturity Model](https://github.com/charleennewland/blog/blob/post03/operational_excellence_maturity_model.md)
 >- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)
->- [Embracing Kaizen Part I: Your Guide to Planning and Executing Successful Process Improvement Workshops](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)       
+>- [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part I. Building a Culture of Continuous Improvement - Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)
+>- [Embracing Kaizen: Your Guide to Planning and Executing Successful Process Improvement Workshops Part II. Building a Culture of Continuous Improvement - Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md#part-ii-building-a-culture-of-continuous-improvement---value-stream-mapping)       
+       
 
 
 
