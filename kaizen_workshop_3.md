@@ -37,8 +37,7 @@ The research in [2] outlines three types of root causes: physical (tangible issu
 5. **Recommend and Implement Solutions:** Propose solutions to address the root cause and put them into action.
 6. **Monitor and Review:** Ensure the solutions are effective and prevent the recurrence of the issue.
 
-  Interesting, right? But we're here to learn about the methods.
-  Now, let's move on to exploring the RCA methods, which will help us tackle complex problems.
+These steps are as easy to follow as a recipe for toast, but as you can guess, the real challenge kicks in when we actually apply the RCA methodology – it's like cooking a five-course meal!
   
 #### - **The various, commonly known tools used for Root Cause Analysis are:**
 - *Cause-and-effect Diagram (CED)* - this tool helps in organizing possible reasons for a problem, fostering structure and promoting the collection of information. However, it might not pinpoint the exact root causes and could miss how these causes are connected. [3]
