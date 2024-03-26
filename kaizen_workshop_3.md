@@ -22,7 +22,7 @@ Both in our professional and personal lives, we spend a lot of time trying to so
 
 ### **What is Root Cause Analysis?**
 
-Root Cause Analysis (RCA) is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a methodical approach to leading to long-term solutions. 
+RCA is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a structured approach to long-term solutions. 
 
 Root Cause Analysis (RCA) in [1] is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. 
 By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success.
