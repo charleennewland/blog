@@ -78,7 +78,7 @@ These tools help in identifying not just what went wrong, but why it went wrong,
 
 While a well-executed RCA can lead to real long-term solutions, there are still some limitations and challenges associated with it. 
 
-An RCA study in healthcare [7] lists several important points to be mindful of:
+A RCA study in healthcare [7] lists several important points to be mindful of:
 - **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause. This belief can lead to an overly simplistic view. Adopting a systems thinking approach and encouraging collaborative problem-solving can help avoid oversimplification and ensure comprehensive solutions.
   * >While the idea that every problem has a single root cause is a common belief in RCA, not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
 - **Focus on Solutions:** Often, RCAs result in solutions that emphasize quick administrative fixes over deeper, systemic changes, leading to risk controls that might not fully address the underlying problems. Avoid these by developing action plans and evaluating the effectiveness of the solution.
@@ -88,7 +88,7 @@ An RCA study in healthcare [7] lists several important points to be mindful of:
 
 ### **Cultivating Continuity**
 
-After an RCA journey, it's crucial to not just applaud and move on but to lay down the tracks for continuous growth. This involves setting clear, actionable follow-up tasks, assigning caretakers for these tasks, and setting milestones to ensure they’re not just completed but integrated smoothly into the daily routines. Celebrate the wins, no matter how small, and use any setbacks as learning steps, not stumbling blocks.
+After a RCA journey, it's crucial to not just applaud and move on but to lay down the tracks for continuous growth. This involves setting clear, actionable follow-up tasks, assigning caretakers for these tasks, and setting milestones to ensure they’re not just completed but integrated smoothly into the daily routines. Celebrate the wins, no matter how small, and use any setbacks as learning steps, not stumbling blocks.
 
 ### **RCA Software**
 
