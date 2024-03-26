@@ -92,7 +92,7 @@ After a RCA journey, it's crucial to not just applaud and move on but to lay dow
 
 ### **RCA Software**
 
-There are several RCA software options out there that can help streamline the RCA process. Some of the best ones are SafetyCulture (used to be called iAuditor), TapRooT, Causelink, EHS Insight, Weever, EasyRCA by Reliability, and ThinkReliability. They come with stuff like digital checklists for RCA, data analysis, managing incidents, and ways for teams to collaborate on figuring things out.
+There are several RCA software options out there that can help streamline the RCA process. Some of the best ones are SafetyCulture (used to be called iAuditor), TapRooT, Causelink, EHS Insight, Weever, EasyRCA by Reliability, and ThinkReliability. They come with stuff like digital checklists for RCA, data analysis, managing incidents, and ways for teams to collaborate.
 
 In my next blog post, we will proceed with step six in our 12-step Kaizen guide. 
 
