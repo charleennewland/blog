@@ -117,7 +117,7 @@ In my next blog post, we will proceed with step six in our 12-step Kaizen guide.
 **Outcomes/Solutions:**
 
 - Reinforce Procedures: The initial solution proposed by the airline was to reinforce procedures with employees, a response deemed too generic and simplistic for the complex issue at hand.
-- Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the >passenger counting process.
+- Specific Process Improvements: The detailed analysis suggested the need for specific improvements to prevent reoccurrence, such as improving communication among staff, enhancing the boarding pass-checking process, and refining the passenger counting process.
 - Implement Process Maps: The study emphasizes the importance of using process maps to identify where breakdowns occurred and how to identify specific solutions.
 - The case highlights the necessity of detailed analysis and specific solutions beyond general procedural reinforcements to address systemic issues effectively and prevent future occurrences.
 ***
