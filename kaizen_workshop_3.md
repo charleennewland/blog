@@ -80,10 +80,11 @@ While a well-executed RCA can lead to real long-term solutions, there are still 
 
 An RCA study in healthcare [7] lists several important points to be mindful of:
 - **The Myth of the Single Root Cause:** One common misconception about RCA is the idea that every problem stems from a singular root cause. This belief can lead to an overly simplistic view. Adopting a systems thinking approach and encouraging collaborative problem-solving can help avoid oversimplification and ensure comprehensive solutions.
-  * >While the idea that every problem has a single root cause is a common belief in root cause analysis (RCA), not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
+  * >While the idea that every problem has a single root cause is a common belief in RCA, not everyone agrees with this perspective. Some individuals prefer to distinguish between immediate causes and deeper root causes, and they are welcome to do so. Ultimately, the goal is to address and resolve issues to prevent their recurrence, whether through identifying single root causes or multiple contributing factors. 
 - **Focus on Solutions:** Often, RCAs result in solutions that emphasize quick administrative fixes over deeper, systemic changes, leading to risk controls that might not fully address the underlying problems. Avoid these by developing action plans and evaluating the effectiveness of the solution.
 - **Scope of Analysis:** Many RCAs examine incidents in isolation, within the limits of one department or organization, missing out on broader lessons that could lead to systemic changes. Avoid this by using thorough data collection and involving team members from different areas.
 
+The study in [7] from a hospital setting highlights that despite conducting a RCA after a cataract surgery error, the hospital faced a repeated incident: the wrong lens was implanted again. This example underscores a critical gap in the learning and application process post-RCA, suggesting that merely identifying errors and proposing changes is not sufficient. It emphasizes the necessity of not only implementing but also actively monitoring and adapting corrective actions, ensuring that RCA leads to tangible improvements and prevents the recurrence of errors.
 
 ### **Cultivating Continuity**
 
