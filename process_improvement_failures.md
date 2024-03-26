@@ -3,7 +3,7 @@
 >[Charleen Newland](http://newlandcharleen.com/)<br/>
 >*July 3, 2023*<br/>
 
->*Reading Time: 3 mins*
+>*Reading Time: 3 min*
 
 <p align="center">
   <img width="460" height="300" src="https://github.com/charleennewland/blog/assets/138404574/40746539-68b5-4d05-9335-95e94ec31a8d/460/300">
@@ -29,7 +29,7 @@ While doing some research for a survey paper that I am writing on continuous imp
 - Inconsistent monitoring and control (lack of expert supervision)
 - Resistance to change (partial cooperation by employees).
 
-These reasons are very interesting and every individual will rate these differently based on their situation. We could go into each of these reasons as separate topics, but to keep this post short, let's have a look at the two most common reasons of improvement project failures (as chosen by respondents in the study).
+These reasons are all very interesting, and each individual may assess them differently based on their circumstances and personal experience. While we could delve into each reason as a separate topic, to keep this post short, let's focus on the two most common reasons for improvement project failures, as indicated by respondents in the study.
 					
 ### *I. Resistance to change (partial cooperation by employees)*
 
