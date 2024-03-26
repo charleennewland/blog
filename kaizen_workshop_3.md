@@ -24,8 +24,7 @@ Both in our professional and personal lives, we spend a lot of time trying to so
 
 RCA is a key part of managing risks and is used in many areas like quality control, engineering, healthcare, and business to find long-term solutions and help with continuous improvement. It aligns with the Kaizen philosophy by providing a structured approach to long-term solutions. 
 
-RCA is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. [1]
-By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success.
+RCA is defined as a process used to identify the fundamental cause of a problem or incident to prevent its recurrence. This involves not just fixing the immediate issue but examining deeper, systemic issues that lead to the problem. [1] By integrating RCA into regular operations, companies can not only fix recurring issues more effectively but also adopt a more proactive approach to risk management and continuous improvement, leading to more sustainable, long-term operational success.
 
 The research in [2] outlines three types of root causes: physical (tangible issues like broken parts), human (errors due to factors like poor training), and organizational (systemic flaws within the organization). Fixing these issues takes more than quick fixes; real problem-solving means making big changes to systems, processes, and culture to prevent recurrence and achieve long-term improvement.
 
