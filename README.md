@@ -7,4 +7,4 @@
 >- [Visual Management's Gift to Organizational Communication](https://github.com/charleennewland/blog/blob/post03/visual_management.md)    
 >- [Embracing Kaizen Part I: Your Guide to Planning and Executing Successful Process Improvement Workshops. Building a Culture of Continuous Improvement - Teams, Goals, and Gemba Walks](https://github.com/charleennewland/blog/blob/main/kaizen_workshops.md)    
 >- [Embracing Kaizen Part II: Your Guide to Planning and Executing Successful Process Improvement Workshops. Building a Culture of Continuous Improvement - Value Stream Mapping](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_2.md)    
->- [Embracing Kaizen Part II: Your Guide to Planning and Executing Successful Process Improvement Workshops. Building a Culture of Continuous Improvement - Root Cause Analysis](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_3.md)  
+>- [Embracing Kaizen Part III: Your Guide to Planning and Executing Successful Process Improvement Workshops. Building a Culture of Continuous Improvement - Root Cause Analysis](https://github.com/charleennewland/blog/blob/main/kaizen_workshop_3.md)  
